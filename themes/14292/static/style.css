@@ -1,0 +1,72 @@
+@charset "utf-8";
+
+:root {
+	--background-color: #000000;
+	--foreground-color: #FFFFFF;
+	--inactive-color: #FFFFFF7F;
+	--accent-color: #FBAAC0;
+	--transition-duration: 0.1s;
+}
+
+* {
+	font-size: 11px;
+	font-family: "Source Code Pro", "font", "monospace";
+	color: var(--foreground-color);
+}
+
+::selection {
+	background: var(--foreground-color);
+	color: var(--background-color);
+}
+
+@font-face {
+	font-family: "font";
+	src: url("font.woff2");
+}
+
+body {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+	min-height: 100vh;
+	padding: 0;
+	margin: 0;
+	background: var(--background-color);
+	overflow-x: hidden
+}
+
+hr {
+	border: solid 1px var(--inactive-color);
+}
+
+#name {
+	line-height: 60px;
+	font-size: 36px;
+}
+
+#links a {
+	display: block;
+	width: 100%;
+	line-height: 48px;
+	text-decoration: none;
+	font-size: 24px;
+	color: var(--inactive-color);
+	transition: var(--transition-duration);
+}
+
+#links a:hover {
+	color: var(--accent-color);
+}
+
+#more-links {
+	display: none;
+}
+
+#more:target > a {
+	display: none;
+}
+#more:target > #more-links {
+	display: block;
+}

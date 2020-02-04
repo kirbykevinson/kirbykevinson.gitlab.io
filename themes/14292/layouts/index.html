@@ -1,0 +1,22 @@
+{{ define "main" }}
+	<div id="name">{{ .Site.Title }}</div>
+	
+	<div id="links">
+		{{ range .Site.Data.links.main }}
+			<a href="{{ .link }}">@{{ .site }}</a>
+		{{ end }}
+		
+		<div id="more">
+			<a
+				href="#more"
+			>Show more links</a>
+			<div id="more-links">
+				<hr>
+				
+				{{ range .Site.Data.links.secondary }}
+					<a href="{{ .link }}">@{{ .site }}</a>
+				{{ end }}
+			</div>
+		</div>
+	</div>
+{{ end }}
