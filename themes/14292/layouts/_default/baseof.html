@@ -2,14 +2,22 @@
 
 <html>
 	<head>
-		<title>{{ .Site.Title }} {{ with .Params.Title }} | {{ . }}{{ end }}</title>
+		<title>{{ block "title" . }}
+			{{ .Title }} | {{ .Site.Title }}
+		{{ end }}</title>
 		
 		<meta charset="utf-8">
 		
-		<link href="style.css" rel="stylesheet">
+		<link href="/style.css" rel="stylesheet">
 	</head>
 	
 	<body lang="{{ $.Site.LanguageCode | default "en" }}">
-		<main>{{ block "main" . }}{{ end }}</main>
+		<main>
+			{{ block "heading" . }}
+				{{ partial "breadcrumbs.html" . }}
+			{{ end }}
+			
+			{{ block "main" . }} {{ .Content }} {{ end }}
+		</main>
 	</body>
 </html>

@@ -7,7 +7,10 @@
 		{
 			"site": "gitlab.com",
 			"link": "https://gitlab.com/kirbykevinson"
-		},
+		}
+	],
+	
+	"secondary": [
 		{
 			"site": "twitter.com",
 			"link": "https://twitter.com/kirbykevinson"
@@ -15,10 +18,7 @@
 		{
 			"site": "reddit.com",
 			"link": "https://www.reddit.com/user/kirbykevinson"
-		}
-	],
-	
-	"secondary": [
+		},
 		{
 			"site": "news.ycombinator.com",
 			"link": "https://news.ycombinator.com/user?id=kirbykevinson"

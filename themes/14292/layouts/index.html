@@ -1,7 +1,11 @@
+{{ define "title" }} {{ .Site.Title }} {{ end }}
+
 {{ define "main" }}
-	<div id="name">{{ .Site.Title }}</div>
+	{{ .Content }}
 	
 	<div id="links">
+		{{ partial "contents.html" . }}
+		
 		{{ range .Site.Data.links.main }}
 			<a href="{{ .link }}">@{{ .site }}</a>
 		{{ end }}

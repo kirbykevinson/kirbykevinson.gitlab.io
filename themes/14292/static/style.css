@@ -9,7 +9,7 @@
 }
 
 * {
-	font-size: 11px;
+	font-size: 24px;
 	font-family: "Source Code Pro", "font", "monospace";
 	color: var(--foreground-color);
 }
@@ -26,7 +26,6 @@
 
 body {
 	display: flex;
-	flex-direction: row;
 	justify-content: center;
 	align-items: center;
 	width: 100%;
@@ -34,16 +33,30 @@ body {
 	padding: 0;
 	margin: 0;
 	background: var(--background-color);
-	overflow-x: hidden
+}
+
+main {
+	max-width: 40em;
+	margin: 16px;
 }
 
 hr {
 	border: solid 1px var(--inactive-color);
 }
 
-#name {
-	line-height: 60px;
+h1 {
+	margin: 7px 0;
 	font-size: 36px;
+	font-weight: normal;
+}
+
+h1 a {
+	text-decoration: none;
+	font-size: inherit;
+}
+
+h1 a:hover {
+	text-decoration: underline;
 }
 
 #links a {
@@ -51,7 +64,6 @@ hr {
 	width: 100%;
 	line-height: 48px;
 	text-decoration: none;
-	font-size: 24px;
 	color: var(--inactive-color);
 	transition: var(--transition-duration);
 }
