@@ -1,6 +1,4 @@
-<h1>
-	{{ template "breadcrumb" (dict "page" . "self" .) }}
-</h1>
+{{ template "breadcrumb" (dict "page" . "self" .) }}
 
 {{ define "breadcrumb" }}
 	{{ if .page.Parent }}

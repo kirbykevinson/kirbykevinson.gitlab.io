@@ -2,16 +2,18 @@
 
 :root {
 	--background-color: #000000;
-	--foreground-color: #FFFFFF;
-	--inactive-color: #FFFFFF7F;
+	--foreground-color: #FFFFFFCF;
+	--subtle-color: #FFFFFF3F;
 	--accent-color: #FBAAC0;
-	--transition-duration: 0.1s;
+	--border-radius: 4px;
 }
 
 * {
-	font-size: 24px;
-	font-family: "Source Code Pro", "font", "monospace";
+	font-family: "Source Sans Pro", "sans-serif";
 	color: var(--foreground-color);
+	transition: 0.1s;
+	scrollbar-width: thin;
+	scrollbar-color: var(--foreground-color) var(--subtle-color);
 }
 
 ::selection {
@@ -20,8 +22,12 @@
 }
 
 @font-face {
-	font-family: "font";
-	src: url("font.woff2");
+	font-family: "Source Sans Pro";
+	src: url("source-sans-pro.woff2");
+}
+@font-face {
+	font-family: "Source Code Pro";
+	src: url("source-code-pro.woff2");
 }
 
 body {
@@ -32,49 +38,66 @@ body {
 	min-height: 100vh;
 	padding: 0;
 	margin: 0;
+	line-height: 1.5;
+	font-size: 18pt;
 	background: var(--background-color);
 }
 
 main {
-	max-width: 25em;
+	max-width: 30em;
 	margin: 16px;
 }
 
 hr {
-	border: solid 1px var(--inactive-color);
+	border: solid 1px var(--subtle-color);
 }
 
-h1 {
-	margin: 16px 0;
-	font-size: 36px;
-	font-weight: normal;
+nav, nav a, #links, #links a, pre, code {
+	font-family: "Source Code Pro", "monospace";
 }
 
-h1 a {
+pre, code {
+	padding: 2px 4px;
+	font-size: 0.875em;
+	border: solid 1px var(--subtle-color);
+	border-radius: var(--border-radius);
+	overflow: auto;
+}
+
+pre *, code * {
+	padding: 0;
+	font-size: inherit;
+	border: none;
+}
+
+nav {
+	margin: 8px 0;
+	font-size: 1.25em;
+}
+
+a {
+	color: var(--accent-color);
+	text-decoration: none;
+}
+
+a:hover {
+	opacity: 0.5;
+}
+
+nav a {
 	display: block;
 	width: 100%;
-	text-decoration: none;
 	font-size: inherit;
+	color: var(--foreground-color);
 }
-h1 a:not(:first-child)::before {
+nav a:not(:first-child)::before {
 	content: "/";
-}
-
-h1 a:hover {
-	text-decoration: underline;
 }
 
 #links a {
 	display: block;
 	width: 100%;
 	line-height: 48px;
-	text-decoration: none;
-	color: var(--inactive-color);
-	transition: var(--transition-duration);
-}
-
-#links a:hover {
-	color: var(--accent-color);
 }
 
 #more-links {

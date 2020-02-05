@@ -14,7 +14,9 @@
 	<body lang="{{ $.Site.LanguageCode | default "en" }}">
 		<main>
 			{{ block "heading" . }}
-				{{ partial "breadcrumbs.html" . }}
+				<nav>{{ partial "breadcrumbs.html" . }}</nav>
+				
+				<hr>
 			{{ end }}
 			
 			{{ block "main" . }}{{ end }}
