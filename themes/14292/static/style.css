@@ -1,15 +1,20 @@
 @charset "utf-8";
 
 :root {
+	--border-radius: 4px;
 	--background-color: #000000;
 	--foreground-color: #FFFFFFCF;
 	--subtle-color: #FFFFFF3F;
 	--accent-color: #FBAAC0;
-	--border-radius: 4px;
+	--emoji-fonts:
+		"Apple Color Emoji",
+		"Segoe UI Emoji",
+		"Noto Color Emoji",
+		"Twemoji"
 }
 
 * {
-	font-family: "Source Sans Pro", "sans-serif";
+	font-family: "Source Sans Pro", "sans-serif", var(--emoji-fonts);
 	color: var(--foreground-color);
 	transition: 0.1s;
 	scrollbar-width: thin;
@@ -50,6 +55,10 @@ main {
 
 hr {
 	border: solid 1px var(--subtle-color);
+}
+
+ul, ol {
+	padding-right: 40px;
 }
 
 nav, nav a, #links, #links a, pre, code {

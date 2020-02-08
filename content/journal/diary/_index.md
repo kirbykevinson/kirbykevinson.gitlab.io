@@ -2,4 +2,4 @@
 title: "Diary"
 ---
 
-To be filled
+Please, do not read :)
