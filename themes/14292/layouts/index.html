@@ -3,9 +3,8 @@
 {{ define "main" }}
 	{{ .Content }}
 	
-	<div id="links">
-		{{ partial "contents.html" . }}
-		
+	{{ partial "contents.html" . }}
+	<nav class="contents">
 		{{ range .Site.Data.links.main }}
 			<a href="{{ .link }}">@{{ .site }}</a>
 		{{ end }}

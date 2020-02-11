@@ -1,4 +1,6 @@
-{{ template "breadcrumb" (dict "page" . "self" .) }}
+<nav class="breadcrumbs">
+	{{ template "breadcrumb" (dict "page" . "self" .) }}
+</nav>
 
 {{ define "breadcrumb" }}
 	{{ if .page.Parent }}

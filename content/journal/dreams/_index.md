@@ -1,5 +1,7 @@
 ---
 title: "Dreams"
+
+reverseSort: true
 ---
 
 Almost every dream description is transported either from social media

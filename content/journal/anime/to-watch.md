@@ -1,5 +1,5 @@
 ---
-title: "Anime to watch"
+title: "To watch"
 ---
 
 * Boku no Pico

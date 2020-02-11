@@ -1,5 +1,7 @@
 ---
-title: "Anime watched"
+title: "Anime"
+
+reverseSort: true
 ---
 
 Here I just keep track of the anime I watch.

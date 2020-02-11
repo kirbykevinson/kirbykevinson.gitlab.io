@@ -1,3 +1,11 @@
-{{ range .Pages }}
-	<a href="{{ .Permalink }}">/{{ .Title }}</a>
-{{ end }}
+<nav class="contents">
+	{{ if .Params.reverseSort }}
+		{{ range .Pages.Reverse }}
+			<a href="{{ .Permalink }}">/{{ .Title }}</a>
+		{{ end }}
+	{{ else }}
+		{{ range .Pages }}
+			<a href="{{ .Permalink }}">/{{ .Title }}</a>
+		{{ end }}
+	{{ end }}
+</nav>

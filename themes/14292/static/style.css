@@ -61,7 +61,9 @@ ul, ol {
 	padding-right: 40px;
 }
 
-nav, nav a, #links, #links a, pre, code {
+.breadcrumbs, .breadcrumbs a,
+.contents, .contents a,
+pre, code {
 	font-family: "Source Code Pro", "monospace";
 }
 
@@ -79,7 +81,7 @@ pre *, code * {
 	border: none;
 }
 
-nav {
+.breadcrumbs {
 	margin: 8px 0;
 	font-size: 1.25em;
 }
@@ -93,17 +95,17 @@ a:hover {
 	opacity: 0.5;
 }
 
-nav a {
+.breadcrumbs a {
 	display: block;
 	width: 100%;
 	font-size: inherit;
 	color: var(--foreground-color);
 }
-nav a:not(:first-child)::before {
+.breadcrumbs a:not(:first-child)::before {
 	content: "/";
 }
 
-#links a {
+.contents a {
 	display: block;
 	width: 100%;
 	line-height: 48px;
