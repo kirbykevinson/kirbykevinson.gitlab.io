@@ -1,11 +1,11 @@
 <nav class="contents">
+	{{ $pages := .Pages }}
+	
 	{{ if .Params.reverseSort }}
-		{{ range .Pages.Reverse }}
-			<a href="{{ .Permalink }}">/{{ .Title }}</a>
-		{{ end }}
-	{{ else }}
-		{{ range .Pages }}
-			<a href="{{ .Permalink }}">/{{ .Title }}</a>
-		{{ end }}
+		{{ $pages = .Pages.Reverse }}
+	{{ end }}
+	
+	{{ range $pages }}
+		<a href="{{ .Permalink }}">/{{ .Title }}</a>
 	{{ end }}
 </nav>

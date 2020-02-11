@@ -61,9 +61,19 @@ ul, ol {
 	padding-right: 40px;
 }
 
+a {
+	color: var(--accent-color);
+	text-decoration: none;
+}
+
+a:hover {
+	opacity: 0.5;
+}
+
+pre, code,
 .breadcrumbs, .breadcrumbs a,
 .contents, .contents a,
-pre, code {
+.page-title {
 	font-family: "Source Code Pro", "monospace";
 }
 
@@ -82,33 +92,34 @@ pre *, code * {
 }
 
 .breadcrumbs {
-	margin: 8px 0;
-	font-size: 1.25em;
-}
-
-a {
-	color: var(--accent-color);
-	text-decoration: none;
-}
-
-a:hover {
-	opacity: 0.5;
+	display: flex;
+	flex-wrap: wrap;
 }
 
 .breadcrumbs a {
-	display: block;
-	width: 100%;
-	font-size: inherit;
+	margin-right: 0.5em;
 	color: var(--foreground-color);
 }
-.breadcrumbs a:not(:first-child)::before {
+
+.breadcrumbs a:not(:first-child)::before,
+.page-title:not(.home) a::before{
 	content: "/";
+}
+
+.page-title {
+	margin: 0;
+	font-size: 1.25em;
+	font-weight: normal;
+}
+
+.page-title a {
+	font-family: inherit;
+	color: var(--foreground-color);
 }
 
 .contents a {
 	display: block;
-	width: 100%;
-	line-height: 48px;
+	line-height: 2;
 }
 
 #more-links {

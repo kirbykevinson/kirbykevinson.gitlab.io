@@ -1,7 +1,7 @@
 {{ define "main" }}
 	{{ .Content }}
-	
-	<div id="links">
-		{{ partial "contents.html" . }}
-	</div>
+{{ end }}
+
+{{ define "footer" }}
+	{{ partial "contents.html" . }}
 {{ end }}

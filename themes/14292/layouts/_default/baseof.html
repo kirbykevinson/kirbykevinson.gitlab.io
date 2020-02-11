@@ -7,19 +7,28 @@
 		{{ end }}</title>
 		
 		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
 		
 		<link href="/style.css" rel="stylesheet">
 	</head>
 	
 	<body lang="{{ $.Site.LanguageCode | default "en" }}">
 		<main>
-			{{ block "heading" . }}
-				<nav>{{ partial "breadcrumbs.html" . }}</nav>
-				
-				<hr>
-			{{ end }}
+			<header>
+				{{ block "header" . }}
+					{{ partial "breadcrumbs.html" . }}
+					
+					<hr>
+				{{ end }}
+			</header>
 			
-			{{ block "main" . }}{{ end }}
+			<article>
+				{{ block "main" . }}{{ end }}
+			</article>
+			
+			<footer>
+				{{ block "footer" . }}{{ end }}
+			</footer>
 		</main>
 	</body>
 </html>

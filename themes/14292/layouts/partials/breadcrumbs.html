@@ -2,6 +2,10 @@
 	{{ template "breadcrumb" (dict "page" . "self" .) }}
 </nav>
 
+<h1
+	class="page-title {{ if .IsHome }} home {{ end }}"
+><a href=".">{{ .Title }}</a></h1>
+
 {{ define "breadcrumb" }}
 	{{ if .page.Parent }}
 		{{ template "breadcrumb" (dict "page" .page.Parent "self" .self) }}
@@ -9,5 +13,7 @@
 		{{ template "breadcrumb" (dict "page" .page.Site.Home "self" .self) }}
 	{{ end }}
 	
-	<a href="{{ .page.Permalink }}">{{ .page.Title }}</a>
+	{{ if ne .page .self }}
+		<a href="{{ .page.Permalink }}">{{ .page.Title }}</a>
+	{{ end }}
 {{ end }}
