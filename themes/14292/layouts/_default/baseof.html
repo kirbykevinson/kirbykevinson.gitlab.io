@@ -13,7 +13,7 @@
 	</head>
 	
 	<body lang="{{ $.Site.LanguageCode | default "en" }}">
-		<main>
+		<div class="wrapper">
 			<header>
 				{{ block "header" . }}
 					{{ partial "breadcrumbs.html" . }}
@@ -22,13 +22,13 @@
 				{{ end }}
 			</header>
 			
-			<article>
+			<main>
 				{{ block "main" . }}{{ end }}
-			</article>
+			</main>
 			
 			<footer>
 				{{ block "footer" . }}{{ end }}
 			</footer>
-		</main>
+		</div>
 	</body>
 </html>
