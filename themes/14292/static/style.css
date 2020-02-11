@@ -66,6 +66,13 @@ a {
 	text-decoration: none;
 }
 
+a.page::before {
+	content: "/";
+}
+a.link::before {
+	content: "@";
+}
+
 a:hover {
 	opacity: 0.5;
 }

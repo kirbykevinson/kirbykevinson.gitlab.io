@@ -6,6 +6,6 @@
 	{{ end }}
 	
 	{{ range $pages }}
-		<a href="{{ .Permalink }}">/{{ .Title }}</a>
+		<a href="{{ .Permalink }}" class="page">{{ .Title }}</a>
 	{{ end }}
 </nav>

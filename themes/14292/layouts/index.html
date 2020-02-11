@@ -6,7 +6,7 @@
 	{{ partial "contents.html" . }}
 	<nav class="contents">
 		{{ range .Site.Data.links.main }}
-			<a href="{{ .link }}">@{{ .site }}</a>
+			<a href="{{ .link }}" class="link">{{ .site }}</a>
 		{{ end }}
 		
 		<div id="more">
@@ -17,7 +17,7 @@
 				<hr>
 				
 				{{ range .Site.Data.links.secondary }}
-					<a href="{{ .link }}">@{{ .site }}</a>
+					<a href="{{ .link }}" class="link">{{ .site }}</a>
 				{{ end }}
 			</div>
 		</div>
