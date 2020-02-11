@@ -1,10 +1,10 @@
 name = "14292"
 license = "0BSD"
-#licenselink = "https://github.com/yourname/yourtheme/blob/master/LICENSE"
+licenselink = "https://gitlab.com/kirbykevinson/kirbykevinson.gitlab.io/-/blob/master/themes/14292/LICENSE"
 description = "A theme, I guess?"
-#homepage = "http://example.com/"
-#tags = []
-#features = []
+homepage = "https://kirbykevinson.gitlab.io/"
+tags = []
+features = []
 min_version = "0.41"
 
 [author]
