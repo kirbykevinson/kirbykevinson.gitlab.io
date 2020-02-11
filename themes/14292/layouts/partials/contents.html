@@ -1,8 +1,8 @@
 <nav class="contents">
-	{{ $pages := .Pages }}
+	{{ $pages := .Pages.ByTitle }}
 	
 	{{ if .Params.reverseSort }}
-		{{ $pages = .Pages.Reverse }}
+		{{ $pages = $pages.Reverse }}
 	{{ end }}
 	
 	{{ range $pages }}

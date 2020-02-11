@@ -18,6 +18,12 @@
 				{{ block "header" . }}
 					{{ partial "breadcrumbs.html" . }}
 					
+					<div class="metadata">
+						{{ block "metadata" . }}
+								{{ partial "date.html" . }}
+						{{ end }}
+					</div>
+					
 					<hr>
 				{{ end }}
 			</header>

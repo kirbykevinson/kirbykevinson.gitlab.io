@@ -1,0 +1,15 @@
+{{ define "main" }}
+	{{ range .Paginator.Pages }}
+		<article>
+			<h2 class="page-title">
+				<a href="{{ .URL }}">{{ .Title }}</a>
+			</h2>
+			
+			<div class="metadata">
+				{{ partial "date" . }}
+			</div>
+		</article>
+	{{ end }}
+	
+	{{ template "_internal/pagination.html" . }}
+{{ end }}
