@@ -4,7 +4,7 @@ title: "Anime"
 reverseSort: true
 ---
 
-Here I just keep track of the anime I watch.
+Every anime I've ever seen is described and rated here.
 
 The rating system is about as follows:
 
