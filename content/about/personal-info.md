@@ -13,6 +13,8 @@ title: "Personal info"
 * Religion: N/A
 * Political views: democratic socialist, I guess?
 * Intelligence: N/A
+* Talents: N/A
+* Skills: N/A
 * Civil status: N/A
 * Economy: N/A
 * Wakes up every day with insane hatred to everything, including
