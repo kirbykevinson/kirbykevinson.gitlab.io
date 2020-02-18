@@ -2,9 +2,7 @@
 	{{ template "breadcrumb" (dict "page" . "self" .) }}
 </nav>
 
-<h1
-	class="page-title {{ if .IsHome }} home {{ end }}"
-><a href=".">{{ .Title }}</a></h1>
+<h1 class="page-title"><a href=".">{{ .Title }}</a></h1>
 
 {{ define "breadcrumb" }}
 	{{ if .page.Parent }}

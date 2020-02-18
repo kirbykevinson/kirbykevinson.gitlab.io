@@ -12,8 +12,12 @@
 		<link href="/style.css" rel="stylesheet">
 	</head>
 	
-	<body lang="{{ $.Site.LanguageCode | default "en" }}">
-		<div class="wrapper">
+	<body
+		{{ if .IsHome }} class="home" {{ end }}
+		
+		lang="{{ $.Site.LanguageCode | default "en" }}"
+	>
+		<div class="page-wrapper">
 			<header>
 				{{ block "header" . }}
 					{{ partial "breadcrumbs.html" . }}

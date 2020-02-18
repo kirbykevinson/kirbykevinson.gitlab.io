@@ -44,17 +44,23 @@ body {
 	padding: 0;
 	margin: 0;
 	line-height: 1.5;
-	font-size: 18pt;
+	font-size: 16pt;
 	background: var(--background-color);
 }
+body.home {
+	font-size: 18pt;
+}
 
-.wrapper {
-	max-width: 30em;
+.page-wrapper {
+	max-width: 32em;
 	margin: 16px;
+}
+body:not(.home) .page-wrapper {
+	flex-grow: 1;
 }
 
 article {
-	margin-bottom: 32px;;
+	margin-bottom: 32px;
 }
 
 hr {
@@ -122,14 +128,17 @@ pre *, code * {
 }
 
 .breadcrumbs a:not(:first-child)::before,
-.page-title:not(.home) a::before{
+body:not(.home) .page-title a::before {
 	content: "/";
 }
 
 .page-title {
 	margin: 0;
-	font-size: 1.25em;
+	font-size: 1.5em;
 	font-weight: normal;
+}
+body.home .page-title, article .page-title {
+	font-size: 1.25em;
 }
 
 .page-title a {
