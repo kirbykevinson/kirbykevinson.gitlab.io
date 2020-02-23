@@ -1,15 +1,15 @@
-{{ define "main" }}
-	{{ range .Paginator.Pages }}
-		<article>
-			<h2 class="page-title">
-				<a href="{{ .URL }}">{{ .Title }}</a>
-			</h2>
-			
-			<div class="metadata">
-				{{ partial "date" . }}
-			</div>
-		</article>
-	{{ end }}
+{{ define "footer" }}
+	<nav class="contents">
+		{{ range .Paginator.Pages }}
+			<article>
+				<a href="{{ .URL }}" class="page">{{ .Title }}</a>
+				
+				<div class="metadata">
+					{{ partial "date" . }}
+				</div>
+			</article>
+		{{ end }}
+	</nav>
 	
 	{{ template "_internal/pagination.html" . }}
 {{ end }}

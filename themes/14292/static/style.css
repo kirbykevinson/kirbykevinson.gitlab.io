@@ -47,9 +47,6 @@ body {
 	font-size: 16pt;
 	background: var(--background-color);
 }
-body.home {
-	font-size: 18pt;
-}
 
 .page-wrapper {
 	max-width: 32em;
@@ -57,10 +54,6 @@ body.home {
 }
 body:not(.home) .page-wrapper {
 	flex-grow: 1;
-}
-
-article {
-	margin-bottom: 32px;
 }
 
 hr {
@@ -137,9 +130,6 @@ body:not(.home) .page-title a::before {
 	font-size: 1.5em;
 	font-weight: normal;
 }
-body.home .page-title, article .page-title {
-	font-size: 1.25em;
-}
 
 .page-title a {
 	font-family: inherit;
@@ -149,16 +139,17 @@ body.home .page-title, article .page-title {
 .contents a {
 	display: block;
 	line-height: 2;
+	font-size: 1.125em;
 }
 
-#more-links {
+#more > *:not(:first-child) {
 	display: none;
 }
 
-#more:target > a {
+#more:target > *:first-child {
 	display: none;
 }
-#more:target > #more-links {
+#more:target > *:not(:first-child) {
 	display: block;
 }
 
@@ -167,14 +158,6 @@ body.home .page-title, article .page-title {
 	justify-content: center;
 	padding: 0;
 	list-style-type: none;
-}
-
-.page-link {
-	display: block;
-	width: 1.5em;
-	height: 1.5em;
-	text-align: center;
-	border-radius: 50%;
 }
 
 .page-item.disabled * {
@@ -187,4 +170,12 @@ body.home .page-title, article .page-title {
 .page-item.active .page-link {
 	color: var(--background-color);
 	background: var(--accent-color);
+}
+
+.page-link {
+	display: block;
+	width: 1.5em;
+	height: 1.5em;
+	text-align: center;
+	border-radius: 50%;
 }

@@ -13,13 +13,12 @@
 			<a
 				href="#more"
 			>Show more links</a>
-			<div id="more-links">
-				<hr>
-				
-				{{ range .Site.Data.links.secondary }}
-					<a href="{{ .link }}" class="link">{{ .site }}</a>
-				{{ end }}
-			</div>
+			
+			<hr>
+			
+			{{ range .Site.Data.links.secondary }}
+				<a href="{{ .link }}" class="link">{{ .site }}</a>
+			{{ end }}
 		</div>
 	</div>
 {{ end }}
