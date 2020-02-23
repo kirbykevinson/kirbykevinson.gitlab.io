@@ -1,16 +1,17 @@
 @charset "utf-8";
 
 :root {
+	--emoji-fonts:
+		"Apple Color Emoji",
+		"Segoe UI Emoji",
+		"Noto Color Emoji",
+		"Twemoji";
+	--border-width: 2px;
 	--border-radius: 4px;
 	--background-color: #1E191D;
 	--foreground-color: #FFFFFFCF;
 	--subtle-color: #FFFFFF3F;
 	--accent-color: #FBAAC0;
-	--emoji-fonts:
-		"Apple Color Emoji",
-		"Segoe UI Emoji",
-		"Noto Color Emoji",
-		"Twemoji"
 }
 
 * {
@@ -57,7 +58,7 @@ body:not(.home) .page-wrapper {
 }
 
 hr {
-	border: solid 1px var(--subtle-color);
+	border: solid calc(var(--border-width) / 2) var(--subtle-color);
 }
 
 ul, ol {
@@ -90,7 +91,7 @@ pre, code,
 pre, code {
 	padding: 2px 4px;
 	font-size: 0.875em;
-	border: solid 1px var(--subtle-color);
+	border: solid var(--border-width) var(--subtle-color);
 	border-radius: var(--border-radius);
 	overflow: auto;
 }
@@ -99,6 +100,13 @@ pre *, code * {
 	padding: 0;
 	font-size: inherit;
 	border: none;
+}
+
+blockquote {
+	margin-left: 0;
+	margin-right: 1em;
+	padding-left: 1em;
+	border-left: solid var(--border-width) var(--subtle-color);
 }
 
 .metadata {
