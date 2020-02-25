@@ -8,7 +8,6 @@ title: "To watch"
 * KonoSuba: God's Blessing on this Wonderful World
 * Legend of the Galactic Heroes(?)
 * Mobile Suit Gundam(?)
-* Princess Mononoke
 * Sailor Moon(?)
 * Space Battleship Yamato
 * Urusei Yatsura(?)
