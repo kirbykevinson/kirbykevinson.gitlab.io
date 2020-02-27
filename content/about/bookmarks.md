@@ -28,6 +28,7 @@ title: "Bookmarks"
 
 {{% links %}}
 
+[Click here to get rickrolled](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 [Material Design Color Tool](https://material.io/resources/color/)
 [pack.png](https://packpng.com/)
 [Poolside FM](https://poolside.fm/)
