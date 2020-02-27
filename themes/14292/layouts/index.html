@@ -3,8 +3,8 @@
 {{ end }}
 
 {{ define "footer" }}
-	{{ partial "contents.html" . }}
-	<nav class="contents">
+	{{ partial "links.html" . }}
+	<nav class="links">
 		{{ range .Site.Data.links.main }}
 			<a href="{{ .link }}" class="link">{{ .site }}</a>
 		{{ end }}

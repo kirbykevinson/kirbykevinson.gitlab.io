@@ -83,7 +83,7 @@ a:hover {
 
 pre, code,
 .breadcrumbs, .breadcrumbs a,
-.contents, .contents a,
+.links, .links a,
 .page-title {
 	font-family: "Source Code Pro", "monospace";
 }
@@ -144,7 +144,7 @@ body:not(.home) .page-title a::before {
 	color: var(--foreground-color);
 }
 
-.contents a {
+.links a {
 	display: block;
 	line-height: 2;
 	font-size: 1.125em;
