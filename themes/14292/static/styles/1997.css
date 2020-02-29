@@ -1,6 +1,31 @@
 @charset "utf-8";
 
+@font-face {
+	src:
+		local("Source Serif Pro"),
+		url("../fonts/source-serif-pro.woff2");
+	font-family: "Source Serif Pro";
+	font-display: swap;
+}
+@font-face {
+	src:
+		local("Courier Prime"),
+		url("../fonts/courier-prime.woff2");
+	font-family: "Courier Prime";
+	font-display: swap;
+}
+
 :root {
+	--fonts:
+		"Source Serif Pro",
+		"Times New Roman",
+		"sans-serif",
+		var(--emoji-fonts);
+	--monospace-fonts:
+		"Courier Prime",
+		"Courier New",
+		"monospace",
+		var(--emoji-fonts);
 	--border-radius: 0;
 	--background-color: #111111;
 	--foreground-color: #FFFFFFCC;
