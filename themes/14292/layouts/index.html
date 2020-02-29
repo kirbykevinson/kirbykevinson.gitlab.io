@@ -20,5 +20,11 @@
 				<a href="{{ .link }}" class="link">{{ .site }}</a>
 			{{ end }}
 		</div>
-	</div>
+	</nav>
+	
+	{{ if .Site.Params.timeDilation }}
+		<hr>
+		
+		{{ partial "buttons.html" . }}
+	{{ end }}
 {{ end }}

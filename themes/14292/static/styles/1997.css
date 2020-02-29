@@ -55,3 +55,13 @@
 hr {
 	border-style: inset;
 }
+
+a:hover {
+	opacity: 1;
+	text-decoration: underline;
+}
+
+.buttons {
+	max-width: 16em;
+	margin-top: 1em;
+}
