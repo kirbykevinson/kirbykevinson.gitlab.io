@@ -1,0 +1,10 @@
+baseURL = "/"
+languageCode = "en-ca"
+title = "🌆 Kirby Kevinson"
+theme = "14292"
+
+[params]
+timeDilation = true
+
+[markup.goldmark.renderer]
+unsafe = true
