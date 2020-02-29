@@ -2,6 +2,8 @@
 title: "Anime"
 
 reverseSort: true
+
+background: "sky.png"
 ---
 
 Every anime I've ever seen is described and rated here.

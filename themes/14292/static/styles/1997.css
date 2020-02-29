@@ -49,6 +49,7 @@
 .page-wrapper {
 	padding: 16px;
 	border: outset var(--border-width) var(--subtle-color);
+	background: var(--background-color);
 	box-shadow: 16px 16px var(--shadow-color);
 }
 

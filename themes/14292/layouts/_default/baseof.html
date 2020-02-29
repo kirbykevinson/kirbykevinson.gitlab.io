@@ -14,6 +14,12 @@
 		<link href="/styles/14292.css" rel="stylesheet">
 		{{ if .Site.Params.timeDilation }}
 			<link href="/styles/1997.css" rel="stylesheet">
+			
+			<style>
+				body {
+					{{ partial "background.css" . | safeCSS }}
+				}
+			</style>
 		{{ end }}
 	</head>
 	

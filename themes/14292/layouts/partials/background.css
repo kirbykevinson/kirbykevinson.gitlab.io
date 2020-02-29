@@ -1,0 +1,17 @@
+{{ define "background" }}
+	{{ if .page.Params.background }}
+		url("/images/backgrounds/{{ .page.Params.background }}")
+	{{ else if .page.Parent }}
+		{{ template "background" (dict "page" .page.Parent) }}
+	{{ else }}
+		var(--background-color)
+	{{ end }}
+{{ end }}
+
+background: {{ template "background" (dict "page" .) }};
+
+{{ if .Params.fillBackground }}
+	background-attachment: fixed;
+	background-position: 50% 50%;
+	background-size: cover;
+{{ end }}
