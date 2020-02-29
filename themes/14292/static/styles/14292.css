@@ -1,12 +1,16 @@
 @charset "utf-8";
 
 @font-face {
-	src: local("Source Sans Pro"), url("fonts/source-sans-pro.woff2");
+	src:
+		local("Source Sans Pro"),
+		url("../fonts/source-sans-pro.woff2");
 	font-family: "Source Sans Pro";
 	font-display: swap;
 }
 @font-face {
-	src: local("Source Code Pro"), url("fonts/source-code-pro.woff2");
+	src:
+		local("Source Code Pro"),
+		url("../fonts/source-code-pro.woff2");
 	font-family: "Source Code Pro";
 	font-display: swap;
 }
@@ -17,6 +21,14 @@
 		"Segoe UI Emoji",
 		"Noto Color Emoji",
 		"Twemoji";
+	--fonts:
+		"Source Sans Pro",
+		"sans-serif",
+		var(--emoji-fonts);
+	--monospace-fonts:
+		"Source Code Pro",
+		"monospace",
+		var(--emoji-fonts);
 	--border-width: 2px;
 	--border-radius: 4px;
 	--background-color: #1E191D;
@@ -24,9 +36,17 @@
 	--subtle-color: #FFFFFF3F;
 	--accent-color: #FBAAC0;
 }
+@media (prefers-color-scheme: light) {
+	:root {
+		--background-color: #EEE5EB;
+		--foreground-color: #000000CF;
+		--subtle-color: #0000003F;
+		--accent-color: #AD1429;
+	}
+}
 
 * {
-	font-family: "Source Sans Pro", "sans-serif", var(--emoji-fonts);
+	font-family: var(--fonts);
 	color: var(--foreground-color);
 	transition: 0.1s;
 	scrollbar-width: thin;
@@ -87,7 +107,7 @@ pre, code,
 .breadcrumbs, .breadcrumbs a,
 .links, .links a,
 .page-title {
-	font-family: "Source Code Pro", "monospace", var(--emoji-fonts);
+	font-family: var(--monospace-fonts);
 }
 
 pre, code {

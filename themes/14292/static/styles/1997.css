@@ -1,2 +1,32 @@
 @charset "utf-8";
 
+:root {
+	--border-radius: 0;
+	--background-color: #111111;
+	--foreground-color: #FFFFFFCC;
+	--subtle-color: #FFFFFF33;
+	--accent-color: #FFAACC;
+	--shadow-color: #00000077;
+}
+@media (prefers-color-scheme: light) {
+	:root {
+		--background-color: #EEEEEE;
+		--foreground-color: #000000CC;
+		--subtle-color: #00000033;
+		--accent-color: #AA1122;
+	}
+}
+
+* {
+	transition: none;
+}
+
+.page-wrapper {
+	padding: 16px;
+	border: outset var(--border-width) var(--subtle-color);
+	box-shadow: 16px 16px var(--shadow-color);
+}
+
+hr {
+	border-style: inset;
+}
