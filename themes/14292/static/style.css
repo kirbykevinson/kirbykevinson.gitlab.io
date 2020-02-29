@@ -1,5 +1,16 @@
 @charset "utf-8";
 
+@font-face {
+	src: local("Source Sans Pro"), url("source-sans-pro.woff2");
+	font-family: "Source Sans Pro";
+	font-display: swap;
+}
+@font-face {
+	src: local("Source Code Pro"), url("source-code-pro.woff2");
+	font-family: "Source Code Pro";
+	font-display: swap;
+}
+
 :root {
 	--emoji-fonts:
 		"Apple Color Emoji",
@@ -25,15 +36,6 @@
 ::selection {
 	background: var(--foreground-color);
 	color: var(--background-color);
-}
-
-@font-face {
-	font-family: "Source Sans Pro";
-	src: url("source-sans-pro.woff2");
-}
-@font-face {
-	font-family: "Source Code Pro";
-	src: url("source-code-pro.woff2");
 }
 
 body {
@@ -85,7 +87,7 @@ pre, code,
 .breadcrumbs, .breadcrumbs a,
 .links, .links a,
 .page-title {
-	font-family: "Source Code Pro", "monospace";
+	font-family: "Source Code Pro", "monospace", var(--emoji-fonts);
 }
 
 pre, code {
