@@ -16,6 +16,7 @@
 }
 
 :root {
+	--emoji-fonts: "";
 	--fonts:
 		"Source Serif Pro",
 		"Times New Roman",
@@ -27,23 +28,20 @@
 		"monospace",
 		var(--emoji-fonts);
 	--border-radius: 0;
-	--background-color: #111111;
-	--foreground-color: #FFFFFFCC;
-	--subtle-color: #FFFFFF33;
-	--accent-color: #FFAACC;
+	--background-color: #007F00D8;
+	--foreground-color: #FFFFFF;
+	--subtle-color: #FFFFFF69;
+	--accent-color: #FFFF00;
 	--shadow-color: #00000077;
-}
-@media (prefers-color-scheme: light) {
-	:root {
-		--background-color: #EEEEEE;
-		--foreground-color: #000000CC;
-		--subtle-color: #00000033;
-		--accent-color: #AA1122;
-	}
 }
 
 * {
+	text-align: center;
 	transition: none;
+	image-rendering: -moz-crisp-edges;
+	image-rendering: pixelated;
+	scrollbar-width: auto;
+	scrollbar-color: #888888 #C0C0C0;
 }
 
 .page-wrapper {
@@ -57,6 +55,10 @@ hr {
 	border-style: inset;
 }
 
+h1, h2, h3, h4, h5, h6 {
+	color: #FF00FF;
+}
+
 a:hover {
 	opacity: 1;
 	text-decoration: underline;
@@ -65,4 +67,13 @@ a:hover {
 .buttons {
 	max-width: 16em;
 	margin-top: 1em;
+}
+
+.breadcrumbs {
+	justify-content: center;
+}
+
+.breadcrumbs a, .page-title a {
+	color: #00FFFF;
+
 }

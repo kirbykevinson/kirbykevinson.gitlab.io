@@ -1,5 +1,5 @@
 ---
 title: "Blog"
 
-background: "lapis.png"
+background: "stones"
 ---

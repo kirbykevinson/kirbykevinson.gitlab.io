@@ -3,7 +3,7 @@ title: "Dreams"
 
 reverseSort: true
 
-background: "stars.png"
+background: "stars"
 ---
 
 Almost every dream description is transported either from social media

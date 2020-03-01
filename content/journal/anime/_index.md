@@ -3,7 +3,7 @@ title: "Anime"
 
 reverseSort: true
 
-background: "sky.png"
+background: "sky"
 ---
 
 Every anime I've ever seen is described and rated here.
