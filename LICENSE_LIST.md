@@ -11,6 +11,7 @@
 
 * `static/images/backgrounds/stars.gif` -
   [source](https://commons.wikimedia.org/wiki/File:Phoenix_dwarf_galaxy.jpg)
+  > Copyright 2011 ESA/Hubble
 
 ## MIT License (LICENSE\_MIT)
 
