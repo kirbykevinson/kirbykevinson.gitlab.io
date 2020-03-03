@@ -40,7 +40,7 @@
 * `static/images/backgrounds/bricks.gif` -
   [source](https://publicdomainpictures.net/en/view-image.php?image=120778&picture=grey-bricks)
 * `static/images/backgrounds/sky.gif` -
-  [source]()
+  [source](https://publicdomainpictures.net/en/view-image.php?image=1279&picture=sky-with-clouds)
 * `static/images/backgrounds/stones.gif` -
   [source](https://publicdomainpictures.net/en/view-image.php?image=39502&picture=stones-background)
 * `static/images/buttons/neocities.gif` (the planet) -
