@@ -50,7 +50,7 @@
 			<footer>
 				{{ block "footer" . }}{{ end }}
 				
-				<div class="licensing">
+				<div class="metadata licensing">
 					{{ block "licensing" . }}
 							{{ partial "licensing.html" . }}
 					{{ end }}
