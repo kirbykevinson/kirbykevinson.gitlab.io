@@ -29,6 +29,7 @@
 		"Source Code Pro",
 		"monospace",
 		var(--emoji-fonts);
+	--border-style: solid;
 	--border-width: 2px;
 	--border-radius: 4px;
 	--background-color: #1E191D;
@@ -80,7 +81,10 @@ body:not(.home) .page-wrapper {
 }
 
 hr {
-	border: solid calc(var(--border-width) / 2) var(--subtle-color);
+	border:
+		var(--border-style)
+		calc(var(--border-width) / 2)
+		var(--subtle-color);
 }
 
 ul, ol {
@@ -113,7 +117,10 @@ pre, code,
 pre, code {
 	padding: 2px 4px;
 	font-size: 0.875em;
-	border: solid var(--border-width) var(--subtle-color);
+	border:
+		var(--border-style)
+		var(--border-width)
+		var(--subtle-color);
 	border-radius: var(--border-radius);
 	overflow: auto;
 }
@@ -128,7 +135,10 @@ blockquote {
 	margin-left: 0;
 	margin-right: 1em;
 	padding-left: 1em;
-	border-left: solid var(--border-width) var(--subtle-color);
+	border-left:
+		var(--border-style)
+		var(--border-width)
+		var(--subtle-color);
 }
 
 .metadata {

@@ -27,6 +27,7 @@
 		"Courier New",
 		"monospace",
 		var(--emoji-fonts);
+	--border-style: outset;
 	--border-radius: 0;
 	--background-color: #007F00D8;
 	--foreground-color: #FFFFFF;
@@ -46,16 +47,16 @@
 
 .page-wrapper {
 	padding: 16px;
-	border: outset var(--border-width) var(--subtle-color);
+	border:
+		var(--border-style)
+		var(--border-width)
+		var(--subtle-color);
 	background: var(--background-color);
 	box-shadow: 16px 16px var(--shadow-color);
 }
 
-hr {
-	border-style: inset;
-}
-
 h1, h2, h3, h4, h5, h6 {
+	font-style: italic;
 	color: #FF00FF;
 }
 
@@ -73,7 +74,11 @@ a:hover {
 	justify-content: center;
 }
 
-.breadcrumbs a, .page-title a {
-	color: #00FFFF;
+.breadcrumbs a {
+	color: #00FF00;
+}
 
+.page-title a {
+	font-style: normal;
+	color: #00FFFF;
 }
