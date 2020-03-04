@@ -8,4 +8,4 @@ gitlab:
 neocities:
 	hugo --config neocities-config.toml
 	
-	neocities push public
+	neocities push -e static/audio public

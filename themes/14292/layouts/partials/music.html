@@ -1,6 +1,6 @@
 {{ if .Params.music }}
 	<audio
-		src="/audio/{{ .Params.music }}.opus"
+		src="{{ .Site.Params.mediaUrl }}audio/{{ .Params.music }}.opus"
 		
 		autoplay
 		controls
