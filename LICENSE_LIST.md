@@ -53,5 +53,7 @@
 * `static/images/backgrounds/stars.gif` -
   [source](https://commons.wikimedia.org/wiki/File:Phoenix_dwarf_galaxy.jpg)
   > Copyright 2011 ESA/Hubble
+* `static/audio/maximum-pain.opus`
+  > Copyright 2019, 2020 Jerk Forward
 * All other files
   > Copyright 2018, 2019, 2020 Kirby Kevinson

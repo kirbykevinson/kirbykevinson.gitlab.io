@@ -1,0 +1,9 @@
+{{ if .Params.music }}
+	<audio
+		src="/audio/{{ .Params.music }}.opus"
+		
+		autoplay
+		controls
+		loop
+	></audio>
+{{ end }}
