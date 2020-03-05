@@ -43,6 +43,9 @@
 	image-rendering: pixelated;
 	scrollbar-width: auto;
 	scrollbar-color: #888888 #C0C0C0;
+}
+
+body {
 	cursor: url("../images/cursors/default.png"), default;
 }
 
