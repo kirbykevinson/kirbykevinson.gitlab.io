@@ -43,6 +43,7 @@
 	image-rendering: pixelated;
 	scrollbar-width: auto;
 	scrollbar-color: #888888 #C0C0C0;
+	cursor: url("../images/cursors/default.png"), default;
 }
 
 .page-wrapper {
@@ -63,6 +64,7 @@ h1, h2, h3, h4, h5, h6 {
 a:hover {
 	opacity: 1;
 	text-decoration: underline;
+	cursor: url("../images/cursors/pointer.png"), pointer;
 }
 
 .buttons {
