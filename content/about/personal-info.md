@@ -83,7 +83,7 @@ title: "Personal info"
 * Animal: mosquito
 * Dish: most of them
 * Drink: soda
-i
+
 [#ADFF2F]: https://duckduckgo.com/?q=%23adff2f&ia=answer
 [Russian chanson]: https://en.wikipedia.org/wiki/Russian_chanson
 [ToberUberStobe]: https://kirbykevinson.itch.io/toberuberstobe
