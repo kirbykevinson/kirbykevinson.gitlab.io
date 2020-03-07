@@ -13,27 +13,43 @@ title: "Bookmarks"
 
 {{% /links %}}
 
+## Personal websites
+
+{{% links %}}
+
+[billwurtz](https://billwurtz.com/)
+[Drew DeVault](https://drewdevault.com/)
+[emersion](https://emersion.fr/)
+[null program](https://nullprogram.com/)
+
+{{% /links %}}
+
 ## Blogs and magazines
 
 {{% links %}}
 
-[Drew DeVault](https://drewdevault.com/)
 [Fedora Magazine](https://fedoramagazine.org/)
 [HTMHell](https://www.htmhell.dev/)
 [Planet GNOME](https://planet.gnome.org/)
 
 {{% /links %}}
 
+## Design resources
+
+[Material Design Color Tool](https://material.io/resources/color/)
+[MDN Web Docs](https://developer.mozilla.org/en-US/)
+[Public Domain Pictures](https://publicdomainpictures.net/en/)
+[Public Domain Vectors](https://publicdomainvectors.org/)
+[This X Does Not Exist](https://thisxdoesnotexist.com/)
+[Unsplash](https://unsplash.com/)
+
 ## Other
 
 {{% links %}}
 
-[billwurtz](https://billwurtz.com/)
 [Click here to get rickrolled](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-[Material Design Color Tool](https://material.io/resources/color/)
 [pack.png](https://packpng.com/)
 [Poolside FM](https://poolside.fm/)
 [The Gunbuster Index](http://toponeraegunbuster.com/)
-[This X Does Not Exist](https://thisxdoesnotexist.com/)
 
 {{% /links %}}
