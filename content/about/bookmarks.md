@@ -36,12 +36,16 @@ title: "Bookmarks"
 
 ## Design resources
 
+{{% links %}}
+
 [Material Design Color Tool](https://material.io/resources/color/)
 [MDN Web Docs](https://developer.mozilla.org/en-US/)
 [Public Domain Pictures](https://publicdomainpictures.net/en/)
 [Public Domain Vectors](https://publicdomainvectors.org/)
 [This X Does Not Exist](https://thisxdoesnotexist.com/)
 [Unsplash](https://unsplash.com/)
+
+{{% /links %}}
 
 ## Other
 
