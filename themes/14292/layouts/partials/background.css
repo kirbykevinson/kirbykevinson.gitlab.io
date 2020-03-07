@@ -1,6 +1,6 @@
 {{ define "background" }}
 	{{ if .page.Params.background }}
-		url("/images/backgrounds/{{ .page.Params.background }}.gif")
+		url("/images/backgrounds/{{ .page.Params.background }}.png")
 	{{ else if .page.Parent }}
 		{{ template "background" (dict "page" .page.Parent) }}
 	{{ else }}
