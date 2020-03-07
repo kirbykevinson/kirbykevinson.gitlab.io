@@ -1,6 +1,14 @@
 {{ define "background" }}
 	{{ if .page.Params.background }}
-		url("/images/backgrounds/{{ .page.Params.background }}.png")
+		background: url("/images/backgrounds/{{ .page.Params.background }}.png");
+		
+		{{ if eq .page.Params.backgroundScrollDirection "xy" }}
+			animation: var(--background-scroll-xy);
+		{{ else if eq .page.Params.backgroundScrollDirection "x" }}
+			animation: var(--background-scroll-x);
+		{{ else if eq .page.Params.backgroundScrollDirection "y" }}
+			animation: var(--background-scroll-y);
+		{{ end }};
 	{{ else if .page.Parent }}
 		{{ template "background" (dict "page" .page.Parent) }}
 	{{ else }}
@@ -8,4 +16,4 @@
 	{{ end }}
 {{ end }}
 
-background: {{ template "background" (dict "page" .) }};
+{{ template "background" (dict "page" .) }}
