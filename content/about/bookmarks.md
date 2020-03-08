@@ -21,6 +21,7 @@ title: "Bookmarks"
 [Drew DeVault](https://drewdevault.com/)
 [emersion](https://emersion.fr/)
 [null program](https://nullprogram.com/)
+[Whoever I follow on Neocities](https://neocities.org/site/kirbykevinson/follows)
 
 {{% /links %}}
 
