@@ -67,6 +67,11 @@
 	scrollbar-color: #888888 #C0C0C0;
 }
 
+::selection {
+	background: #00007F;
+	color: var(--foreground-color);
+}
+
 body {
 	cursor: url("../images/cursors/default.png"), default;
 }
