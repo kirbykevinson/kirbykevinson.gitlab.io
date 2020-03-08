@@ -31,6 +31,7 @@ title: "Personal info"
 * Intelligence: average
 * Talents: N/A
 * Skills: N/A
+* Achievements: N/A
 * Civil status: N/A
 * Economy: very bad
 
