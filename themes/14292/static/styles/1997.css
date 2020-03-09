@@ -69,7 +69,7 @@
 
 ::selection {
 	background: #00007F;
-	color: var(--foreground-color);
+	color: #FFFFFF;
 }
 
 body {
