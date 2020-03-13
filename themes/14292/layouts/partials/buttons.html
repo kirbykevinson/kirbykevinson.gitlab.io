@@ -1,5 +1,9 @@
 <div class="buttons">
 	{{ range .Site.Data.buttons }}
-		<a href="{{ .link }}"><img src="/images/buttons/{{ .name }}.png"></a>
+		<a href="{{ .link }}"><img
+			src="/images/buttons/{{ .name }}.png"
+			
+			alt="{{ humanize .name }} button"
+		></a>
 	{{ end }}
 </div>
