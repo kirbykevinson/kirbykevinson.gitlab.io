@@ -73,11 +73,13 @@ body {
 }
 
 .page-wrapper {
+	flex-grow: 1;
 	max-width: 32em;
 	margin: 16px;
 }
-body:not(.home) .page-wrapper {
-	flex-grow: 1;
+body.home .page-wrapper {
+	flex-grow: 0;
+	max-width: 16em;
 }
 
 hr {

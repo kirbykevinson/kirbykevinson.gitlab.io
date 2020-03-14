@@ -1,6 +1,6 @@
 ## Attribution
 
-* `static/images/buttons/gnu-linux.gif` (the Tux) -
+* `static/images/buttons/gnu-linux.png` (the Tux) -
   [source](https://isc.tamu.edu/~lewing/linux/)
   > Permission to use and/or modify this image is granted provided you
   > acknowledge me [lewing@isc.tamu.edu](mailto:lewing@isc.tamu.edu)
@@ -9,30 +9,29 @@
 
 ## CC0 1.0 Universal (`LICENSE_CC0`)
 
-* `static/images/backgrounds/book.gif` -
+* `static/images/backgrounds/book.png` -
   [source](https://commons.wikimedia.org/wiki/File:Ezra_Cornell's_first_book.jpg)
-* `static/images/backgrounds/bricks.gif` -
+* `static/images/backgrounds/bricks.png` -
   [source](https://publicdomainpictures.net/en/view-image.php?image=120778&picture=grey-bricks)
-* `static/images/backgrounds/sky.gif` -
+* `static/images/backgrounds/sky.png` -
   [source](https://publicdomainpictures.net/en/view-image.php?image=1279&picture=sky-with-clouds)
-* `static/images/backgrounds/stones.gif` -
+* `static/images/backgrounds/stones.png` -
   [source](https://publicdomainpictures.net/en/view-image.php?image=39502&picture=stones-background)
-* `static/images/buttons/neocities.gif` (the planet) -
+* `static/images/buttons/neocities.png` (the planet) -
   [source](https://publicdomainvectors.org/en/free-clipart/Vector-clip-art-of-planet-Saturn-icon/21340.html)
-* `static/images/buttons/www.gif` (the planet) -
+* `static/images/buttons/www.png` (the planet) -
   [source](https://publicdomainvectors.org/en/free-clipart/World-globe-vector-illustration/13075.html)
-
-## ISC License (`LICENSE_ISC`)
-
-* Everything in `themes/` except the files under other licenses
-  mentioned in this document
-  > Copyright 2018, 2019, 2020 Kirby Kevinson
+* Everything else in `static/images/{backgrounds,buttons,cursors}/`
+  except the files under other licenses mentioned in this document
 
 ## MIT License (`LICENSE_MIT`)
 
-* `static/images/buttons/neovim.gif` (the logo) -
+* `static/images/buttons/neovim.png` (the logo) -
   [source](https://github.com/neovim/neovim.github.io/blob/eb7c9cb55cc307b196cce8cd35a87e75d4931525/images/logo%402x.png)
   > Copyright (c) 2014 Cameron Eagans and Josh Branchaud
+* Everything in `themes/` except the files under other licenses
+  mentioned in this document
+  > Copyright 2018, 2019, 2020 Kirby Kevinson
 
 ## SIL Open Font License (`LICENSE_OFL`)
 
@@ -50,7 +49,7 @@
 
 ## Creative Commons Attribution 4.0 International Public License (`LICENSE`)
 
-* `static/images/backgrounds/stars.gif` -
+* `static/images/backgrounds/stars.png` -
   [source](https://commons.wikimedia.org/wiki/File:Phoenix_dwarf_galaxy.jpg)
   > Copyright 2011 ESA/Hubble
 * `static/audio/maximum-pain.opus`
