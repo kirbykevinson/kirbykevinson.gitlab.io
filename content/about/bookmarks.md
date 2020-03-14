@@ -17,9 +17,12 @@ title: "Bookmarks"
 
 {{% links %}}
 
+[Alan Resnick](https://alanresnick.info/)
 [billwurtz](https://billwurtz.com/)
+[Dennis Knopf](http://www.dennisknopf.net/)
 [Drew DeVault](https://drewdevault.com/)
 [emersion](https://emersion.fr/)
+[Nathan's Toasty Technology page](http://toastytech.com/)
 [null program](https://nullprogram.com/)
 [Whoever I follow on Neocities](https://neocities.org/site/kirbykevinson/follows)
 
