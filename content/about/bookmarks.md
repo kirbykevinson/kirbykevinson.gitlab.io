@@ -7,9 +7,9 @@ title: "Bookmarks"
 {{% links %}}
 
 [Hacker News](https://news.ycombinator.com/)
+[r/all](https://www.reddit.com/r/all)
 [r/linux](https://www.reddit.com/r/linux)
 [r/unixporn](https://www.reddit.com/r/unixporn)
-[r/all](https://www.reddit.com/r/all)
 
 {{% /links %}}
 
@@ -17,6 +17,7 @@ title: "Bookmarks"
 
 {{% links %}}
 
+[Artemy Lebedev](https://www.tema.ru/eng/)
 [Alan Resnick](https://alanresnick.info/)
 [billwurtz](https://billwurtz.com/)
 [Dennis Knopf](http://www.dennisknopf.net/)
@@ -59,5 +60,6 @@ title: "Bookmarks"
 [pack.png](https://packpng.com/)
 [Poolside FM](https://poolside.fm/)
 [The Gunbuster Index](http://toponeraegunbuster.com/)
+[Wiby](https://wiby.me/)
 
 {{% /links %}}
