@@ -35,6 +35,7 @@
 	--background-color: #1E191D;
 	--foreground-color: #FFFFFFCF;
 	--subtle-color: #FFFFFF3F;
+	--shadow-color: #0000007F;
 	--accent-color: #FBAAC0;
 }
 @media (prefers-color-scheme: light) {
@@ -199,6 +200,24 @@ body:not(.home) .page-title a::before {
 }
 #more:target > *:not(:first-child) {
 	display: block;
+}
+
+.album {
+	padding: 2px 0;
+	text-align: center;
+	line-height: 0;
+	font-size: 0;
+	border-radius: var(--border-radius);
+	background: var(--shadow-color);
+}
+
+.album > * {
+	font-size: 1rem;
+}
+
+.album img {
+	max-width: 224px;
+	margin: 1px;
 }
 
 .pagination {

@@ -50,7 +50,6 @@
 	--foreground-color: #FFFFFF;
 	--subtle-color: #FFFFFF69;
 	--accent-color: #FFFF00;
-	--shadow-color: #00000077;
 	--background-scroll-x: background-scroll-x 32s infinite linear;
 	--background-scroll-y: background-scroll-y 32s infinite linear;
 	--background-scroll-xy:
@@ -97,6 +96,10 @@ a:hover {
 	cursor: url("../images/cursors/pointer.png"), pointer;
 }
 
+a:hover img {
+	filter: contrast(1000%);
+}
+
 .buttons {
 	margin-top: 1em;
 }
@@ -112,4 +115,8 @@ a:hover {
 .page-title a {
 	font-style: normal;
 	color: #00FFFF;
+}
+
+.album {
+	background: #0000FF;
 }
