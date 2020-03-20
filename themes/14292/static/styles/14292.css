@@ -109,6 +109,10 @@ a:hover {
 	opacity: 0.5;
 }
 
+main img {
+	max-width: 100%;
+}
+
 pre, code,
 .breadcrumbs, .breadcrumbs a,
 .links, .links a,
