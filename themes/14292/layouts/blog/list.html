@@ -2,7 +2,7 @@
 	<nav class="links">
 		{{ range .Paginator.Pages }}
 			<article>
-				<a href="{{ .URL }}" class="page">{{ .Title }}</a>
+				<a href="{{ .Permalink }}" class="page">{{ .Title }}</a>
 				
 				<div class="metadata">
 					{{ partial "date" . }}
