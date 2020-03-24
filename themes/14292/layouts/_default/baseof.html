@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-<html>
+<html lang="{{ $.Site.LanguageCode | default "en" }}">
 	<head>
 		<title>{{ block "title" . }}
 			{{ .Title }} | {{ .Site.Title }}
@@ -23,11 +23,7 @@
 		{{ end }}
 	</head>
 	
-	<body
-		{{ if .IsHome }} class="home" {{ end }}
-		
-		lang="{{ $.Site.LanguageCode | default "en" }}"
-	>
+	<body {{ if .IsHome }} class="home" {{ end }}>
 		<div class="page-wrapper">
 			<header>
 				{{ block "header" . }}
