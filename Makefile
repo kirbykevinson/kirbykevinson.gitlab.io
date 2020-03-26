@@ -1,4 +1,4 @@
-.PHONY: all clean gitlab neocities
+.PHONY: all clean gitlab build neocities
 
 all: gitlab neocities
 
@@ -8,7 +8,8 @@ clean:
 gitlab:
 	git push
 
-neocities: clean
+build:
 	hugo --config neocities-config.toml
-	
+
+neocities: build
 	neocities push -e audio public
