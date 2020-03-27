@@ -67,4 +67,5 @@ TLDR: God bless the YouTube algorithm.
 
 {{% /album %}}
 
-(All images are copyrighted by their respective holders.)
+(Image courtesy of Imgur. All images are copyrighted by their
+respective holders.)

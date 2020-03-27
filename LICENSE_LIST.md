@@ -76,10 +76,3 @@
   > Copyright 2019, 2020 Jerk Forward
 * All other files
   > Copyright 2018, 2019, 2020 Kirby Kevinson
-
----
-
-The website also displays some possibly non-free and possibly ilegally
-obtained content. For obvious reasons, it's not hosted on the website
-itself but rather hotlinked to Imgur. `grep -r imgur` the website
-directory to inspect all of the cases.
