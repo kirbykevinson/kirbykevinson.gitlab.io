@@ -23,6 +23,8 @@
   [source](https://publicdomainvectors.org/en/free-clipart/Vector-clip-art-of-planet-Saturn-icon/21340.html)
 * `static/images/buttons/www.png` (the planet) -
   [source](https://publicdomainvectors.org/en/free-clipart/World-globe-vector-illustration/13075.html)
+* `static/images/cover-art/bill-wurtz.jpg` -
+  [source](https://en.wikipedia.org/wiki/File:Youtube_logo_Bill_Wurtz_17_June_2018.svg)
 * Everything else in `static/images/{backgrounds,buttons,cursors}/`
   except the files under other licenses mentioned in this document
 
@@ -32,6 +34,12 @@
   [source](https://www.flickr.com/photos/miguel_discart/49680061466/)
   > (2020-02-22\_12-02-35\_ILCE-6500\_DSC09086\_DxO)
   > Copyright 2020 Miguel Discart
+* `static/images/cover-art/casiopea-mint-jams.jpg` -
+  [source](https://commons.wikimedia.org/wiki/File:Redcurrant_jelly_%282699068744%29.jpg)
+  > Original image (How To Make Red Currant Jelly 5): Copyright 2008
+  > Amanda Slater
+  >
+  > This modified image: Copyright 2020 Kirby Kevinson
 
 ## MIT License (`LICENSE_MIT`)
 
@@ -58,6 +66,8 @@
 
 ## Creative Commons Attribution 4.0 International Public License (`LICENSE`)
 
+* `static/audio/maximum-pain.opus`
+  > Copyright 2019, 2020 Jerk Forward
 * `static/images/baako/village.jpg` -
   [source](https://commons.wikimedia.org/wiki/File:Village_of_Rhodes,_South_Africa.jpg),
   [source](https://commons.wikimedia.org/wiki/File:American_pigs_in_blankets.jpg)
@@ -66,13 +76,21 @@
   > * (Rhodes) Copyright 2011 SA-Venues.com
   > * (Pigs in Blankets) Copyright 2005 stef yau
   >
-  > This modified image:
-  >
-  > * Copyright 2020 Kirby Kevinson
+  > This modified image: Copyright 2020 Kirby Kevinson
 * `static/images/backgrounds/stars.png` -
   [source](https://commons.wikimedia.org/wiki/File:Phoenix_dwarf_galaxy.jpg)
   > Copyright 2011 ESA/Hubble
-* `static/audio/maximum-pain.opus`
-  > Copyright 2019, 2020 Jerk Forward
+* `static/images/cover-art/junko-ohashi-magical.jpg` -
+  [source](https://commons.wikimedia.org/wiki/File:Twin_Towers-NYC.jpg)
+  > Copyright 2020 Kirby Kevinson
+* `static/images/cover-art/casiopea-casiopea.jpg` -
+  [source](https://commons.wikimedia.org/wiki/File:Lada_2102_orange.jpg)
+  > Copyright 2020 Kirby Kevinson
+* `static/images/cover-art/yutaka-yokokura-love-light.jpg` -
+  [source](https://commons.wikimedia.org/wiki/File:Strongylocentrotus_franciscanus.jpg)
+  > Original image (Strongylocentrotus franciscanus): Copyright 2008
+  > Taollan82, Kirt L. Onthank
+  >
+  > This modified image: Copyright 2020 Kirby Kevinson
 * All other files
   > Copyright 2018, 2019, 2020 Kirby Kevinson

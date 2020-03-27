@@ -4,6 +4,9 @@ title: "Playlist"
 
 TLDR: God bless the YouTube algorithm.
 
+Using copyrighted cover art is not the best idea, so I decided to
+recreate everything with stock images (work in progress).
+
 ## MFSB
 
 {{% album %}}
@@ -34,21 +37,21 @@ TLDR: God bless the YouTube algorithm.
 {{% album %}}
 
 [![Anri - Timely!!](https://i.imgur.com/yR4Rg8F.jpg)](https://www.discogs.com/Anri-Timely/master/965114)
-[![Casiopea - Casiopea](https://i.imgur.com/HCZqVZF.jpg)](https://www.discogs.com/Casiopea-Casiopea/master/851695)
-[![Casiopea - Mint Jams](https://i.imgur.com/gwihBNL.jpg)](https://www.discogs.com/Casiopea-Mint-Jams/master/287930)
+[![Casiopea - Casiopea](/images/cover-art/casiopea-casiopea.jpg)](https://www.discogs.com/Casiopea-Casiopea/master/851695)
+[![Casiopea - Mint Jams](/images/cover-art/casiopea-mint-jams.jpg)](https://www.discogs.com/Casiopea-Mint-Jams/master/287930)
 [![Hiroshi Suzuki - Cat](https://i.imgur.com/Xyycyn9.jpg)](https://www.discogs.com/Hiroshi-Suzuki-Cat/master/751454)
-[![Junko Ohashi - Magical](https://i.imgur.com/VLXsJjo.jpg)](https://www.discogs.com/Junko-Ohashi-Magical/master/1455912)
+[![Junko Ohashi - Magical](/images/cover-art/junko-ohashi-magical.jpg)](https://www.discogs.com/Junko-Ohashi-Magical/master/1455912)
 [![Mariya Takeuchi - Beginning](https://i.imgur.com/6StlFYE.jpg)](https://www.discogs.com/Mariya-Takeuchi-Beginning/master/1391096)
 [![Mariya Takeuchi - University Street](https://i.imgur.com/Lfw2QVH.jpg)](https://www.discogs.com/Mariya-Takeuchi-University-Street/master/1391097)
 [![Mariya Takeuchi - Love Songs](https://i.imgur.com/q1yY3rW.jpg)](https://www.discogs.com/Mariya-Takeuchi-Love-Songs/master/1254126)
-[![Mariya Takeuchi - Miss M](https://i.imgur.com/z9Duz7v.jpg)](https://www.discogs.com/%E7%AB%B9%E5%86%85%E3%81%BE%E3%82%8A%E3%82%84-Miss-M/master/1005067)
+[![Mariya Takeuchi - Miss M](/images/cover-art/mariya-takeuchi-miss-m.jpg)](https://www.discogs.com/%E7%AB%B9%E5%86%85%E3%81%BE%E3%82%8A%E3%82%84-Miss-M/master/1005067)
 [![Mariya Takeuchi - Portrait](https://i.imgur.com/h9StuZO.jpg)](https://www.discogs.com/%E7%AB%B9%E5%86%85%E3%81%BE%E3%82%8A%E3%82%84-Portrait-%E3%83%9D%E3%83%BC%E3%83%88%E3%83%AC%E3%82%A4%E3%83%88/master/932826)
 [![Mariya Takeuchi - Variety](https://i.imgur.com/GMaxjXG.jpg)](https://www.discogs.com/Mariya-Takeuchi-Variety/master/606606)
 [![Mariya Takeuchi - Request](https://i.imgur.com/F8sUjgf.jpg)](https://www.discogs.com/Mariya-Takeuchi-Request/master/1024147)
 [![Mariya Takeuchi - Quiet Life](https://i.imgur.com/VwzgsQ9.jpg)](https://www.discogs.com/Mariya-Takeuchi-Quiet-Life/master/1587653)
 [![Momoko Kikuchi - Adventure](https://i.imgur.com/aJtSezV.jpg)](https://www.discogs.com/Momoko-Kikuchi-Adventure/master/618385)
 [![Taeko Ohnuki - Mignonne](https://i.imgur.com/gB7e1v5.jpg)](https://www.discogs.com/Taeko-Ohnuki-Mignonne/master/530233)
-[![Yutaka Yokokura - Love Light](https://i.imgur.com/j3A7gDG.jpg)](https://www.discogs.com/Yutaka-Yokokura-Love-Light/master/302661)
+[![Yutaka Yokokura - Love Light](/images/cover-art/yutaka-yokokura-love-light.jpg)](https://www.discogs.com/Yutaka-Yokokura-Love-Light/master/302661)
 [![Yutaka Yokokura - Brazasia](https://i.imgur.com/nvtAxiz.jpg)](https://www.discogs.com/Yutaka-Brazasia/master/650541)
 
 {{% /album %}}
@@ -57,15 +60,15 @@ TLDR: God bless the YouTube algorithm.
 
 {{% album %}}
 
-[![Bill Wurtz](https://i.imgur.com/uGyL0bl.jpg)](https://billwurtz.com/songs.html)
+[![Bill Wurtz](/images/cover-art/bill-wurtz.jpg)](https://billwurtz.com/songs.html)
 [![Flamingosis - Flamingosis](https://i.imgur.com/iplEiJE.jpg)](https://www.discogs.com/Flamingosis-Flamingosis/release/8894997)
 [![Flamingosis - A Groovy Thing](https://i.imgur.com/gNjUkPw.jpg)](https://www.discogs.com/Flamingosis-A-Groovy-Thing/release/11794683)
 [![Flamingosis - Flight Fantastic](https://i.imgur.com/BHe1PmC.jpg)](https://www.discogs.com/Flamingosis-Flight-Fantastic/release/12337928)
-[![Saint Pepsi - Hit Vibes](https://i.imgur.com/iaHL3Y2.jpg)](https://www.discogs.com/Saint-Pepsi-Hit-Vibes/master/710738)
+[![Saint Pepsi - Hit Vibes](/images/cover-art/saint-pepsi-hit-vibes.jpg)](https://www.discogs.com/Saint-Pepsi-Hit-Vibes/master/710738)
 [![Skylar Spence - Prom King](https://i.imgur.com/2jyfCnU.jpg)](https://www.discogs.com/Skylar-Spence-Prom-King/master/886864)
 [![Yung Bae - Bae 5](https://i.imgur.com/lTRhibF.jpg)](https://www.discogs.com/Yung-Bae-Bae-5/master/1581145)
 
 {{% /album %}}
 
-(Image courtesy of Imgur. All images are copyrighted by their
-respective holders.)
+(Embedded image courtesy of Imgur. All embedded images are copyrighted
+by their respective holders.)
