@@ -9,6 +9,8 @@
 
 ## CC0 1.0 Universal (`LICENSE_CC0`)
 
+* `static/images/baako/candle.gif` -
+  [source](https://commons.wikimedia.org/wiki/File:Jeeny_candle.gif)
 * `static/images/backgrounds/book.png` -
   [source](https://commons.wikimedia.org/wiki/File:Ezra_Cornell's_first_book.jpg)
 * `static/images/backgrounds/bricks.png` -
@@ -23,6 +25,13 @@
   [source](https://publicdomainvectors.org/en/free-clipart/World-globe-vector-illustration/13075.html)
 * Everything else in `static/images/{backgrounds,buttons,cursors}/`
   except the files under other licenses mentioned in this document
+
+## Creative Commons Attribution-ShareAlike 2.0 Generic Public License (`LICENSE_CC_BY_SA_2.html`)
+
+* `static/images/baako/ian-mcdiarmid.jpg` -
+  [source](https://www.flickr.com/photos/miguel_discart/49680061466/)
+  > (2020-02-22\_12-02-35\_ILCE-6500\_DSC09086\_DxO)
+  > Copyright 2020 Miguel Discart
 
 ## MIT License (`LICENSE_MIT`)
 
@@ -49,6 +58,17 @@
 
 ## Creative Commons Attribution 4.0 International Public License (`LICENSE`)
 
+* `static/images/baako/village.jpg` -
+  [source](https://commons.wikimedia.org/wiki/File:Village_of_Rhodes,_South_Africa.jpg),
+  [source](https://commons.wikimedia.org/wiki/File:American_pigs_in_blankets.jpg)
+  > Original images:
+  >
+  > * (Rhodes) Copyright 2011 SA-Venues.com
+  > * (Pigs in Blankets) Copyright 2005 stef yau
+  >
+  > This modified image:
+  >
+  > * Copyright 2020 Kirby Kevinson
 * `static/images/backgrounds/stars.png` -
   [source](https://commons.wikimedia.org/wiki/File:Phoenix_dwarf_galaxy.jpg)
   > Copyright 2011 ESA/Hubble
