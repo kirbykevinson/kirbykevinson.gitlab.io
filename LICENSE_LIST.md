@@ -80,11 +80,26 @@
 * `static/images/backgrounds/stars.png` -
   [source](https://commons.wikimedia.org/wiki/File:Phoenix_dwarf_galaxy.jpg)
   > Copyright 2011 ESA/Hubble
+* `static/images/cover-art/casiopea-casiopea.jpg` -
+  [source](https://commons.wikimedia.org/wiki/File:Lada_2102_orange.jpg)
+  > Copyright 2020 Kirby Kevinson
+* `static/images/cover-art/earth-wind-and-fire-i-am.jpg` -
+  [source](https://commons.wikimedia.org/wiki/File:Parthenon_east_side_Acropolis_Athens,_Greece.jpg)
+  > Copyright 2020 Kirby Kevinson
 * `static/images/cover-art/junko-ohashi-magical.jpg` -
   [source](https://commons.wikimedia.org/wiki/File:Twin_Towers-NYC.jpg)
   > Copyright 2020 Kirby Kevinson
-* `static/images/cover-art/casiopea-casiopea.jpg` -
-  [source](https://commons.wikimedia.org/wiki/File:Lada_2102_orange.jpg)
+* `static/images/cover-art/mfsb-mysteries-of-the-world.jpg` -
+  [source](https://publicdomainpictures.net/en/view-image.php?image=16300&picture=zebra)
+  > Copyright 2020 Kirby Kevinson
+* `static/images/cover-art/mfsb-philadelphia-freedom.jpg` -
+  [source](https://publicdomainpictures.net/en/view-image.php?image=262846&picture=lightning)
+  > Copyright 2020 Kirby Kevinson
+* `static/images/cover-art/mfsb-summertime.jpg` -
+  [source](https://commons.wikimedia.org/wiki/File:Fire_hydrant_5.jpg)
+  > Copyright 2020 Kirby Kevinson
+* `static/images/cover-art/mfsb-univeral-love.jpg` -
+  [source](https://publicdomainpictures.net/en/view-image.php?image=76221&picture=japanese-waves-painting)
   > Copyright 2020 Kirby Kevinson
 * `static/images/cover-art/yutaka-yokokura-love-light.jpg` -
   [source](https://commons.wikimedia.org/wiki/File:Strongylocentrotus_franciscanus.jpg)

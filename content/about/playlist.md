@@ -11,13 +11,13 @@ recreate everything with stock images (work in progress).
 
 {{% album %}}
 
-[![MFSB - MFSB](https://i.imgur.com/zfWo51a.jpg)](https://www.discogs.com/MFSB-MFSB/master/114831)
+[![MFSB - MFSB](/images/cover-art/mfsb-mfsb.jpg)](https://www.discogs.com/MFSB-MFSB/master/114831)
 [![MFSB - Love is the Message](https://i.imgur.com/CgZ0XPR.jpg)](https://www.discogs.com/MFSB-Love-Is-The-Message/master/114829)
-[![MFSB - Universal Love](https://i.imgur.com/NIRbb61.jpg)](https://www.discogs.com/MFSB-Universal-Love/master/143504)
-[![MFSB - Philadelphia Freedom](https://i.imgur.com/TDggLd4.jpg)](https://www.discogs.com/MFSB-Philadelphia-Freedom/master/143503)
-[![MFSB - Summertime](https://i.imgur.com/n6D7phx.jpg)](https://www.discogs.com/MFSB-Summertime/master/143505)
+[![MFSB - Universal Love](/images/cover-art/mfsb-universal-love.jpg)](https://www.discogs.com/MFSB-Universal-Love/master/143504)
+[![MFSB - Philadelphia Freedom](/images/cover-art/mfsb-philadelphia-freedom.jpg)](https://www.discogs.com/MFSB-Philadelphia-Freedom/master/143503)
+[![MFSB - Summertime](/images/cover-art/mfsb-summertime.jpg)](https://www.discogs.com/MFSB-Summertime/master/143505)
 [![MFSB - MFSB: The Gamble & Huff Orchestra](https://i.imgur.com/W8Gs8p2.jpg)](https://www.discogs.com/MFSB-MFSBGamble-Huff-Orchestra/master/143502)
-[![MFSB - Mysteries of the World](https://i.imgur.com/JepdaEf.jpg)](https://www.discogs.com/MFSB-Mysteries-Of-The-World/master/143501)
+[![MFSB - Mysteries of the World](/images/cover-art/mfsb-mysteries-of-the-world.jpg)](https://www.discogs.com/MFSB-Mysteries-Of-The-World/master/143501)
 
 {{% /album %}}
 
@@ -26,7 +26,7 @@ recreate everything with stock images (work in progress).
 {{% album %}}
 
 [![Captain Beefheart and his Magic Band - Trout Mask Replica](https://i.imgur.com/DtnM9Ff.jpg)](https://www.discogs.com/Captain-Beefheart-His-Magic-Band-Trout-Mask-Replica/master/463963)
-[![Earth, Wind & Fire - I Am](https://i.imgur.com/aNJ7I14.jpg)](https://www.discogs.com/Earth-Wind-Fire-I-Am/master/99478)
+[![Earth, Wind & Fire - I Am](/images/cover-art/earth-wind-and-fire-i-am.jpg)](https://www.discogs.com/Earth-Wind-Fire-I-Am/master/99478)
 [![Idris Muhammad - Turn This Mutha Out](https://i.imgur.com/NKGvBK3.jpg)](https://www.discogs.com/Idris-Muhammad-Turn-This-Mutha-Out/master/59109)
 [![Leslie Hall - Songs in the Key of Gold](https://i.imgur.com/0PrmDXI.jpg)](https://www.discogs.com/Leslie-Hall-Songs-In-The-Key-Of-Gold/master/803805)
 
@@ -62,8 +62,8 @@ recreate everything with stock images (work in progress).
 
 [![Bill Wurtz](/images/cover-art/bill-wurtz.jpg)](https://billwurtz.com/songs.html)
 [![Flamingosis - Flamingosis](https://i.imgur.com/iplEiJE.jpg)](https://www.discogs.com/Flamingosis-Flamingosis/release/8894997)
-[![Flamingosis - A Groovy Thing](https://i.imgur.com/gNjUkPw.jpg)](https://www.discogs.com/Flamingosis-A-Groovy-Thing/release/11794683)
-[![Flamingosis - Flight Fantastic](https://i.imgur.com/BHe1PmC.jpg)](https://www.discogs.com/Flamingosis-Flight-Fantastic/release/12337928)
+[![Flamingosis - A Groovy Thing](/images/cover-art/flamingosis-a-groovy-thing.jpg)](https://www.discogs.com/Flamingosis-A-Groovy-Thing/release/11794683)
+[![Flamingosis - Flight Fantastic](/images/cover-art/flamingosis-flight-fantastic.jpg)](https://www.discogs.com/Flamingosis-Flight-Fantastic/release/12337928)
 [![Saint Pepsi - Hit Vibes](/images/cover-art/saint-pepsi-hit-vibes.jpg)](https://www.discogs.com/Saint-Pepsi-Hit-Vibes/master/710738)
 [![Skylar Spence - Prom King](https://i.imgur.com/2jyfCnU.jpg)](https://www.discogs.com/Skylar-Spence-Prom-King/master/886864)
 [![Yung Bae - Bae 5](https://i.imgur.com/lTRhibF.jpg)](https://www.discogs.com/Yung-Bae-Bae-5/master/1581145)
