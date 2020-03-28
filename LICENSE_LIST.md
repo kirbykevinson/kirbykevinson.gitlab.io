@@ -89,6 +89,25 @@
 * `static/images/cover-art/junko-ohashi-magical.jpg` -
   [source](https://commons.wikimedia.org/wiki/File:Twin_Towers-NYC.jpg)
   > Copyright 2020 Kirby Kevinson
+* ```
+  static/images/cover-art/{
+  	idris-muhammad-turn-this-mutha-out,
+	mariya-takeuchi-love-songs,
+	momoko-kikuchi-adventure,
+	mfsb-mfsb-gamble-and-huff-orchestra,
+	yutaka-yokokura-brazasia
+  }.jpg
+  ``` -
+  [source](https://commons.wikimedia.org/wiki/File:President_Barack_Obama.jpg),
+  [source](https://commons.wikimedia.org/wiki/File:Official_portrait_of_Barack_Obama.jpg),
+  [source](https://publicdomainpictures.net/en/view-image.php?image=317468&picture=summer-sunset-at-the-lake),
+  [source](https://publicdomainpictures.net/en/view-image.php?image=17111&picture=sunset),
+  [source](https://publicdomainpictures.net/en/view-image.php?image=233918&picture=path-in-tropical-forest)
+  > Original image (Official photographic portrait of US President
+  > Barack Obama): Copyright 2009 Pete Souza, The Obama-Biden
+  > Transition Project
+  >
+  > This modified image: Copyright 2020 Kirby Kevinson
 * `static/images/cover-art/mfsb-mysteries-of-the-world.jpg` -
   [source](https://publicdomainpictures.net/en/view-image.php?image=16300&picture=zebra)
   > Copyright 2020 Kirby Kevinson
