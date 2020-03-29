@@ -95,6 +95,8 @@
 	  [source](https://commons.wikimedia.org/wiki/File:Bill_Clinton_in_the_White_House_Music_Room_%28cropped2%29.jpg)
 	* `static/images/cover-art/junko-ohashi-magical.jpg` -
 	  [source](https://commons.wikimedia.org/wiki/File:Twin_Towers-NYC.jpg)
+	* `static/images/cover-art/mfsb-love-is-the-message.jpg` -
+	  [source](https://publicdomainpictures.net/en/view-image.php?image=224135&picture=atomic-war)
 	* `static/images/cover-art/mfsb-mysteries-of-the-world.jpg` -
 	  [source](https://publicdomainpictures.net/en/view-image.php?image=16300&picture=zebra)
 	* `static/images/cover-art/mfsb-philadelphia-freedom.jpg` -
@@ -103,8 +105,15 @@
 	  [source](https://commons.wikimedia.org/wiki/File:Fire_hydrant_5.jpg)
 	* `static/images/cover-art/mfsb-univeral-love.jpg` -
 	  [source](https://publicdomainpictures.net/en/view-image.php?image=76221&picture=japanese-waves-painting)
+	* `static/images/cover-art/skylar-spence-prom-king.jpg` -
+	  [source](https://publicdomainpictures.net/en/view-image.php?image=222443&picture=fireworks),
+	  [source](https://publicdomainpictures.net/en/view-image.php?image=264802&picture=diamond-glass-pattern-background),
+	  [source](https://publicdomainpictures.net/en/view-image.php?image=66806&picture=view-outside-plane-window),
+	  [source](https://publicdomainpictures.net/en/view-image.php?image=6368&picture=new-york-taxi),
+	  [source](https://publicdomainpictures.net/en/view-image.php?image=35819&picture=sailing-boats)
   > Copyright 2020 Kirby Kevinson
 * Cover art derived from [this picture of Barack Obama](https://commons.wikimedia.org/wiki/File:Official_portrait_of_Barack_Obama.jpg)
+	* `static/images/cover-art/flamingosis-flamingosis.jpg` -
 	* `static/images/cover-art/momoko-kikuchi-adventure.jpg` -
 	  [source](https://publicdomainpictures.net/en/view-image.php?image=317468&picture=summer-sunset-at-the-lake),
 	  [source](https://publicdomainpictures.net/en/view-image.php?image=17111&picture=sunset)
@@ -119,6 +128,7 @@
 * Cover art derived from [another picture of Barack Obama](https://commons.wikimedia.org/wiki/File:President_Barack_Obama.jpg)
 	* `static/images/cover-art/idris-muhammad-turn-this-mutha-out.jpg`
 	* `static/images/cover-art/mariya-takeuchi-love-songs.jpg`
+	* `static/images/cover-art/yung-bae-bae-5.jpg`
   > Copyright 2020 Kirby Kevinson
 * All other files
   > Copyright 2018, 2019, 2020 Kirby Kevinson
