@@ -80,51 +80,45 @@
 * `static/images/backgrounds/stars.png` -
   [source](https://commons.wikimedia.org/wiki/File:Phoenix_dwarf_galaxy.jpg)
   > Copyright 2011 ESA/Hubble
-* `static/images/cover-art/casiopea-casiopea.jpg` -
-  [source](https://commons.wikimedia.org/wiki/File:Lada_2102_orange.jpg)
-  > Copyright 2020 Kirby Kevinson
-* `static/images/cover-art/earth-wind-and-fire-i-am.jpg` -
-  [source](https://commons.wikimedia.org/wiki/File:Parthenon_east_side_Acropolis_Athens,_Greece.jpg)
-  > Copyright 2020 Kirby Kevinson
-* `static/images/cover-art/junko-ohashi-magical.jpg` -
-  [source](https://commons.wikimedia.org/wiki/File:Twin_Towers-NYC.jpg)
-  > Copyright 2020 Kirby Kevinson
-* ```
-  static/images/cover-art/{
-  	idris-muhammad-turn-this-mutha-out,
-	mariya-takeuchi-love-songs,
-	momoko-kikuchi-adventure,
-	mfsb-mfsb-gamble-and-huff-orchestra,
-	yutaka-yokokura-brazasia
-  }.jpg
-  ``` -
-  [source](https://commons.wikimedia.org/wiki/File:President_Barack_Obama.jpg),
-  [source](https://commons.wikimedia.org/wiki/File:Official_portrait_of_Barack_Obama.jpg),
-  [source](https://publicdomainpictures.net/en/view-image.php?image=317468&picture=summer-sunset-at-the-lake),
-  [source](https://publicdomainpictures.net/en/view-image.php?image=17111&picture=sunset),
-  [source](https://publicdomainpictures.net/en/view-image.php?image=233918&picture=path-in-tropical-forest)
-  > Original image (Official photographic portrait of US President
-  > Barack Obama): Copyright 2009 Pete Souza, The Obama-Biden
-  > Transition Project
-  >
-  > This modified image: Copyright 2020 Kirby Kevinson
-* `static/images/cover-art/mfsb-mysteries-of-the-world.jpg` -
-  [source](https://publicdomainpictures.net/en/view-image.php?image=16300&picture=zebra)
-  > Copyright 2020 Kirby Kevinson
-* `static/images/cover-art/mfsb-philadelphia-freedom.jpg` -
-  [source](https://publicdomainpictures.net/en/view-image.php?image=262846&picture=lightning)
-  > Copyright 2020 Kirby Kevinson
-* `static/images/cover-art/mfsb-summertime.jpg` -
-  [source](https://commons.wikimedia.org/wiki/File:Fire_hydrant_5.jpg)
-  > Copyright 2020 Kirby Kevinson
-* `static/images/cover-art/mfsb-univeral-love.jpg` -
-  [source](https://publicdomainpictures.net/en/view-image.php?image=76221&picture=japanese-waves-painting)
-  > Copyright 2020 Kirby Kevinson
 * `static/images/cover-art/yutaka-yokokura-love-light.jpg` -
   [source](https://commons.wikimedia.org/wiki/File:Strongylocentrotus_franciscanus.jpg)
   > Original image (Strongylocentrotus franciscanus): Copyright 2008
   > Taollan82, Kirt L. Onthank
   >
   > This modified image: Copyright 2020 Kirby Kevinson
+* Cover art derived from public domain works
+	* `static/images/cover-art/casiopea-casiopea.jpg` -
+	  [source](https://commons.wikimedia.org/wiki/File:Lada_2102_orange.jpg)
+	* `static/images/cover-art/earth-wind-and-fire-i-am.jpg` -
+	  [source](https://commons.wikimedia.org/wiki/File:Parthenon_east_side_Acropolis_Athens,_Greece.jpg)
+	* `static/images/cover-art/hiroshi-suzuki-cat.jpg` -
+	  [source](https://commons.wikimedia.org/wiki/File:Bill_Clinton_in_the_White_House_Music_Room_%28cropped2%29.jpg)
+	* `static/images/cover-art/junko-ohashi-magical.jpg` -
+	  [source](https://commons.wikimedia.org/wiki/File:Twin_Towers-NYC.jpg)
+	* `static/images/cover-art/mfsb-mysteries-of-the-world.jpg` -
+	  [source](https://publicdomainpictures.net/en/view-image.php?image=16300&picture=zebra)
+	* `static/images/cover-art/mfsb-philadelphia-freedom.jpg` -
+	  [source](https://publicdomainpictures.net/en/view-image.php?image=262846&picture=lightning)
+	* `static/images/cover-art/mfsb-summertime.jpg` -
+	  [source](https://commons.wikimedia.org/wiki/File:Fire_hydrant_5.jpg)
+	* `static/images/cover-art/mfsb-univeral-love.jpg` -
+	  [source](https://publicdomainpictures.net/en/view-image.php?image=76221&picture=japanese-waves-painting)
+  > Copyright 2020 Kirby Kevinson
+* Cover art derived from [this picture of Barack Obama](https://commons.wikimedia.org/wiki/File:Official_portrait_of_Barack_Obama.jpg)
+	* `static/images/cover-art/momoko-kikuchi-adventure.jpg` -
+	  [source](https://publicdomainpictures.net/en/view-image.php?image=317468&picture=summer-sunset-at-the-lake),
+	  [source](https://publicdomainpictures.net/en/view-image.php?image=17111&picture=sunset)
+	* `static/images/cover-art/mfsb-mfsb-gamble-and-huff-orchestra.jpg`
+	* `static/images/cover-art/yutaka-yokokura-brazasia.jpg` -
+	  [source](https://publicdomainpictures.net/en/view-image.php?image=233918&picture=path-in-tropical-forest)
+  > Original image (Official photographic portrait of US President
+  > Barack Obama): Copyright 2009 Pete Souza, The Obama-Biden
+  > Transition Project
+  >
+  > This modified image: Copyright 2020 Kirby Kevinson
+* Cover art derived from [another picture of Barack Obama](https://commons.wikimedia.org/wiki/File:President_Barack_Obama.jpg)
+	* `static/images/cover-art/idris-muhammad-turn-this-mutha-out.jpg`
+	* `static/images/cover-art/mariya-takeuchi-love-songs.jpg`
+  > Copyright 2020 Kirby Kevinson
 * All other files
   > Copyright 2018, 2019, 2020 Kirby Kevinson
