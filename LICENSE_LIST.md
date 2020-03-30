@@ -113,7 +113,9 @@
 	  [source](https://publicdomainpictures.net/en/view-image.php?image=35819&picture=sailing-boats)
   > Copyright 2020 Kirby Kevinson
 * Cover art derived from [this picture of Barack Obama](https://commons.wikimedia.org/wiki/File:Official_portrait_of_Barack_Obama.jpg)
-	* `static/images/cover-art/flamingosis-flamingosis.jpg` -
+	* `static/images/cover-art/captain-beefheart-trout-mask-replica.jpg`
+	* `static/images/cover-art/flamingosis-flamingosis.jpg`
+	* `static/images/cover-art/mariya-takeuchi-beginning.jpg`
 	* `static/images/cover-art/momoko-kikuchi-adventure.jpg` -
 	  [source](https://publicdomainpictures.net/en/view-image.php?image=317468&picture=summer-sunset-at-the-lake),
 	  [source](https://publicdomainpictures.net/en/view-image.php?image=17111&picture=sunset)
@@ -126,8 +128,11 @@
   >
   > This modified image: Copyright 2020 Kirby Kevinson
 * Cover art derived from [another picture of Barack Obama](https://commons.wikimedia.org/wiki/File:President_Barack_Obama.jpg)
+	* `static/images/cover-art/anri-timely.jpg`
 	* `static/images/cover-art/idris-muhammad-turn-this-mutha-out.jpg`
+	* `static/images/cover-art/leslie-hall-songs-in-the-key-of-gold.jpg`
 	* `static/images/cover-art/mariya-takeuchi-love-songs.jpg`
+	* `static/images/cover-art/taeko-ohnuki-mignonne.jpg`
 	* `static/images/cover-art/yung-bae-bae-5.jpg`
   > Copyright 2020 Kirby Kevinson
 * All other files
