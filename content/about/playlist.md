@@ -5,7 +5,7 @@ title: "Playlist"
 TLDR: God bless the YouTube algorithm.
 
 Using copyrighted cover art is not the best idea, so I decided to
-recreate everything with stock images (work in progress).
+recreate everything with stock images.
 
 ## MFSB
 
@@ -42,13 +42,13 @@ recreate everything with stock images (work in progress).
 [![Hiroshi Suzuki - Cat](/images/cover-art/hiroshi-suzuki-cat.jpg)](https://www.discogs.com/Hiroshi-Suzuki-Cat/master/751454)
 [![Junko Ohashi - Magical](/images/cover-art/junko-ohashi-magical.jpg)](https://www.discogs.com/Junko-Ohashi-Magical/master/1455912)
 [![Mariya Takeuchi - Beginning](/images/cover-art/mariya-takeuchi-beginning.jpg)](https://www.discogs.com/Mariya-Takeuchi-Beginning/master/1391096)
-[![Mariya Takeuchi - University Street](https://i.imgur.com/Lfw2QVH.jpg)](https://www.discogs.com/Mariya-Takeuchi-University-Street/master/1391097)
+[![Mariya Takeuchi - University Street](/images/cover-art/mariya-takeuchi-university-street.jpg)](https://www.discogs.com/Mariya-Takeuchi-University-Street/master/1391097)
 [![Mariya Takeuchi - Love Songs](/images/cover-art/mariya-takeuchi-love-songs.jpg)](https://www.discogs.com/Mariya-Takeuchi-Love-Songs/master/1254126)
 [![Mariya Takeuchi - Miss M](/images/cover-art/mariya-takeuchi-miss-m.jpg)](https://www.discogs.com/%E7%AB%B9%E5%86%85%E3%81%BE%E3%82%8A%E3%82%84-Miss-M/master/1005067)
-[![Mariya Takeuchi - Portrait](https://i.imgur.com/h9StuZO.jpg)](https://www.discogs.com/%E7%AB%B9%E5%86%85%E3%81%BE%E3%82%8A%E3%82%84-Portrait-%E3%83%9D%E3%83%BC%E3%83%88%E3%83%AC%E3%82%A4%E3%83%88/master/932826)
-[![Mariya Takeuchi - Variety](https://i.imgur.com/GMaxjXG.jpg)](https://www.discogs.com/Mariya-Takeuchi-Variety/master/606606)
-[![Mariya Takeuchi - Request](https://i.imgur.com/F8sUjgf.jpg)](https://www.discogs.com/Mariya-Takeuchi-Request/master/1024147)
-[![Mariya Takeuchi - Quiet Life](https://i.imgur.com/VwzgsQ9.jpg)](https://www.discogs.com/Mariya-Takeuchi-Quiet-Life/master/1587653)
+[![Mariya Takeuchi - Portrait](/images/cover-art/mariya-takeuchi-portrait.jpg)](https://www.discogs.com/%E7%AB%B9%E5%86%85%E3%81%BE%E3%82%8A%E3%82%84-Portrait-%E3%83%9D%E3%83%BC%E3%83%88%E3%83%AC%E3%82%A4%E3%83%88/master/932826)
+[![Mariya Takeuchi - Variety](/images/cover-art/mariya-takeuchi-variety.jpg)](https://www.discogs.com/Mariya-Takeuchi-Variety/master/606606)
+[![Mariya Takeuchi - Request](/images/cover-art/mariya-takeuchi-request.jpg)](https://www.discogs.com/Mariya-Takeuchi-Request/master/1024147)
+[![Mariya Takeuchi - Quiet Life](/images/cover-art/mariya-takeuchi-quiet-life.jpg)](https://www.discogs.com/Mariya-Takeuchi-Quiet-Life/master/1587653)
 [![Momoko Kikuchi - Adventure](/images/cover-art/momoko-kikuchi-adventure.jpg)](https://www.discogs.com/Momoko-Kikuchi-Adventure/master/618385)
 [![Taeko Ohnuki - Mignonne](/images/cover-art/taeko-ohnuki-mignonne.jpg)](https://www.discogs.com/Taeko-Ohnuki-Mignonne/master/530233)
 [![Yutaka Yokokura - Love Light](/images/cover-art/yutaka-yokokura-love-light.jpg)](https://www.discogs.com/Yutaka-Yokokura-Love-Light/master/302661)
@@ -69,6 +69,3 @@ recreate everything with stock images (work in progress).
 [![Yung Bae - Bae 5](/images/cover-art/yung-bae-bae-5.jpg)](https://www.discogs.com/Yung-Bae-Bae-5/master/1581145)
 
 {{% /album %}}
-
-(Embedded image courtesy of Imgur. All embedded images are copyrighted
-by their respective holders.)

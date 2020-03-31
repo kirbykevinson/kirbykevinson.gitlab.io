@@ -116,6 +116,9 @@
 	* `static/images/cover-art/captain-beefheart-trout-mask-replica.jpg`
 	* `static/images/cover-art/flamingosis-flamingosis.jpg`
 	* `static/images/cover-art/mariya-takeuchi-beginning.jpg`
+	* `static/images/cover-art/mariya-takeuchi-quiet-life.jpg`
+	* `static/images/cover-art/mariya-takeuchi-request.jpg`
+	* `static/images/cover-art/mariya-takeuchi-variety.jpg`
 	* `static/images/cover-art/momoko-kikuchi-adventure.jpg` -
 	  [source](https://publicdomainpictures.net/en/view-image.php?image=317468&picture=summer-sunset-at-the-lake),
 	  [source](https://publicdomainpictures.net/en/view-image.php?image=17111&picture=sunset)
@@ -132,6 +135,8 @@
 	* `static/images/cover-art/idris-muhammad-turn-this-mutha-out.jpg`
 	* `static/images/cover-art/leslie-hall-songs-in-the-key-of-gold.jpg`
 	* `static/images/cover-art/mariya-takeuchi-love-songs.jpg`
+	* `static/images/cover-art/mariya-takeuchi-portrait.jpg`
+	* `static/images/cover-art/mariya-takeuchi-university-street.jpg`
 	* `static/images/cover-art/taeko-ohnuki-mignonne.jpg`
 	* `static/images/cover-art/yung-bae-bae-5.jpg`
   > Copyright 2020 Kirby Kevinson
