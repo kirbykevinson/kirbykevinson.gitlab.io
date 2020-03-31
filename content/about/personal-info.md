@@ -5,7 +5,7 @@ title: "Personal info"
 ## Basics
 
 * Full name: Kirby Kevinson
-* Real name: I fucking hate it and prefer to never use
+* Legal name: I fucking hate it and prefer to never use
 * Occupation: (shitty) student
 * Interests: retro and/or obscure things, [free software]
 
@@ -39,6 +39,9 @@ title: "Personal info"
 
 * Color: [#FBAAC0]
 * Digit: 6
+* Number: any positive even number that is either a power of 2 or the
+  sum of a power of 2 and its half (2, 4, 6, 8, 12, 16, 24, 32, 48,
+  64, 96...)
 * Letter: h
 * Emoji: 😳
 * Song: [MFSB - Summertime]
@@ -65,8 +68,9 @@ title: "Personal info"
 
 ## Least favorite things
 
-* Color: [#ADFF2F]
+* Color: approximately [#ADFF2F]
 * Digit: N/A
+* Number: N/A
 * Letter: N/A
 * Emoji: 😆
 * Music genre: [Russian chanson]
