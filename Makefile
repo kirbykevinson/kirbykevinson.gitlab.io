@@ -1,6 +1,6 @@
 .PHONY: all clean gitlab build neocities
 
-all: gitlab neocities
+NEOCITIES_FLAGS = -e audio
 
 clean:
 	rm -rf public/*
@@ -12,4 +12,7 @@ build:
 	hugo --config neocities-config.toml
 
 neocities: build
-	neocities push -e audio public
+	neocities push $(NEOCITIES_FLAGS) -e images public
+
+neocities-with-images: build
+	neocities push $(NEOCITIES_FLAGS) public
