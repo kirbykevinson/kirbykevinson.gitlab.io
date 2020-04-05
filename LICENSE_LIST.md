@@ -15,6 +15,8 @@
   [source](https://commons.wikimedia.org/wiki/File:Ezra_Cornell's_first_book.jpg)
 * `static/images/backgrounds/bricks.png` -
   [source](https://publicdomainpictures.net/en/view-image.php?image=120778&picture=grey-bricks)
+* `static/images/backgrounds/curtain.png` -
+  [source](https://publicdomainpictures.net/en/view-image.php?image=62656&picture=red-velvet-curtains-background)
 * `static/images/backgrounds/sky.png` -
   [source](https://publicdomainpictures.net/en/view-image.php?image=1279&picture=sky-with-clouds)
 * `static/images/backgrounds/skyline.png` -
