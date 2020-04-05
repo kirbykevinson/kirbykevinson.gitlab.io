@@ -13,7 +13,7 @@ The contents of this repo are responsible for generating both the
 ## How to deploy
 
 ```
-make gitlab neocities[-with-images]
+make gitlab neocities[-full]
 ```
 
 See `Makefile` for more details.

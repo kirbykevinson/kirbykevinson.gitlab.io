@@ -12,7 +12,11 @@ build:
 	hugo --config neocities-config.toml
 
 neocities: build
-	neocities push $(NEOCITIES_FLAGS) -e images public
+	neocities push $(NEOCITIES_FLAGS)\
+		-e images/baako\
+		-e images/cover-art\
+		\
+		public
 
-neocities-with-images: build
+neocities-full: build
 	neocities push $(NEOCITIES_FLAGS) public
