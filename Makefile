@@ -13,6 +13,7 @@ build:
 
 neocities: build
 	neocities push $(NEOCITIES_FLAGS)\
+		-e fonts\
 		-e images/baako\
 		-e images/cover-art\
 		\
