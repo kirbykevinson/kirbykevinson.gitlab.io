@@ -115,6 +115,8 @@
 	  [source](https://publicdomainpictures.net/en/view-image.php?image=66806&picture=view-outside-plane-window),
 	  [source](https://publicdomainpictures.net/en/view-image.php?image=6368&picture=new-york-taxi),
 	  [source](https://publicdomainpictures.net/en/view-image.php?image=35819&picture=sailing-boats)
+	* `static/images/cover-art/yuji-ohno-cosmos.jpg` -
+	  [source](https://commons.wikimedia.org/wiki/File:Voyager_1_Image_of_Jupiter.jpg)
   > Copyright 2020 Kirby Kevinson
 * Cover art derived from [this picture of Barack Obama](https://commons.wikimedia.org/wiki/File:Official_portrait_of_Barack_Obama.jpg)
 	* `static/images/cover-art/captain-beefheart-trout-mask-replica.jpg`

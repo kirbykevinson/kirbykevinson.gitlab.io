@@ -7,20 +7,6 @@ TLDR: God bless the YouTube algorithm.
 Using copyrighted cover art is not the best idea, so I decided to
 recreate everything with stock images.
 
-## MFSB
-
-{{% album %}}
-
-[![MFSB - MFSB](/images/cover-art/mfsb-mfsb.jpg)](https://www.discogs.com/MFSB-MFSB/master/114831)
-[![MFSB - Love is the Message](/images/cover-art/mfsb-love-is-the-message.jpg)](https://www.discogs.com/MFSB-Love-Is-The-Message/master/114829)
-[![MFSB - Universal Love](/images/cover-art/mfsb-universal-love.jpg)](https://www.discogs.com/MFSB-Universal-Love/master/143504)
-[![MFSB - Philadelphia Freedom](/images/cover-art/mfsb-philadelphia-freedom.jpg)](https://www.discogs.com/MFSB-Philadelphia-Freedom/master/143503)
-[![MFSB - Summertime](/images/cover-art/mfsb-summertime.jpg)](https://www.discogs.com/MFSB-Summertime/master/143505)
-[![MFSB - MFSB: The Gamble & Huff Orchestra](/images/cover-art/mfsb-mfsb-gamble-and-huff-orchestra.jpg)](https://www.discogs.com/MFSB-MFSBGamble-Huff-Orchestra/master/143502)
-[![MFSB - Mysteries of the World](/images/cover-art/mfsb-mysteries-of-the-world.jpg)](https://www.discogs.com/MFSB-Mysteries-Of-The-World/master/143501)
-
-{{% /album %}}
-
 ## Western
 
 {{% album %}}
@@ -29,6 +15,13 @@ recreate everything with stock images.
 [![Earth, Wind & Fire - I Am](/images/cover-art/earth-wind-and-fire-i-am.jpg)](https://www.discogs.com/Earth-Wind-Fire-I-Am/master/99478)
 [![Idris Muhammad - Turn This Mutha Out](/images/cover-art/idris-muhammad-turn-this-mutha-out.jpg)](https://www.discogs.com/Idris-Muhammad-Turn-This-Mutha-Out/master/59109)
 [![Leslie Hall - Songs in the Key of Gold](/images/cover-art/leslie-hall-songs-in-the-key-of-gold.jpg)](https://www.discogs.com/Leslie-Hall-Songs-In-The-Key-Of-Gold/master/803805)
+[![MFSB - MFSB](/images/cover-art/mfsb-mfsb.jpg)](https://www.discogs.com/MFSB-MFSB/master/114831)
+[![MFSB - Love is the Message](/images/cover-art/mfsb-love-is-the-message.jpg)](https://www.discogs.com/MFSB-Love-Is-The-Message/master/114829)
+[![MFSB - Universal Love](/images/cover-art/mfsb-universal-love.jpg)](https://www.discogs.com/MFSB-Universal-Love/master/143504)
+[![MFSB - Philadelphia Freedom](/images/cover-art/mfsb-philadelphia-freedom.jpg)](https://www.discogs.com/MFSB-Philadelphia-Freedom/master/143503)
+[![MFSB - Summertime](/images/cover-art/mfsb-summertime.jpg)](https://www.discogs.com/MFSB-Summertime/master/143505)
+[![MFSB - MFSB: The Gamble & Huff Orchestra](/images/cover-art/mfsb-mfsb-gamble-and-huff-orchestra.jpg)](https://www.discogs.com/MFSB-MFSBGamble-Huff-Orchestra/master/143502)
+[![MFSB - Mysteries of the World](/images/cover-art/mfsb-mysteries-of-the-world.jpg)](https://www.discogs.com/MFSB-Mysteries-Of-The-World/master/143501)
 
 {{% /album %}}
 
@@ -49,8 +42,10 @@ recreate everything with stock images.
 [![Mariya Takeuchi - Variety](/images/cover-art/mariya-takeuchi-variety.jpg)](https://www.discogs.com/Mariya-Takeuchi-Variety/master/606606)
 [![Mariya Takeuchi - Request](/images/cover-art/mariya-takeuchi-request.jpg)](https://www.discogs.com/Mariya-Takeuchi-Request/master/1024147)
 [![Mariya Takeuchi - Quiet Life](/images/cover-art/mariya-takeuchi-quiet-life.jpg)](https://www.discogs.com/Mariya-Takeuchi-Quiet-Life/master/1587653)
+[![Masayoshi Takanaka - The Rainbow Goblins](/images/cover-art/masayoshi-takanaka-the-rainbow-goblins.jpg)](https://www.discogs.com/Masayoshi-Takanaka-The-Rainbow-Goblins/master/392507)
 [![Momoko Kikuchi - Adventure](/images/cover-art/momoko-kikuchi-adventure.jpg)](https://www.discogs.com/Momoko-Kikuchi-Adventure/master/618385)
 [![Taeko Ohnuki - Mignonne](/images/cover-art/taeko-ohnuki-mignonne.jpg)](https://www.discogs.com/Taeko-Ohnuki-Mignonne/master/530233)
+[![Yuji Ohno - Cosmos](/images/cover-art/yuji-ohno-cosmos.jpg)](https://www.discogs.com/Yuji-Ohno-Cosmos/master/812869)
 [![Yutaka Yokokura - Love Light](/images/cover-art/yutaka-yokokura-love-light.jpg)](https://www.discogs.com/Yutaka-Yokokura-Love-Light/master/302661)
 [![Yutaka Yokokura - Brazasia](/images/cover-art/yutaka-yokokura-brazasia.jpg)](https://www.discogs.com/Yutaka-Brazasia/master/650541)
 
