@@ -20,10 +20,12 @@ title: "Bookmarks"
 [Artemy Lebedev](https://www.tema.ru/eng/)
 [Alan Resnick](https://alanresnick.info/)
 [billwurtz](https://billwurtz.com/)
+[Craig Balunsat](https://www.balunsat.org/)
 [Dennis Knopf](http://www.dennisknopf.net/)
 [Drew DeVault](https://drewdevault.com/)
 [emersion](https://emersion.fr/)
-[Nathan's Toasty Technology page](http://toastytech.com/)
+[Nathan Toasty](http://toastytech.com/)
+[Nikolay Zhdanov](https://nicolas232.github.io/)
 [null program](https://nullprogram.com/)
 [Whoever I follow on Neocities](https://neocities.org/site/kirbykevinson/follows)
 
@@ -49,6 +51,7 @@ title: "Bookmarks"
 [Public Domain Vectors](https://publicdomainvectors.org/)
 [This X Does Not Exist](https://thisxdoesnotexist.com/)
 [Unsplash](https://unsplash.com/)
+[Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
 
 {{% /links %}}
 
