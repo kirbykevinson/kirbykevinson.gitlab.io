@@ -73,6 +73,10 @@ body {
 	background: var(--background-color);
 }
 
+.only-in-1997 {
+	display: none;
+}
+
 .page-wrapper {
 	flex-grow: 1;
 	max-width: 32em;

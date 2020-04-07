@@ -1,6 +1,8 @@
 {{ define "background" }}
 	{{ if .page.Params.background }}
-		background: url("/images/backgrounds/{{ .page.Params.background }}.png");
+		--background-image: url(
+			"/images/backgrounds/{{ .page.Params.background }}.png"
+		);
 		
 		{{ if eq .page.Params.backgroundScrollDirection "xy" }}
 			animation: var(--background-scroll-xy);
@@ -11,8 +13,6 @@
 		{{ end }};
 	{{ else if .page.Parent }}
 		{{ template "background" (dict "page" .page.Parent) }}
-	{{ else }}
-		var(--background-color)
 	{{ end }}
 {{ end }}
 

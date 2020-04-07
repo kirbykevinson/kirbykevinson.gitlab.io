@@ -46,6 +46,7 @@
 		var(--emoji-fonts);
 	--border-style: outset;
 	--border-radius: 0;
+	--background-image: #007F7F;
 	--background-color: #007F00D8;
 	--foreground-color: #FFFFFF;
 	--subtle-color: #FFFFFF69;
@@ -73,6 +74,11 @@
 
 body {
 	cursor: url("../images/cursors/default.png"), default;
+	background: var(--background-image);
+}
+
+.only-in-1997 {
+	display: block;
 }
 
 .page-wrapper {

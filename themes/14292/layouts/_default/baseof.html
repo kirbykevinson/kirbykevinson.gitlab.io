@@ -41,7 +41,9 @@
 			
 			<main>
 				{{ if .Site.Params.timeDilation }}
-					{{ partial "music.html" . }}
+					<div class="only-in-1997">
+						{{ partial "music.html" . }}
+					</div>
 				{{ end }}
 				
 				{{ block "main" . }}{{ end }}
