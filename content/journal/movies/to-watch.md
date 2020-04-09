@@ -9,6 +9,5 @@ title: "To watch"
 * Interstellar
 * Moana
 * Pulp Fiction
-* The Room
 * Toy Story
 * Zootopia
