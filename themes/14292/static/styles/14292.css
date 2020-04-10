@@ -3,14 +3,14 @@
 @font-face {
 	src:
 		local("Source Sans Pro"),
-		url("../fonts/source-sans-pro.woff2");
+		url("/fonts/source-sans-pro.woff2");
 	font-family: "Source Sans Pro";
 	font-display: swap;
 }
 @font-face {
 	src:
 		local("Source Code Pro"),
-		url("../fonts/source-code-pro.woff2");
+		url("/fonts/source-code-pro.woff2");
 	font-family: "Source Code Pro";
 	font-display: swap;
 }
