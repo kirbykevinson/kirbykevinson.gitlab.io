@@ -15,6 +15,7 @@ neocities: build
 	neocities push $(NEOCITIES_FLAGS)\
 		-e extra\
 		-e extra/baako\
+		-e extra/mfsb\
 		-e fonts\
 		-e images\
 		-e images/backgrounds\
