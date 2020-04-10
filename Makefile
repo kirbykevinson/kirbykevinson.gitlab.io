@@ -13,9 +13,14 @@ build:
 
 neocities: build
 	neocities push $(NEOCITIES_FLAGS)\
+		-e extra\
+		-e extra/baako\
 		-e fonts\
-		-e images/baako\
+		-e images\
+		-e images/backgrounds\
+		-e images/buttons\
 		-e images/cover-art\
+		-e images/cursors\
 		\
 		public
 
