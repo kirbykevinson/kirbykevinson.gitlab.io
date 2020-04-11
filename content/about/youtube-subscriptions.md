@@ -96,5 +96,10 @@ are added in the end.
 [The Verge](https://www.youtube.com/user/TheVerge)
 [H3 Podcast](https://www.youtube.com/channel/UCLtREJY21xRfCuEKvdki1Kw)
 [CallMeCarsonLIVE](https://www.youtube.com/user/C4rs0nCS)
+[JonTronShow](https://www.youtube.com/user/JonTronShow)
+[Kurzgesagt – In a Nutshell](https://www.youtube.com/user/Kurzgesagt)
+[Unus Annus](https://www.youtube.com/channel/UCIcgBZ9hEJxHv6r_jDYOMqg)
+[Michael MJD](https://www.youtube.com/user/mjd7999)
+[Chris Were Digital](https://www.youtube.com/user/ChrisWereDigital)
 
 {{% /links %}}
