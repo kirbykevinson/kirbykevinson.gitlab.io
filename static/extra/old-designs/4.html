@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>Home | Kirby Kevinson</title>
+		
+		<meta charset="utf-8">
+		
+		<link href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNk+A8AAQUBAScY42YAAAAASUVORK5CYII=" rel="icon">
+		
+		<style>
+			:root {
+				--mono-font:
+					Roboto Mono,
+					Consolas,
+					Monaco,
+					Lucida Console,
+					Liberation Mono,
+					Menlo,
+					DejaVu Sans Mono,
+					Bitstream Vera Sans Mono,
+					Courier New,
+					monospace;
+				--text-foreground-color: #000000;
+				--text-background-color: #FFFFFF;
+				--foreground-color: #000000;
+				--background-color: #FFFF00;
+				--hover-transform: scale(1.25);
+				--active-transform: scale(0.75);
+				--skew-transform: skew(-22.5deg);
+				--unskew-transform: skew(22.5deg);
+				--transition-duration: 0.2s;
+			}
+			
+			* {
+				font-size: 15px;
+				font-family: font;
+				text-decoration: none;
+				color: var(--text-foreground-color);
+				-webkit-tap-highlight-color: transparent;
+				-webkit-focus-ring-color: transparent;
+			}
+				*:focus {
+					outline: none;
+				}
+				
+				*::-moz-focus-inner {
+					border: none;
+				}
+			
+			body {
+				padding: 0;
+				margin: 0;
+			}
+			
+			@font-face {
+				font-family: font;
+				src: url("/fonts/source-serif-pro.woff2");
+			}
+			
+			.skewed {
+				transform: var(--skew-transform);
+			}
+				.skewed > * {
+					transform: var(--unskew-transform);
+				}
+			
+			.link {
+				padding: 0em 0.25em;
+			}
+				.link, .link > * {
+					display: inline-block;
+					color: var(--background-color);
+					transition:
+						text-decoration var(--transition-duration),
+						color var(--transition-duration),
+						background var(--transition-duration),
+						transform var(--transition-duration);
+				}
+					.link > * {
+						text-decoration: underline;
+					}
+				
+				.link:hover {
+					background: var(--background-color);
+				}
+					.link:hover > * {
+						text-decoration: none;
+						color: var(--foreground-color);
+					}
+				.link:active > * {
+					transform: var(--active-transform);
+				}
+					.link.skewed:active > * {
+						transform: var(--active-transform) var(--unskew-transform);
+					}
+			
+			.button {
+				display: inline-block;
+			}
+				.button > * {
+					display: inline-block;
+					transition: transform var(--transition-duration);
+				}
+					.button:hover > * {
+						transform: var(--hover-transform);
+					}
+					.button:active > * {
+						transform: var(--active-transform);
+					}
+						.button.skewed:hover > * {
+							transform: var(--hover-transform) var(--unskew-transform);
+						}
+						.button.skewed:active > * {
+							transform: var(--active-transform) var(--unskew-transform);
+						}
+				
+				.button > span {
+					padding: 0.25em 0;
+				}
+				
+				.button.solid {
+					background: var(--background-color);
+				}
+					.button.solid * {
+						color: var(--foreground-color);
+					}
+					
+					.button.solid > * {
+						padding: 0 calc(12.5% + 0.25em);
+					}
+					
+					.button.solid > span {
+						padding: 0.25em calc(12.5% + 0.25em);
+					}
+			
+			.links {
+				display: inline-block;
+				padding: 0 12px;
+				line-height: 0;
+				background: var(--background-color);
+			}
+				.links span {
+					line-height: 0;
+					font-size: 16px;
+					color: var(--foreground-color);
+				}
+			
+			#menu-button {
+				z-index: 10000;
+				display: inline;
+				position: fixed;
+				top: 0;
+				left: 0;
+				width: 112px;
+				height: 112px;
+				background: linear-gradient(
+					-225deg,
+					
+					var(--background-color) 50%, #00000000 50%
+				);
+				transform: skew(0);
+			}
+				#menu-button img {
+					position: absolute;
+					top: 5px;
+					left: 5px;
+					transition: transform var(--transition-duration);
+				}
+					#menu-button:hover img {
+						transform: var(--hover-transform);
+					}
+					#menu-button:active img {
+						transform: var(--active-transform);
+					}
+			
+			#menu {
+				z-index: 10001;
+				position: fixed;
+				top: 0;
+				left: -100vw;
+				width: 100vw;
+				height: 100vh;
+				overflow-x: hidden;
+				overflow-y: auto;
+				line-height: 0;
+				text-align: left;
+				opacity: 0;
+				background: linear-gradient(to right, #000000 50%, #0000007F 50%);
+				transition: left 0.1s, opacity 0.1s;
+			}
+				#menu * {
+					width: 50vw;
+				}
+				
+				#menu:target {
+					left: 0;
+					opacity: 1;
+				}
+				
+				.menu-item {}
+					.menu-item img {
+						height: 15vh;
+						transition: transform var(--transition-duration);
+					}
+						.menu-item img:hover {
+							transform: scale(1.25);
+						}
+						.menu-item img:active {
+							transform: scale(0.75);
+						}
+				
+				 #menu #ui-mask {
+					position: absolute;
+					top: 0;
+					right: 0;
+					height: 100vh;
+				 }
+			
+			:root {
+				--background-color: #0000FF;
+				--foreground-color: #FFFFFF;
+			}
+			
+			body {
+				display: table-cell;
+				width: 100vw;
+				height: 100vh;
+				vertical-align: middle;
+				white-space: nowrap;
+				line-height: 0;
+				text-align: center;
+				background: url("4.jpg") fixed center center;
+				background-size: cover;
+			}
+			
+			#avatar {
+				display: inline-block;
+				width: 256px;
+				height: 256px;
+				margin-bottom: 32px;
+				border-radius: 50%;
+				background: #FFFFFF;
+			}
+			
+			.block {
+				display: inline-block;
+				margin-bottom: 8px;
+				line-height: normal;
+				background: var(--text-background-color);
+			}
+				.block > * {
+					display: inline-block;
+					padding: 0 0.5em;
+				}
+				
+				.block:nth-child(5) {
+					margin-bottom: 32px;
+				}
+				
+				#name {
+					font-size: 72px;
+				}
+				#occupation {
+					font-size: 36px;
+				}
+			
+			#easter-egg {
+				position: absolute;
+				bottom: 16px;
+				right: 5px;
+			}
+		</style>
+	</head>
+	
+	<body>
+		<div id="main">
+			<span id="avatar"></span><br>
+			
+			<span class="block skewed">
+				<span id="name">Kirby Kevinson</span><br>
+			</span><br>
+			<span class="block skewed">
+				<span id="occupation">I'm still alive</span>
+			</span><br>
+			
+			<span class="links skewed">
+				<a
+					href="#"
+					
+					class="button"
+					
+					title="ItchIO profile"
+				><img src="placeholder.svg"></a>
+				<a
+					href="#"
+					
+					class="button"
+					
+					title="npm profile"
+				><img src="placeholder.svg"></a>
+				<a
+					href="#"
+					
+					class="button"
+					
+					title="GitLab profile"
+				><img src="placeholder.svg"></a>
+				<a
+					href="#"
+					
+					class="button"
+					
+					title="GitHub profile"
+				><img src="placeholder.svg"></a>
+				<a
+					href="#"
+					
+					class="button"
+					
+					title="Goblin Refuge profile"
+				><img src="placeholder.svg"></a>
+				<a
+					href="#"
+					
+					class="button"
+					
+					title="BitChute profile"
+				><img src="placeholder.svg"></a>
+				<a
+					href="#"
+					
+					class="button"
+					
+					title="Reddit profile"
+				><img src="placeholder.svg"></a>
+				<a
+					href="#"
+					
+					class="button"
+					
+					title="Twitter profile"
+				><img src="placeholder.svg"></a>
+				<a
+					href="#"
+					
+					class="button"
+					
+					title="Telegram profile"
+				><img src="placeholder.svg"></a>
+			</span>
+		</div>
+		
+		<a
+			href="#"
+			
+			id="easter-egg"
+		>PRESS HERE ; )</a>
+		
+		<a
+			href="#menu"
+			
+			id="menu-button"
+			
+			title="Menu"
+		>
+			<img src="placeholder.svg">
+		</a>
+		
+		<div id="menu">
+			<a
+				href="#"
+				
+				class="menu-item"
+			><img src="placeholder.svg"></a><br>
+			<a
+				href="#menu"
+				
+				class="menu-item"
+			><img src="placeholder.svg"></a><br>
+			<a
+				href="#menu"
+				
+				class="menu-item"
+			><img src="placeholder.svg"></a><br>
+			<a
+				href="#menu"
+				
+				class="menu-item"
+			><img src="placeholder.svg"></a>
+			
+			<div id="ui-mask" onmousedown="location.hash = ''"></div>
+		</div>
+	</body>
+</html>

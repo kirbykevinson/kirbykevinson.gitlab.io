@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>Kirby Kevinson personal website</title>
+		
+		<meta charset="utf-8">
+		
+		<style>
+			* {
+				font-size: 24px;
+				font-family: sans-serif;
+				color: #FFFFFF;
+			}
+				::selection {
+					background: #FFFFFF;
+					color: #000000;
+				}
+				::-moz-selection {
+					background: #FFFFFF;
+					color: #000000;
+				}
+			
+			body {
+				display: flex;
+				flex-direction: row;
+				justify-content: center;
+				align-items: center;
+				width: 100vw;
+				height: 100vh;
+				padding: 0;
+				margin: 0;
+				white-space: nowrap;
+				line-height: 0;
+				background: #000000;
+			}
+			
+			#container {
+				text-align: center;
+			}
+			
+			#occupation {
+				margin-bottom: 8px;
+			}
+			
+			#name, #occupation {
+				display: inline-block;
+				line-height: normal;
+			}
+				#name {
+					font-size: 72px;
+				}
+				#occupation {
+					margin-bottom: 22px;
+					font-size: 36px;
+				}
+			
+			#links {
+				display: inline-block;
+				padding: 0 16px;
+				line-height: 0;
+				border: solid 4px #FFFFFF;
+				border-radius: 100vmax;
+			}
+				.button, .button > * {
+					transition: transform 0.2s;
+				}
+					.button:hover > * {
+						transform: scale(1.25);
+					}
+					.button:active > * {
+						transform: scale(0.75);
+					}
+		</style>
+	</head>
+	
+	<body><div id="container">
+		<span id="name">Kirby Kevinson</span><br>
+		<span id="occupation">
+			I'm still alive
+		</span><br>
+		
+		<span id="links">
+			<a
+				href="#"
+				
+				class="button"
+				
+				title="Email address"
+			><img src="placeholder.svg"></a>
+			<a
+				href="#"
+				
+				class="button"
+				
+				title="itch.io profile"
+			><img src="placeholder.svg"></a>
+			<a
+				href="#"
+				
+				class="button"
+				
+				title="npm profile"
+			><img src="placeholder.svg"></a>
+			<a
+				href="#"
+				
+				class="button"
+				
+				title="GitLab profile"
+			><img src="placeholder.svg"></a>
+			<a
+				href="#"
+				
+				class="button"
+				
+				title="GitHub profile"
+			><img src="placeholder.svg"></a>
+			<a
+				href="#"
+				
+				class="button"
+				
+				title="Reddit profile"
+			><img src="placeholder.svg"></a>
+			<a
+				href="#"
+				
+				class="button"
+				
+				title="Twitter profile"
+			><img src="placeholder.svg"></a>
+		</span>
+	</div></body>
+</html>

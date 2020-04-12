@@ -26,7 +26,8 @@
   [source](https://publicdomainpictures.net/en/view-image.php?image=1279&picture=sky-with-clouds)
 * `static/images/backgrounds/skyline.png` -
   [source](https://publicdomainpictures.net/en/view-image.php?image=195899&picture=chicago-skyline-at-night)
-* `static/images/backgrounds/stones.png` -
+* `static/images/backgrounds/stones.png`,
+  `static/extra/old-designs/4.jpg` -
   [source](https://publicdomainpictures.net/en/view-image.php?image=39502&picture=stones-background)
 * `static/images/buttons/neocities.png` (the planet) -
   [source](https://publicdomainvectors.org/en/free-clipart/Vector-clip-art-of-planet-Saturn-icon/21340.html)

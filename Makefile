@@ -16,6 +16,7 @@ neocities: build
 		-e extra\
 		-e extra/baako\
 		-e extra/mfsb\
+		-e extra/old-designs\
 		-e fonts\
 		-e images\
 		-e images/backgrounds\
