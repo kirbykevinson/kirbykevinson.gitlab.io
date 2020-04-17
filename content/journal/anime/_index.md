@@ -6,9 +6,8 @@ reverseSort: true
 background: "sky"
 ---
 
-Every anime I've ever seen is described and rated here.
-
-The rating system is about as follows:
+Every anime I've ever seen is described and rated here. The rating
+system is about as follows:
 
 * 10 - Masterpiece
 * 9 - Masterpiece, but something is fucked up
@@ -22,4 +21,5 @@ The rating system is about as follows:
 * 1 - CrazyBus turned into an anime
 
 Also I can't write reviews for shit, everything is based only on my
-experience, blah, blah, blah, you get it.
+experience and terribly biased towards traditional animation and 16 mm
+film, blah, blah, blah, you get it.

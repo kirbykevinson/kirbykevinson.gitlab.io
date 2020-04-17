@@ -6,6 +6,6 @@ reverseSort: true
 background: "curtain"
 ---
 
-The same as for [video games] but for movies.
+The same as for [anime] but for live action movies.
 
-[video games]: ../video-games/
+[anime]: ../anime/
