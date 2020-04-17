@@ -13,6 +13,16 @@ title: "Bookmarks"
 
 {{% /links %}}
 
+## Blogs and magazines
+
+{{% links %}}
+
+[Fedora Magazine](https://fedoramagazine.org/)
+[HTMHell](https://www.htmhell.dev/)
+[Planet GNOME](https://planet.gnome.org/)
+
+{{% /links %}}
+
 ## Personal websites
 
 {{% links %}}
@@ -31,22 +41,11 @@ title: "Bookmarks"
 
 {{% /links %}}
 
-## Blogs and magazines
-
-{{% links %}}
-
-[Fedora Magazine](https://fedoramagazine.org/)
-[HTMHell](https://www.htmhell.dev/)
-[Planet GNOME](https://planet.gnome.org/)
-
-{{% /links %}}
-
 ## Design resources
 
 {{% links %}}
 
 [Material Design Color Tool](https://material.io/resources/color/)
-[MDN Web Docs](https://developer.mozilla.org/en-US/)
 [Public Domain Pictures](https://publicdomainpictures.net/en/)
 [Public Domain Vectors](https://publicdomainvectors.org/)
 [This X Does Not Exist](https://thisxdoesnotexist.com/)
@@ -55,14 +54,41 @@ title: "Bookmarks"
 
 {{% /links %}}
 
-## Other
+## Online radios
 
 {{% links %}}
 
 [Click here to get rickrolled](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-[pack.png](https://packpng.com/)
+[lofi hip hop radio - beats to relax/study to](https://www.youtube.com/watch?v=5qap5aO4i9A)
 [Poolside FM](https://poolside.fm/)
-[The Gunbuster Index](http://toponeraegunbuster.com/)
+
+{{% /links %}}
+
+## Project pages
+
+{{% links %}}
+
+[pack.png](https://packpng.com/)
+[rclone](https://rclone.org/)
+
+{{% /links %}}
+
+## Search engines
+
+{{% links %}}
+
+[DuckDuckGo](https://duckduckgo.com/)
+[The Old Internet Again](https://theoldnet.com/)
 [Wiby](https://wiby.me/)
+
+{{% /links %}}
+
+## Wikis
+
+{{% links %}}
+
+[MDN Web Docs](https://developer.mozilla.org/en-US/)
+[The Anglish Moot](https://anglish.fandom.com/wiki/Main_leaf)
+[The Gunbuster Index](http://toponeraegunbuster.com/)
 
 {{% /links %}}
