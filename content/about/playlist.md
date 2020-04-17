@@ -4,8 +4,8 @@ title: "Playlist"
 
 TLDR: God bless the YouTube algorithm.
 
-Using copyrighted cover art is not the best idea, so I decided to
-recreate everything with stock images.
+Using non-free cover art is not the best idea, so I decided to
+recreate everything with stock images and my epic drawing skills.
 
 ## Western
 
@@ -32,6 +32,7 @@ recreate everything with stock images.
 [![Anri - Timely!!](/images/cover-art/anri-timely.jpg)](https://www.discogs.com/Anri-Timely/master/965114)
 [![Casiopea - Casiopea](/images/cover-art/casiopea-casiopea.jpg)](https://www.discogs.com/Casiopea-Casiopea/master/851695)
 [![Casiopea - Mint Jams](/images/cover-art/casiopea-mint-jams.jpg)](https://www.discogs.com/Casiopea-Mint-Jams/master/287930)
+[![Casiopea - Super Flight](/images/cover-art/casiopea-super-flight.jpg)](https://www.discogs.com/Casiopea-Super-Flight/master/461753)
 [![Hiroshi Suzuki - Cat](/images/cover-art/hiroshi-suzuki-cat.jpg)](https://www.discogs.com/Hiroshi-Suzuki-Cat/master/751454)
 [![Junko Ohashi - Magical](/images/cover-art/junko-ohashi-magical.jpg)](https://www.discogs.com/Junko-Ohashi-Magical/master/1455912)
 [![Mariya Takeuchi - Beginning](/images/cover-art/mariya-takeuchi-beginning.jpg)](https://www.discogs.com/Mariya-Takeuchi-Beginning/master/1391096)
@@ -43,6 +44,7 @@ recreate everything with stock images.
 [![Mariya Takeuchi - Request](/images/cover-art/mariya-takeuchi-request.jpg)](https://www.discogs.com/Mariya-Takeuchi-Request/master/1024147)
 [![Mariya Takeuchi - Quiet Life](/images/cover-art/mariya-takeuchi-quiet-life.jpg)](https://www.discogs.com/Mariya-Takeuchi-Quiet-Life/master/1587653)
 [![Masayoshi Takanaka - The Rainbow Goblins](/images/cover-art/masayoshi-takanaka-the-rainbow-goblins.jpg)](https://www.discogs.com/Masayoshi-Takanaka-The-Rainbow-Goblins/master/392507)
+[![Masayoshi Takanaka - Can I Sing?](/images/cover-art/masayoshi-takanaka-can-i-sing.jpg)](https://www.discogs.com/Masayoshi-Takanaka-Can-I-Sing/master/602763)
 [![Momoko Kikuchi - Adventure](/images/cover-art/momoko-kikuchi-adventure.jpg)](https://www.discogs.com/Momoko-Kikuchi-Adventure/master/618385)
 [![Taeko Ohnuki - Mignonne](/images/cover-art/taeko-ohnuki-mignonne.jpg)](https://www.discogs.com/Taeko-Ohnuki-Mignonne/master/530233)
 [![Yuji Ohno - Cosmos](/images/cover-art/yuji-ohno-cosmos.jpg)](https://www.discogs.com/Yuji-Ohno-Cosmos/master/812869)
