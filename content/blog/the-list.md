@@ -1,0 +1,129 @@
+---
+title: "The List"
+date: 2020-04-18T23:11:02+07:00
+---
+
+My life is shit, and I want to kill myself. Thinking of the reasons
+why quite often makes me panic and/or hurt myself, so I decided to
+describe everything here in a simple and straightforward way. If you
+still didn't close this article, you may also be interested in
+checking out [my diary].
+
+[my diary]: /journal/diary/
+
+## I'm a useless piece of shit
+
+### I can't work anywhere
+
+I don't have any high-level skills, and I'm also absolute jackshit at
+doing unqualified work and even basic daily life stuff. I struggle a
+lot with anything, and literally anyone can handle simple tasks better
+than me. There's virtually no reason to hire me other than to make me
+and the employer suffer.
+
+### I can't teach myself to work anywhere
+
+As I said, I can't perform even simple tasks and, even considering
+someone, for some reason, gets an initiative to fix that (which they
+obviously won't), it'll be extremely difficult, painful, and very
+slow. It's much easier to just give up.
+
+### I probably have some mental issues
+
+I'm quite unsure about that, but, considering I haven't noticed other
+people suffering as much as myself, me having a lot of personal issues
+and rarely enjoying anything, and my relatives and people and
+studied/were friends with being very rarely any supportive and really
+often abusive, that might be the case. There were several
+oppurtunities of getting actual professional help in the past, but I
+was and still am scared of using them.
+
+## I'm scared of going to the doctor
+
+### I'm not used to it
+
+I go to doctor very, very rarely and never on my own initiative. I do
+that only when I'm forced to and/or have high risks of dying or being
+permanently damaged. I have no idea how to go to one on my own and
+what to do, especially with overwhelming anxiety. Also, considering I
+live in a small place of a 3rd world country, there's a quite high
+chance of not finding a good doctor, and that makes me even more
+scared.
+
+### I can't explain myself
+
+I have no idea what's wrong with me, and I can't put into words what's
+going on, especially when not given time to think about it, and the
+person I'm talking to doesn't really give much shit. I also hate
+talking, especially in my native language. So, unless I pay someone to
+deal with all of this shit, which I can't, I'm fucked.
+
+## The education I'm getting sucks
+
+### They don't teach us anything
+
+We're taught neither any actual professional skills nor anything else
+important we can actually use in our lives. We're just wasting our
+time and suffering instead of actually learning anything, and almost
+no one gives a slightest shit about that.
+
+### They don't care about us
+
+Absolutely nothing has been done to improve any aspect of the
+educational process, but a ton of things has been done to worsen it
+even more. We're demanded a ridiculous amount of things and
+constrained beyond believable because of the completely idiotic
+beuraucratic bullshit, and, again, almost one one gives a shit.
+
+### I have no future
+
+The best thing I can do after graduating (which I doubt I can do
+because the shit's getting worse each year) is to go fuck myself. What
+the hell else am I supposed to do after 4 years of torture and no
+actual education, considering I'm not able to work anywhere? Also I
+can't go anywhere else to study because there's most likely no such
+place where I live, and I don't have money and am scared to study
+where there are such places.
+
+## The country I live in sucks
+
+### It has mandatory military service
+
+This is the elephant in the room, so let's address it first. Just
+because I happened to be born with a certain set of genitals, I'll
+have to waste a significant amount of my time being practically
+enslaved while being traumatized and potentially risking my life and
+given no additional oppurtunities afterwards. What kind of bullshit is
+that? This is completely ridiculous, and I'd actually rather be
+tortured to death; that'd be at least faster. The draft is
+unavoidable, and practically no one involved in this shit cares to be
+a decent human being.
+
+### It's becoming more and more of a totalitarian shithole
+
+This country has never been democratic and caring about people, but
+the situation gets worse each year. The government are taking more and
+more of people's freedom and aren't doing anything to improve the
+economy. The Internet, one of the most important things for me, is
+already very unfree, and the government is getting more invasive in
+people's privacy here.
+
+### It's full of intolerant scum
+
+As most of other 3rd world countries, this one is as conserviative as
+you can imagine in the worst sense possible. The freedoms of speech,
+LGBT+, and religion are non-existent and there's very little I can do
+about it. This is absolutely disgusting for the 21st century, and I
+doubt anything's gonna change.
+
+### Doing business here is impossible
+
+Even if the problems with me get fixed, I most likely won't be working
+for an ethical company with a sense of respect to people because there
+are barely any, and there's no way I can get into one. Also, as I
+mentioned, online privacy is not a thing for Russian companies, so I'm
+doomed in this aspect in any case.
+
+## Conclusion
+
+Just fucking kill me.
