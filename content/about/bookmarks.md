@@ -68,6 +68,7 @@ title: "Bookmarks"
 
 {{% links %}}
 
+[LINGsCARS](https://www.lingscars.com/)
 [pack.png](https://packpng.com/)
 [rclone](https://rclone.org/)
 
