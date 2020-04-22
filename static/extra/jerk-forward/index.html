@@ -13,7 +13,7 @@
 			@font-face {
 				src:
 					local("Source Serif Pro"),
-					url("../fonts/source-serif-pro.woff2");
+					url("/fonts/source-serif-pro.woff2");
 				font-family: "Source Serif Pro";
 				font-display: swap;
 			}
@@ -42,7 +42,9 @@
 			
 			.track {
 				display: flex;
+				justify-content: center;
 				align-items: center;
+				flex-wrap: wrap;
 				min-height: 256px;
 				margin-bottom: 16px;
 				border: outset 1px #7F7F7F;
@@ -52,6 +54,7 @@
 				display: flex;
 				justify-content: center;
 				align-items: center;
+				flex-shrink: 0;
 				width: 256px;
 				height: 256px;
 				font-size: 2em;

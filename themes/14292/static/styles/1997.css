@@ -3,14 +3,14 @@
 @font-face {
 	src:
 		local("Source Serif Pro"),
-		url("../fonts/source-serif-pro.woff2");
+		url("/fonts/source-serif-pro.woff2");
 	font-family: "Source Serif Pro";
 	font-display: swap;
 }
 @font-face {
 	src:
 		local("Courier Prime"),
-		url("../fonts/courier-prime.woff2");
+		url("/fonts/courier-prime.woff2");
 	font-family: "Courier Prime";
 	font-display: swap;
 }
