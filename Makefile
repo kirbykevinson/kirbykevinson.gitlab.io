@@ -1,4 +1,4 @@
-.PHONY: all clean gitlab build neocities
+.PHONY: all clean gitlab build neocities archive
 
 NEOCITIES_FLAGS = -e audio
 
@@ -29,3 +29,6 @@ neocities: build
 
 neocities-full: build
 	neocities push $(NEOCITIES_FLAGS) public
+
+archive: build
+	zip -r $$(date +"%F")-kirbykevinson.neocities.org.zip *
