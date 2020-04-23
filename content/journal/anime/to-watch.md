@@ -2,6 +2,7 @@
 title: "To watch"
 ---
 
+* Berserk: The Sword-Wind Romance
 * Boku no Pico
 * Cream Lemon(?)
 * Kirby: Right Back at Ya!(?)
@@ -9,5 +10,6 @@ title: "To watch"
 * Legend of the Galactic Heroes(?)
 * Mobile Suit Gundam(?)
 * Sailor Moon(?)
+* Serial Experiments Lain
 * Space Battleship Yamato
 * Urusei Yatsura(?)
