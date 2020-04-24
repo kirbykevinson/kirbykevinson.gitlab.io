@@ -1,5 +1,7 @@
 ---
 title: "Playlist"
+
+background: "treble"
 ---
 
 TLDR: God bless the YouTube algorithm.

@@ -1,5 +1,7 @@
 ---
 title: "Bookmarks"
+
+background: "leather"
 ---
 
 ## News and social media

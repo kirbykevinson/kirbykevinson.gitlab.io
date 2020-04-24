@@ -22,8 +22,14 @@
   [source](https://publicdomainpictures.net/en/view-image.php?image=120778&picture=grey-bricks)
 * `static/images/backgrounds/curtain.png` -
   [source](https://publicdomainpictures.net/en/view-image.php?image=62656&picture=red-velvet-curtains-background)
+* `static/images/backgrounds/drugs.png` -
+  [source](https://publicdomainpictures.net/en/view-image.php?image=12456&picture=jellyfish-pattern)
 * `static/images/backgrounds/fabric.png` -
   [source](https://publicdomainpictures.net/en/view-image.php?image=201689&picture=brown-fabric-textured-background)
+* `static/images/backgrounds/leather.png` -
+  [source](https://publicdomainpictures.net/en/view-image.php?image=240670&picture=sky-blue-leather-effect-background)
+* `static/images/backgrounds/paper.png` -
+  [source](https://publicdomainpictures.net/en/view-image.php?image=243760&picture=paper-creased-background)
 * `static/images/backgrounds/sky.png` -
   [source](https://publicdomainpictures.net/en/view-image.php?image=1279&picture=sky-with-clouds)
 * `static/images/backgrounds/skyline.png` -
@@ -31,6 +37,8 @@
 * `static/images/backgrounds/stones.png`,
   `static/extra/old-designs/4.jpg` -
   [source](https://publicdomainpictures.net/en/view-image.php?image=39502&picture=stones-background)
+* `static/images/backgrounds/treble.png` -
+  [source](https://publicdomainpictures.net/en/view-image.php?image=328251&picture=treble-clef-wallpaper-pattern)
 * `static/images/buttons/neocities.png` (the planet) -
   [source](https://publicdomainvectors.org/en/free-clipart/Vector-clip-art-of-planet-Saturn-icon/21340.html)
 * `static/images/buttons/www.png` (the planet) -

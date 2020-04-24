@@ -1,5 +1,7 @@
 ---
 title: "YouTube subscriptions"
+
+background: "checkerboard"
 ---
 
 At some point in time, as I mainly watched YouTube with an unofficial
