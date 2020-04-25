@@ -10,6 +10,5 @@ title: "To watch"
 * Legend of the Galactic Heroes(?)
 * Mobile Suit Gundam(?)
 * Sailor Moon(?)
-* Serial Experiments Lain
 * Space Battleship Yamato
 * Urusei Yatsura(?)
