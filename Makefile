@@ -18,6 +18,7 @@ neocities: build
 		-e extra/jerk-forward\
 		-e extra/mfsb\
 		-e extra/old-designs\
+		-e extra/user-agent-test\
 		-e extra/www\
 		-e fonts\
 		-e images\
