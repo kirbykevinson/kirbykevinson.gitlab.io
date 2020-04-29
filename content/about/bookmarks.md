@@ -36,6 +36,7 @@ background: "leather"
 [Dennis Knopf](http://www.dennisknopf.net/)
 [Drew DeVault](https://drewdevault.com/)
 [emersion](https://emersion.fr/)
+[Hazel Rose Levine](https://qtp2t.club/)
 [Nathan Toasty](http://toastytech.com/)
 [Nikolay Zhdanov](https://nicolas232.github.io/)
 [null program](https://nullprogram.com/)
