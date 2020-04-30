@@ -96,6 +96,31 @@ h1, h2, h3, h4, h5, h6 {
 	color: #FF00FF;
 }
 
+.links a::before {
+	display: inline-block;
+	width: 32px;
+	height: 32px;
+	margin-right: 8px;
+	vertical-align: middle;
+	content: url("/images/icons/web-page.png");
+}
+
+a.page::before {
+	content: url("/images/icons/document.png");
+}
+a.node::before {
+	content: url("/images/icons/folder.png");
+}
+a.link::before {
+	content: url("/images/icons/profile.png");
+}
+a.more::before {
+	width: 16px;
+	height: 16px;
+	vertical-align: baseline;
+	content: url("/images/icons/more.png");
+}
+
 a:hover {
 	opacity: 1;
 	text-decoration: underline;
@@ -116,6 +141,14 @@ a:hover img {
 
 .breadcrumbs a {
 	color: #00FF00;
+}
+
+.breadcrumbs a:first-child::before {
+	display: inline-block;
+	width: 16px;
+	height: 16px;
+	margin-right: 8px;
+	content: url("/images/icons/globe.png");
 }
 
 .page-title a {

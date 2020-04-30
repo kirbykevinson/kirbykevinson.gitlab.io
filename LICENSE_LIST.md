@@ -45,7 +45,7 @@
   [source](https://publicdomainvectors.org/en/free-clipart/World-globe-vector-illustration/13075.html)
 * `static/images/cover-art/bill-wurtz.jpg` -
   [source](https://en.wikipedia.org/wiki/File:Youtube_logo_Bill_Wurtz_17_June_2018.svg)
-* Everything else in `static/images/{backgrounds,buttons,cursors}/`
+* Everything else in `static/images/{backgrounds,buttons,cursors,icons}/`
   except the files under other licenses mentioned in this document
 
 ## Creative Commons Attribution-ShareAlike 2.0 Generic Public License (`LICENSE_CC_BY_SA_2.html`)

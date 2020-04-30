@@ -109,6 +109,9 @@ a.page::before {
 a.link::before {
 	content: "@";
 }
+a.more::before {
+	content: "▾";
+}
 
 a:hover {
 	opacity: 0.5;

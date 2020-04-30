@@ -26,6 +26,7 @@ neocities: build
 		-e images/buttons\
 		-e images/cover-art\
 		-e images/cursors\
+		-e images/icons\
 		\
 		public
 

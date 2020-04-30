@@ -6,6 +6,10 @@
 	{{ end }}
 	
 	{{ range $pages }}
-		<a href="{{ .Permalink }}" class="page">{{ .Title }}</a>
+		<a
+			href="{{ .Permalink }}"
+			
+			class="page {{ if .IsNode }} node {{ end }}"
+		>{{ .Title }}</a>
 	{{ end }}
 </nav>
