@@ -15,6 +15,7 @@ neocities: build
 	neocities push $(NEOCITIES_FLAGS)\
 		-e extra\
 		-e extra/baako\
+		-e extra/email\
 		-e extra/jerk-forward\
 		-e extra/mfsb\
 		-e extra/old-designs\

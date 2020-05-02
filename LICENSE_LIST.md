@@ -72,6 +72,10 @@
 
 ## SIL Open Font License (`LICENSE_OFL`)
 
+* `themes/14292/static/fonts/comic-neue.woff2` -
+  [source](https://github.com/crozynski/comicneue/blob/380f5e82c13d85c56fd0a78df58d06343cc1393b/Fonts/WebFonts/woff2/ComicNeue/ComicNeue-Regular.woff2)
+  > Copyright 2014 The Comic Neue Project Authors
+  > (https://github.com/crozynski/comicneue)
 * `themes/14292/static/fonts/courier-prime.woff2` -
   [source](https://github.com/quoteunquoteapps/CourierPrime/blob/7fd585a2dd4c1612c79b3308e300923d1c13df93/fonts/ttf/CourierPrime-Regular.ttf)
   > Copyright 2015 The Courier Prime Project Authors

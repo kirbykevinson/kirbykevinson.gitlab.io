@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+
+<html lang="en-ca">
+	<head>
+		<title>Kirby Kevinson's email guidelines</title>
+		
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		
+		<link href="/images/icon.png" rel="icon">
+		
+		<style>
+			@font-face {
+				src:
+					local("Comic Neue"),
+					url("/fonts/comic-neue.woff2");
+				font-family: "Comic Neue";
+				font-display: swap;
+			}
+			
+			body {
+				display: flex;
+				justify-content: center;
+				align-items: center;
+				width: 100%;
+				min-height: 100vh;
+				padding: 0;
+				margin: 0;
+				line-height: 1.25;
+				font-family: "Comic Neue", "Comic Sans MS", "sans-serif";
+				font-size: 20pt;
+				background: #3F4FFF url("clouds.png");
+				background-attachment: fixed;
+				background-size: cover;
+				background-position: center;
+			}
+			
+			* {
+				color: #000000;
+				cursor: url("/images/cursors/tilted-pointer.png"), pointer;
+				scrollbar-width: thin;
+				scrollbar-color: #FBAAC0 #FEEDF1;
+			}
+			
+			::selection {
+				background: #FFFF007F;
+			}
+			
+			.page-wrapper {
+				max-width: 16em;
+				padding: 48px 48px 32px 16px;
+				margin: 16px;
+				background: #EFEFDFDF;
+			}
+			
+			p, ul {
+				margin: 0;
+			}
+			
+			a {
+				text-decoration: none;
+				color: #AD1429;
+			}
+			
+			.email-container {
+				overflow: auto;
+			}
+		</style>
+	</head>
+	
+	<body>
+		<div class="page-wrapper">
+			<p>Dear reader:</p>
+			
+			<p>
+				If you decide to write me an email, please mind the
+				following:
+			</p>
+			
+			<ul>
+				<li>I rarely check my mailbox.</li>
+				<li>You should probably write in English.</li>
+				<li>It'd be nice if you used plain text.</li>
+			</ul>
+			
+			<p>Here's my email address:</p>
+			
+			<div class="email-container">
+				<a
+					href="mailto:kirbysemailaddress@protonmail.com"
+				>kirbysemailaddress@protonmail.com</a>
+			</div>
+			
+			<p>
+				Yours truly--<br>
+				Kirby Kevinson
+			</p>
+		</div>
+	</body>
+</html>

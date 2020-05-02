@@ -2,7 +2,7 @@
 	"main": [
 		{
 			"site": "protonmail.com",
-			"link": "mailto:kirbysemailaddress@protonmail.com"
+			"link": "/extra/email/"
 		},
 		{
 			"site": "gitlab.com",
