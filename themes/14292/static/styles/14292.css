@@ -129,6 +129,8 @@ pre, code,
 }
 
 pre, code {
+	box-sizing: border-box;
+	max-width: calc(100vw - 32px);
 	padding: 2px 4px;
 	font-size: 0.875em;
 	border:
