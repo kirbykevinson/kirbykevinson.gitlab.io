@@ -18,6 +18,21 @@
 				font-display: swap;
 			}
 			
+			:root {
+				--background-image: #3F4FFF url("clouds.png");
+				--background-color: #EFEFDFDF;
+				--foreground-color: #000000;
+				--accent-color: #AD1429;
+			}
+			@media (prefers-color-scheme: dark) {
+				:root {
+					--background-image: #070F1F url("clouds-at-night.png");
+					--background-color: #1F1F1FDF;
+					--foreground-color: #FFFFFF;
+					--accent-color: #FBAAC0;
+				}
+			}
+			
 			body {
 				display: flex;
 				justify-content: center;
@@ -29,14 +44,14 @@
 				line-height: 1.25;
 				font-family: "Comic Neue", "Comic Sans MS", "sans-serif";
 				font-size: 20pt;
-				background: #3F4FFF url("clouds.png");
+				background: var(--background-image);
 				background-attachment: fixed;
 				background-size: cover;
 				background-position: center;
 			}
 			
 			* {
-				color: #000000;
+				color: var(--foreground-color);
 				cursor: url("/images/cursors/tilted-pointer.png"), pointer;
 				scrollbar-width: thin;
 				scrollbar-color: #FBAAC0 #FEEDF1;
@@ -48,9 +63,9 @@
 			
 			.page-wrapper {
 				max-width: 16em;
-				padding: 48px 48px 32px 16px;
+				padding: 48px 48px 32px 24px;
 				margin: 16px;
-				background: #EFEFDFDF;
+				background: var(--background-color);
 			}
 			
 			p, ul {
@@ -59,7 +74,11 @@
 			
 			a {
 				text-decoration: none;
-				color: #AD1429;
+				color: var(--accent-color);
+			}
+			
+			a:hover {
+				text-decoration: underline;
 			}
 			
 			.email-container {
