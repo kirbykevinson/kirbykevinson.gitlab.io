@@ -32,6 +32,7 @@ background: "leather"
 [Artemy Lebedev](https://www.tema.ru/eng/)
 [Alan Resnick](https://alanresnick.info/)
 [billwurtz](https://billwurtz.com/)
+[Bryan Lunduke](https://lunduke.com/)
 [Craig Balunsat](https://www.balunsat.org/)
 [Dennis Knopf](http://www.dennisknopf.net/)
 [Drew DeVault](https://drewdevault.com/)
