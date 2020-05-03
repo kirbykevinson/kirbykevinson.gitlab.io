@@ -100,8 +100,15 @@ are added in the end.
 [CallMeCarsonLIVE](https://www.youtube.com/user/C4rs0nCS)
 [JonTronShow](https://www.youtube.com/user/JonTronShow)
 [Kurzgesagt – In a Nutshell](https://www.youtube.com/user/Kurzgesagt)
+
+---
+
 [Unus Annus](https://www.youtube.com/channel/UCIcgBZ9hEJxHv6r_jDYOMqg)
 [Michael MJD](https://www.youtube.com/user/mjd7999)
 [Chris Were Digital](https://www.youtube.com/user/ChrisWereDigital)
+[baby WOGUE](https://www.youtube.com/channel/UCZWadyLVO4ZnMgLrRVtS6VA)
+[DistroTube](https://www.youtube.com/channel/UCVls1GmFKf6WlTraIb_IaJg)
+[Bryan Lunduke](https://www.youtube.com/user/BryanLunduke)
+[Company Man](https://www.youtube.com/channel/UCQMyhrt92_8XM0KgZH6VnRg)
 
 {{% /links %}}
