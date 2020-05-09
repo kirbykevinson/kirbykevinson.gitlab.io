@@ -14,7 +14,7 @@
 * `static/extra/mfsb/wallpaper.jpg` -
   [source](https://publicdomainpictures.net/en/view-image.php?image=45009&picture=damask-background-brown-orange)
 * `static/extra/mfsb/painting.jpg` -
-  [source](https://upload.wikimedia.org/wikipedia/commons/8/86/Stranover%2C_Tobias_-_Still-Life_with_Flowers_-_Google_Art_Project.jpg),
+  [source](https://commons.wikimedia.org/wiki/File:Stranover,_Tobias_-_Still-Life_with_Flowers_-_Google_Art_Project.jpg)
   [source](https://publicdomainpictures.net/en/view-image.php?image=270264&picture=framed-vintage-painting)
 * `static/images/backgrounds/book.png` -
   [source](https://commons.wikimedia.org/wiki/File:Ezra_Cornell's_first_book.jpg)
