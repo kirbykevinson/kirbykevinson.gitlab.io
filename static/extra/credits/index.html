@@ -33,9 +33,6 @@
 				0% {
 					opacity: 0;
 				}
-				50% {
-					opacity: 0;
-				}
 				100% {
 					opacity: 1;
 				}
@@ -80,7 +77,7 @@
 				background: #79563A url("dirt.png");
 				background-attachment: fixed;
 				background-size: 20vh 20vh;
-				animation: infinite linear 60s background-scroll;
+				animation: infinite linear 30s background-scroll;
 			}
 			
 			.mask, .fade {
@@ -98,7 +95,7 @@
 			.fade {
 				background: #000000;
 				opacity: 0;
-				animation: linear 1s fade-in;
+				animation: linear 2s fade-in;
 				z-index: 3;
 			}
 			
@@ -113,12 +110,18 @@
 				max-width: min(28em, calc(100vw - 32px));
 				margin-left: auto;
 				margin-right: auto;
-				line-height: 2;
+			}
+			
+			h1, h2 {
+				text-align: center;
+			}
+			h2, h3, ul {
+				font-size: 1em;
 			}
 			
 			h1 {
-				margin-top: 110vh;
-				margin-bottom: 25vh;
+				margin-top: 120vh;
+				margin-bottom: 20vh;
 				font-size: max(4vw, 1em);
 				text-shadow: none;
 				color: #A99F9D;
@@ -131,29 +134,30 @@
 				transform: scaleY(1.079207);
 			}
 			
+			h2 {
+				line-height: 2;
+			}
+			h2, ul {
+				margin-bottom: 2.25em;
+			}
+			
+			h3, ul {
+				line-height: 2.5;
+			}
 			h3, cite {
 				color: #AAAAAA;
 				text-shadow: 2px 2px #2A2A2A;
 			}
 			
-			h1, h2 {
-				text-align: center;
-			}
-			h2, h3 {
-				font-size: 1em;
-			}
-			
-			h2 {
-				margin-bottom: 2em;
-				line-height: 1;
-			}
-			
 			.dialog {
-				margin-bottom: 25vh;
+				margin-bottom: 40vh;
 			}
 			
-			.teal, .green, ul {
-				margin-bottom: 2em;
+			.teal, .green {
+				margin-bottom: 3.5em;
+			}
+			.dialog > *:last-child {
+				margin-bottom: 0;
 			}
 			
 			.teal {
@@ -171,9 +175,7 @@
 			
 			ul {
 				list-style-type: none;
-				padding-left: 4em;
-				margin-bottom: 2em;
-				line-height: 2;
+				padding-left: 5em;
 			}
 			
 			q {
@@ -186,7 +188,7 @@
 			
 			.quote {
 				margin-top: 50vh;
-				margin-bottom: 10vh;
+				margin-bottom: 20vh;
 			}
 		</style>
 		
@@ -198,7 +200,7 @@
 					const fade = document.querySelector(".fade");
 					
 					fade.style.opacity = "1";
-					fade.style.animation = "linear 1s fade-out";
+					fade.style.animation = "linear 2s fade-out";
 				}
 			)
 		</script>
@@ -218,11 +220,11 @@
 			</div>
 			
 			<h2>
-				================================
+				===============
 				<br>
-				<span class="yellow">Kirby Kevinson's website credits</span>
+				<span class="yellow">Website credits</span>
 				<br>
-				================================
+				===============
 			</h2>
 			
 			<h3>Webmaster</h3>
