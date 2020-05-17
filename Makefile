@@ -20,6 +20,7 @@ neocities: build
 		-e extra/jerk-forward\
 		-e extra/mfsb\
 		-e extra/old-designs\
+		-e extra/pre-2016\
 		-e extra/user-agent-test\
 		-e extra/www\
 		-e fonts\
