@@ -163,6 +163,7 @@
 	* `static/images/cover-art/mariya-takeuchi-love-songs.jpg`
 	* `static/images/cover-art/mariya-takeuchi-portrait.jpg`
 	* `static/images/cover-art/mariya-takeuchi-university-street.jpg`
+	* `static/images/cover-art/masayoshi-takanaka-alone.jpg`
 	* `static/images/cover-art/taeko-ohnuki-mignonne.jpg`
 	* `static/images/cover-art/yung-bae-bae-5.jpg`
   > Copyright 2020 Kirby Kevinson

@@ -31,6 +31,7 @@ recreate everything with stock images and my epic drawing skills.
 
 {{% album %}}
 
+[![Akira Jimbo - Cotton](/images/cover-art/akira-jimbo-cotton.jpg)](https://www.discogs.com/Akira-Jimbo-Cotton/master/1230850)
 [![Anri - Timely!!](/images/cover-art/anri-timely.jpg)](https://www.discogs.com/Anri-Timely/master/965114)
 [![Casiopea - Casiopea](/images/cover-art/casiopea-casiopea.jpg)](https://www.discogs.com/Casiopea-Casiopea/master/851695)
 [![Casiopea - Mint Jams](/images/cover-art/casiopea-mint-jams.jpg)](https://www.discogs.com/Casiopea-Mint-Jams/master/287930)
@@ -45,6 +46,7 @@ recreate everything with stock images and my epic drawing skills.
 [![Mariya Takeuchi - Variety](/images/cover-art/mariya-takeuchi-variety.jpg)](https://www.discogs.com/Mariya-Takeuchi-Variety/master/606606)
 [![Mariya Takeuchi - Request](/images/cover-art/mariya-takeuchi-request.jpg)](https://www.discogs.com/Mariya-Takeuchi-Request/master/1024147)
 [![Mariya Takeuchi - Quiet Life](/images/cover-art/mariya-takeuchi-quiet-life.jpg)](https://www.discogs.com/Mariya-Takeuchi-Quiet-Life/master/1587653)
+[![Masayoshi Takanaka - Alone](/images/cover-art/masayoshi-takanaka-alone.jpg)](https://www.discogs.com/Masayoshi-Takanaka-Alone/master/1011695)
 [![Masayoshi Takanaka - The Rainbow Goblins](/images/cover-art/masayoshi-takanaka-the-rainbow-goblins.jpg)](https://www.discogs.com/Masayoshi-Takanaka-The-Rainbow-Goblins/master/392507)
 [![Masayoshi Takanaka - Can I Sing?](/images/cover-art/masayoshi-takanaka-can-i-sing.jpg)](https://www.discogs.com/Masayoshi-Takanaka-Can-I-Sing/master/602763)
 [![Momoko Kikuchi - Adventure](/images/cover-art/momoko-kikuchi-adventure.jpg)](https://www.discogs.com/Momoko-Kikuchi-Adventure/master/618385)
