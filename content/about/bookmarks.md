@@ -41,6 +41,7 @@ background: "leather"
 [Nathan Toasty](http://toastytech.com/)
 [Nikolay Zhdanov](https://nicolas232.github.io/)
 [null program](https://nullprogram.com/)
+[Richard Stallman](https://stallman.org/)
 [Whoever I follow on Neocities](https://neocities.org/site/kirbykevinson/follows)
 
 {{% /links %}}
