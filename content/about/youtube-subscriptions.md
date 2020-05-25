@@ -20,7 +20,7 @@ are added in the end.
 [Vsauce2](https://www.youtube.com/user/Vsauce2)
 [Vsauce3](https://www.youtube.com/user/Vsauce3)
 [Whang!](https://www.youtube.com/channel/UC3jdnIP2u5hCJpVZ-TuDrCg)
-[Sheesez](https://www.youtube.com/user/PencakeAndWuffle)
+[Shesez](https://www.youtube.com/user/PencakeAndWuffle)
 [City Beautiful](https://www.youtube.com/channel/UCGc8ZVCsrR3dAuhvUbkbToQ)
 [TetraBitGaming](https://www.youtube.com/user/TetraBitGaming)
 [Jubilee](https://www.youtube.com/user/jubileeProject)
