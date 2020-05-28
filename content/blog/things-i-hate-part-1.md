@@ -71,7 +71,7 @@ The future would be really better if we had built-in transcription
 services in our messengers. That would not only fix all of this shit
 but also make them more accessible. Someone, of course, is going to
 fuck everything up by putting the whole process in the cloud,
-sacrificing user's privacy, instead of doing that locally, but let's
+sacrificing users' privacy, instead of doing that locally, but let's
 just hope there will be adequate solutions.
 
 ## Excessive punctuation
@@ -94,8 +94,7 @@ And if you thought that was bad, wait until you see this:
 > Haha)) What a funny joke))))))))))))))))
 
 You may think that the person has problems with their keyboard, but
-it's actually a simpler form of the Russian truncated smiley. So if
-you have
+it's actually a Russian truncated smiley. So if you have
 
 > Hello :)
 
