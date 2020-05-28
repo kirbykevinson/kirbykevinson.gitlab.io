@@ -21,6 +21,8 @@ And I'm still not sure if the fix will last.
 
 [the bug tracker]: https://bugs.freedesktop.org/show_bug.cgi?id=108821
 
+Update: it didn't.
+
 In any case, after I acknowledged the existence of the problem, the
 solution was quickly found on [Arch wiki]:
 
