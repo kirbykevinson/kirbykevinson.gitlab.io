@@ -13,7 +13,7 @@ BrainFuck compiler made in JavaScript for educational purposes.
 
 Yet another reborn of [NblmBrowser].
 
-[NblmBrowser]: ../lost-or-unlisted/#2015-1-2016-02-18-nbmlnullbrowser
+[NblmBrowser]: ../lost-or-unlisted/#2015-1-2016-02-18-nblmnullbrowser
 
 ## 2016-08-31/2016-09-05: [ImaVi](https://gitlab.com/kirbykevinson/ImaVi)
 

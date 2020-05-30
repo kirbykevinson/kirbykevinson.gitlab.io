@@ -4,7 +4,7 @@ title: "Inactive"
 
 (Ones I made once that don't need any further development)
 
-## 2018: [My code style](https://gitlab.com/kirbykevinson/code-style)
+## 2018: [my code style](https://gitlab.com/kirbykevinson/code-style)
 
 Some general guidelines I, of course, fully follow when doing whatever
 I'm doing.

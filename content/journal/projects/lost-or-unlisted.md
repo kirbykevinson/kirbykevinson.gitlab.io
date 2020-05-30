@@ -17,7 +17,7 @@ the videos I still remember capturing:
 I'm not sure if I even uploaded a single video there, but it existed.
 Maybe it even became the next by being renamed, I don't remember.
 
-## 2013/2014: Another Minecraft let's play channel
+## 2013/2014: another Minecraft let's play channel
 
 The only non-halfassed YouTube channel, for which I regularly made
 videos and kinda even talked to the audience. It had about 300 videos
@@ -29,7 +29,7 @@ were complete fucking garbage." As far as I know, all known backups of
 it have been lost. The channel's group is still there, but I can't
 leave a link here, sorry.
 
-## 2015-1?-??/2016-02-18: {Nbml,Null}Browser
+## 2015-1?-??/2016-02-18: {Nblm,Null}Browser
 
 "Web browser" made using MSHTML and later NWJS. Pretty weird choise
 for the first JavaScript project, isn't it? If you want to subject
