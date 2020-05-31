@@ -48,8 +48,6 @@ A more casual channel, where I posted funny shit for me and my
 friends. It mostly consisted of funny surreal montages and was deleted
 one day with some backups still remaining... *sigh* on PornHub.
 
-TODO: links to the videos I managed to find
-
 ## 2016/2017: TUSSE
 
 A modified version of ToberUberStobe with a shitton of local memes and
