@@ -2,11 +2,11 @@ name = "14292"
 license = "MIT"
 licenselink = "https://gitlab.com/kirbykevinson/kirbykevinson.gitlab.io/-/blob/master/themes/14292/LICENSE"
 description = "A theme, I guess?"
-homepage = "https://kirbykevinson.gitlab.io/"
+homepage = "https://kirby.kevinson.org/"
 tags = []
 features = []
 min_version = "0.41"
 
 [author]
   name = "Kirby Kevinson"
-  homepage = "https://kirbykevinson.gitlab.io/"
+  homepage = "https://kirby.kevinson.org/"

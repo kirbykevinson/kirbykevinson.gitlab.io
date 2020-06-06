@@ -19,7 +19,7 @@ project, and those 10 lines are only used to show a fade-out
 animation.
 
 [Best Motherfucking Website]: https://bestmotherfucking.website/
-[stay modern]: https://kirbykevinson.gitlab.io/blog/things-i-hate-part-1/
+[stay modern]: https://kirby.kevinson.org/blog/things-i-hate-part-1/
 [stay funky]: https://kirbykevinson.neocities.org/blog/things-i-hate-part-1/
 [the credits]: /extra/credits/
 

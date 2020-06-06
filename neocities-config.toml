@@ -5,7 +5,7 @@ theme = "14292"
 
 [params]
 timeDilation = true
-mediaUrl = "https://kirbykevinson.gitlab.io/"
+mediaUrl = "https://kirby.kevinson.org/"
 
 [markup.goldmark.renderer]
 unsafe = true
