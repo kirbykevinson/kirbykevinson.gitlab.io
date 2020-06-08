@@ -2,7 +2,7 @@
 title: "Lost or unlisted"
 ---
 
-## 2012/2013?: several YouTube channels, some using my legal name
+## 2012?/2013?: several YouTube channels, some using my legal name
 
 It's probably still possible to find some of them. Here's a list of
 the videos I still remember capturing:
@@ -29,7 +29,7 @@ were complete fucking garbage." As far as I know, all known backups of
 it have been lost. The channel's group is still there, but I can't
 leave a link here, sorry.
 
-## 2015-1?-??/2016-02-18: {Nblm,Null}Browser
+## 2015-1X-XX/2016-02-18: {Nblm,Null}Browser
 
 "Web browser" made using MSHTML and later NWJS. Pretty weird choise
 for the first JavaScript project, isn't it? If you want to subject
@@ -42,7 +42,7 @@ yourself to torture, [here you go].
 "The revival" of NullBrowser. It's still in my GitLab repos, but it's
 hidden because I think my legal name was used there once.
 
-## 2016/2018?: random shit channel
+## 2016?/2018?: random shit channel
 
 A more casual channel, where I posted funny shit for me and my
 friends. It mostly consisted of funny surreal montages and was deleted
@@ -60,7 +60,7 @@ Small video game that parodies Russian pseudo-patriots. It was
 completely wiped out with no backups left because I thought I'd get in
 legal trouble for some reason.
 
-## 201?: CODEMAZE
+## 201X: CODEMAZE
 
 Maze video game, where you had to write code to progress. It was being
 made for some competition or shit, which I hated, and the project was
@@ -68,7 +68,7 @@ abandoned on an early stage with only 0 to 1 possible backups left, to
 which I have to access. The game featured a Game Boy-like video memory
 structure, which you had to fill with bitmapped drawings.
 
-## 201?: ToberUberStobe: The Movie
+## 201X: ToberUberStobe: The Movie
 
 It was just me doing weird shit on a "green screen" (actually, a wall,
 which I crappily cut off frame by frame in GIMP) on top of edited

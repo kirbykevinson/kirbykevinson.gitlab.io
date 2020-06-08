@@ -7,7 +7,7 @@ background: "fabric"
 I might be wrong with some dates because I'm not very good at
 correctly remembering things.
 
-## ????/2005
+## XXXX/2005
 
 I don't remember anything.
 
