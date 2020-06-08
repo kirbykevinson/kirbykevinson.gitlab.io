@@ -28,6 +28,8 @@
   [source](https://publicdomainpictures.net/en/view-image.php?image=201689&picture=brown-fabric-textured-background)
 * `static/images/backgrounds/leather.png` -
   [source](https://publicdomainpictures.net/en/view-image.php?image=240670&picture=sky-blue-leather-effect-background)
+* `static/images/backgrounds/metal.png` -
+  [source](https://publicdomainpictures.net/en/view-image.php?image=234795&picture=dirty-metal-1)
 * `static/images/backgrounds/paper.png` -
   [source](https://publicdomainpictures.net/en/view-image.php?image=243760&picture=paper-creased-background)
 * `static/images/backgrounds/sky.png` -
