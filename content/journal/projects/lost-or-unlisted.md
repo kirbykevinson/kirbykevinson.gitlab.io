@@ -54,7 +54,7 @@ A modified version of ToberUberStobe with a shitton of local memes and
 nonsensical humor. A backup has been recently discovered, but I share
 it publically. Or can I?
 
-## 2017-04-22/2017-04-??: LDJAM 38 entry
+## 2017-04-22/2017-04-XX: LDJAM 38 entry
 
 Small video game that parodies Russian pseudo-patriots. It was
 completely wiped out with no backups left because I thought I'd get in
