@@ -114,14 +114,19 @@ a.node::before {
 a.link::before {
 	content: url("/images/icons/profile.png");
 }
-a.more::before {
+
+summary::before {
+	margin-right: 8px;
 	width: 16px;
 	height: 16px;
 	vertical-align: baseline;
 	content: url("/images/icons/more.png");
 }
+details[open] > summary::before {
+	content: url("/images/icons/less.png");
+}
 
-a:hover {
+a:hover, summary:hover {
 	opacity: 1;
 	text-decoration: underline;
 	cursor: url("/images/cursors/pointer.png"), pointer;

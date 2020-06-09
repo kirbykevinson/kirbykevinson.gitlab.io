@@ -98,9 +98,13 @@ ul, ol {
 	padding-right: 40px;
 }
 
-a {
+a, summary {
 	color: var(--accent-color);
 	text-decoration: none;
+}
+
+summary {
+	cursor: pointer;
 }
 
 a.page::before {
@@ -109,11 +113,18 @@ a.page::before {
 a.link::before {
 	content: "@";
 }
-a.more::before {
+
+summary::-webkit-details-marker {
+	display: none;
+}
+summary::before {
 	content: "▾";
 }
+details[open] > summary::before {
+	content: "▴";
+}
 
-a:hover {
+a:hover, summary:hover {
 	opacity: 0.5;
 }
 
@@ -121,7 +132,7 @@ main img {
 	max-width: 100%;
 }
 
-pre, code,
+pre, code, summary,
 .breadcrumbs, .breadcrumbs a,
 .links, .links a,
 .page-title {
@@ -194,21 +205,10 @@ body:not(.home) .page-title a::before {
 	color: var(--foreground-color);
 }
 
-.links a {
+.links a, summary {
 	display: block;
 	line-height: 2;
 	font-size: 1.125em;
-}
-
-#more > *:not(:first-child) {
-	display: none;
-}
-
-#more:target > *:first-child {
-	display: none;
-}
-#more:target > *:not(:first-child) {
-	display: block;
 }
 
 .album {

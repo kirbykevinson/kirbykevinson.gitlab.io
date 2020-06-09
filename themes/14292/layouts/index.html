@@ -9,12 +9,8 @@
 			<a href="{{ .link }}" class="link">{{ .site }}</a>
 		{{ end }}
 		
-		<div id="more">
-			<a
-				href="#more"
-				
-				class="more"
-			>More links</a>
+		<details>
+			<summary>More links</summary>
 			
 			<hr>
 			
@@ -22,12 +18,16 @@
 				<a href="{{ .link }}" class="link">{{ .site }}</a>
 			{{ end }}
 			
-			<hr>
-			
-			{{ range .Site.Data.links.tertiary }}
-				<a href="{{ .link }}" class="link">{{ .site }}</a>
-			{{ end }}
-		</div>
+			<details>
+				<summary>Even more links</summary>
+				
+				<hr>
+				
+				{{ range .Site.Data.links.tertiary }}
+					<a href="{{ .link }}" class="link">{{ .site }}</a>
+				{{ end }}
+			</details>
+		</details>
 	</nav>
 	
 	{{ if .Site.Params.timeDilation }}
