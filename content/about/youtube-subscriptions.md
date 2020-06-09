@@ -110,5 +110,8 @@ are added in the end.
 [DistroTube](https://www.youtube.com/channel/UCVls1GmFKf6WlTraIb_IaJg)
 [Bryan Lunduke](https://www.youtube.com/user/BryanLunduke)
 [Company Man](https://www.youtube.com/channel/UCQMyhrt92_8XM0KgZH6VnRg)
+[Captain Disillusion](https://www.youtube.com/user/CaptainDisillusion)
+[Mark Rober](https://www.youtube.com/user/onemeeeliondollars)
+[Nostalgia Nerd](https://www.youtube.com/user/nostalgianerdvideos)
 
 {{% /links %}}
