@@ -1,5 +1,5 @@
 {
-	"main": [
+	"primary": [
 		{
 			"site": "protonmail.com",
 			"link": "/extra/email/"
@@ -12,40 +12,59 @@
 	
 	"secondary": [
 		{
-			"site": "twitter.com",
-			"link": "https://twitter.com/kirbykevinson"
-		},
-		{
-			"site": "reddit.com",
-			"link": "https://www.reddit.com/user/kirbykevinson"
-		},
-		{
-			"site": "news.ycombinator.com",
-			"link": "https://news.ycombinator.com/user?id=kirbykevinson"
+			"site": "discord.com",
+			"link": "/extra/discord/"
 		},
 		{
 			"site": "github.com",
 			"link": "https://github.com/kirbykevinson"
 		},
 		{
-			"site": "pypi.org",
-			"link": "https://pypi.org/user/kirbykevinson/"
+			"site": "neocities.org",
+			"link": "https://neocities.org/site/kirbykevinson"
 		},
 		{
-			"site": "itch.io",
-			"link": "https://kirbykevinson.itch.io/"
+			"site": "reddit.com",
+			"link": "https://www.reddit.com/user/kirbykevinson"
 		},
 		{
-			"site": "soundcloud.com",
-			"link": "https://soundcloud.com/kirbykevinson"
+			"site": "twitter.com",
+			"link": "https://twitter.com/kirbykevinson"
+		}
+	],
+	
+	"tertiary": [
+		{
+			"site": "archive.org",
+			"link": "https://archive.org/details/@kirbykevinson"
 		},
 		{
 			"site": "freesound.org",
 			"link": "https://freesound.org/people/kirbykevinson/"
 		},
 		{
-			"site": "archive.org",
-			"link": "https://archive.org/details/@kirbykevinson"
+			"site": "gitlab.freedesktop.org",
+			"link": "https://gitlab.freedesktop.org/kirbykevinson"
+		},
+		{
+			"site": "itch.io",
+			"link": "https://kirbykevinson.itch.io/"
+		},
+		{
+			"site": "news.ycombinator.com",
+			"link": "https://news.ycombinator.com/user?id=kirbykevinson"
+		},
+		{
+			"site": "pypi.org",
+			"link": "https://pypi.org/user/kirbykevinson/"
+		},
+		{
+			"site": "soundcloud.com",
+			"link": "https://soundcloud.com/kirbykevinson"
+		},
+		{
+			"site": "vistaserv.net",
+			"link": "https://members.vistaserv.net/kirby"
 		}
 	]
 }

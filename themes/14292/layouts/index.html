@@ -5,7 +5,7 @@
 {{ define "footer" }}
 	{{ partial "links.html" . }}
 	<nav class="links">
-		{{ range .Site.Data.links.main }}
+		{{ range .Site.Data.links.primary }}
 			<a href="{{ .link }}" class="link">{{ .site }}</a>
 		{{ end }}
 		
@@ -19,6 +19,12 @@
 			<hr>
 			
 			{{ range .Site.Data.links.secondary }}
+				<a href="{{ .link }}" class="link">{{ .site }}</a>
+			{{ end }}
+			
+			<hr>
+			
+			{{ range .Site.Data.links.tertiary }}
 				<a href="{{ .link }}" class="link">{{ .site }}</a>
 			{{ end }}
 		</div>
