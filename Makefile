@@ -16,6 +16,7 @@ neocities: build
 		-e extra\
 		-e extra/baako\
 		-e extra/credits\
+		-e extra/discord\
 		-e extra/email\
 		-e extra/jerk-forward\
 		-e extra/mfsb\
