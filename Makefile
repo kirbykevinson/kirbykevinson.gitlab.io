@@ -37,5 +37,8 @@ neocities: build
 neocities-full: build
 	neocities push $(NEOCITIES_FLAGS) public
 
+neocities-supporter: build
+	rclone sync public neocities: -P
+
 archive: build
 	zip -r $$(date +"%F")-curbie.kevinson.org.zip *

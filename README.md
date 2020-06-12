@@ -9,11 +9,12 @@ The contents of this repo are responsible for generating both the
 
 * Hugo
 * Neocities CLI - optional
+* rclone - optional
 
 ## How to deploy
 
 ```
-make gitlab neocities[-full]
+make gitlab neocities[-full,-supporter]
 ```
 
 See `Makefile` for more details.
