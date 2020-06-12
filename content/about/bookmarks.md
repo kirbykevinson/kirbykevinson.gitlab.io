@@ -29,20 +29,20 @@ background: "leather"
 
 {{% links %}}
 
-[Artemy Lebedev](https://www.tema.ru/eng/)
 [Alan Resnick](https://alanresnick.info/)
-[billwurtz](https://billwurtz.com/)
+[Artemy Lebedev](https://www.tema.ru/eng/)
 [Bryan Lunduke](https://lunduke.com/)
 [Craig Balunsat](https://www.balunsat.org/)
 [Dennis Knopf](http://www.dennisknopf.net/)
 [Drew DeVault](https://drewdevault.com/)
-[emersion](https://emersion.fr/)
 [Hazel Rose Levine](https://qtp2t.club/)
 [Nathan Toasty](http://toastytech.com/)
 [Nikolay Zhdanov](https://nicolas232.github.io/)
-[null program](https://nullprogram.com/)
 [Richard Stallman](https://stallman.org/)
 [Whoever I follow on Neocities](https://neocities.org/site/kirbykevinson/follows)
+[billwurtz](https://billwurtz.com/)
+[emersion](https://emersion.fr/)
+[null program](https://nullprogram.com/)
 
 {{% /links %}}
 
@@ -64,8 +64,8 @@ background: "leather"
 {{% links %}}
 
 [Click here to get rickrolled](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-[lofi hip hop radio - beats to relax/study to](https://www.youtube.com/watch?v=5qap5aO4i9A)
 [Poolside FM](https://poolside.fm/)
+[lofi hip hop radio - beats to relax/study to](https://www.youtube.com/watch?v=5qap5aO4i9A)
 
 {{% /links %}}
 
@@ -73,8 +73,9 @@ background: "leather"
 
 {{% links %}}
 
-[colornames.org](https://colornames.org/)
+[Every Noise at Once](http://everynoise.com/)
 [LINGsCARS](https://www.lingscars.com/)
+[colornames.org](https://colornames.org/)
 [pack.png](https://packpng.com/)
 [rclone](https://rclone.org/)
 
