@@ -3,7 +3,7 @@ The contents of this repo are responsible for generating both the
 [GitLab Pages] and the [Neocities] versions of it.
 
 [GitLab Pages]: https://kirby.kevinson.org/
-[Neocities]: https://kirbykevinson.neocities.org/
+[Neocities]: https://curbie.kevinson.org/
 
 ## Dependencies
 

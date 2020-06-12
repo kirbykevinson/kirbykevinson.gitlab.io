@@ -38,4 +38,4 @@ neocities-full: build
 	neocities push $(NEOCITIES_FLAGS) public
 
 archive: build
-	zip -r $$(date +"%F")-kirbykevinson.neocities.org.zip *
+	zip -r $$(date +"%F")-curbie.kevinson.org.zip *

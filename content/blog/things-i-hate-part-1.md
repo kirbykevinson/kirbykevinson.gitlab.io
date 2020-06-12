@@ -20,7 +20,7 @@ animation.
 
 [Best Motherfucking Website]: https://bestmotherfucking.website/
 [stay modern]: https://kirby.kevinson.org/blog/things-i-hate-part-1/
-[stay funky]: https://kirbykevinson.neocities.org/blog/things-i-hate-part-1/
+[stay funky]: https://curbie.kevinson.org/blog/things-i-hate-part-1/
 [the credits]: /extra/credits/
 
 So, yeah, people suck and fuck up everything, including the web, but I
