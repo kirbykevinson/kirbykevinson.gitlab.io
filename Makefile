@@ -1,4 +1,4 @@
-.PHONY: all clean gitlab build neocities archive
+.PHONY: all clean gitlab build neocities neocities-full neocities-supporter archive
 
 NEOCITIES_FLAGS = -e audio
 
