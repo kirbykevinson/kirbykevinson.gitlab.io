@@ -18,8 +18,8 @@ background: "drugs"
 * Birthdate: sometime at the turn of the 21st century
 * Is still alive: probably yes
 * Temperament: melancholic
-* Gender: male
-* Sexual orientation: ＳＬＩＧＨＴＬＹ ＨＯＭＯＳＥＸＵＡＬ
+* Gender: male?
+* Sexual orientation: ＳＬＩＧＨＴＬＹ ＨＯＭＯＳＥＸＵＡＬ？
 * Height: average
 * Weight: average, but I still look like shit
 * Oddities: [visual snow], which I discovered is not normal in 2019
@@ -55,7 +55,7 @@ background: "drugs"
 * Video game: Minecraft: Java Edition
 * Website: [Neocities]
 * Kernel space software: Linux
-* User space software: systemd
+* User space software: Flatpak
 * Date format: ISO 8601
 * Character encoding: UTF-8
 * Animal: capybara
