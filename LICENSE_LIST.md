@@ -32,6 +32,9 @@
   [source](https://publicdomainpictures.net/en/view-image.php?image=234795&picture=dirty-metal-1)
 * `static/images/backgrounds/paper.png` -
   [source](https://publicdomainpictures.net/en/view-image.php?image=243760&picture=paper-creased-background)
+* `static/images/backgrounds/paw-prints.png` -
+  [source](https://publicdomainpictures.net/en/view-image.php?image=320107&picture=paws-dog-cat-background),
+  [source](https://publicdomainpictures.net/en/view-image.php?image=138971&picture=natural-background-4)
 * `static/images/backgrounds/sky.png` -
   [source](https://publicdomainpictures.net/en/view-image.php?image=1279&picture=sky-with-clouds)
 * `static/images/backgrounds/skyline.png` -
