@@ -1,3 +1,7 @@
 <div class="album">
-	{{ .Inner | markdownify }}
+
+<img src="/images/cover-art/{{ .Get 0 }}.jpg" class="cover" loading="lazy" alt="Album cover art">
+
+<div class="description">{{ .Inner | markdownify }}</div>
+
 </div>
