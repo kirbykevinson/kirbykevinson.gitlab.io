@@ -35,6 +35,8 @@
 * `static/images/backgrounds/paw-prints.png` -
   [source](https://publicdomainpictures.net/en/view-image.php?image=320107&picture=paws-dog-cat-background),
   [source](https://publicdomainpictures.net/en/view-image.php?image=138971&picture=natural-background-4)
+* `static/images/backgrounds/sand.png` -
+  [source](https://publicdomainpictures.net/en/view-image.php?image=162897&picture=sand-texture)
 * `static/images/backgrounds/sky.png` -
   [source](https://publicdomainpictures.net/en/view-image.php?image=1279&picture=sky-with-clouds)
 * `static/images/backgrounds/skyline.png` -
