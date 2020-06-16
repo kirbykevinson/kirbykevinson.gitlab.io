@@ -140,6 +140,7 @@
 	  [source](https://publicdomainpictures.net/en/view-image.php?image=317468&picture=summer-sunset-at-the-lake),
 	  [source](https://publicdomainpictures.net/en/view-image.php?image=17111&picture=sunset)
 	* `static/images/cover-art/mfsb-mfsb-gamble-and-huff-orchestra.jpg`
+	* `static/images/cover-art/various-sound-collection-of-gunbuster.jpg`
 	* `static/images/cover-art/yutaka-yokokura-brazasia.jpg` -
 	  [source](https://publicdomainpictures.net/en/view-image.php?image=233918&picture=path-in-tropical-forest)
   > Original image (Official photographic portrait of US President

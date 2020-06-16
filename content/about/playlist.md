@@ -213,6 +213,16 @@ recreate everything with stock images and my epic drawing skills.
 
 {{% /album %}}
 
+{{% album "various-sound-collection-of-gunbuster" %}}
+
+* Name: Various - Sound Collection Of Gunbuster
+* Released: 1994-08-24
+* Genre: soundtrack
+* Length: XX:XX:XX
+* Favorite song: 時の河を越えて
+
+{{% /album %}}
+
 {{% album "yutaka-yokokura-love-light" %}}
 
 * Name: Yutaka Yokokura - Love Light
@@ -240,6 +250,26 @@ recreate everything with stock images and my epic drawing skills.
 * Name: Bill Wurtz
 * Genre: [billwurtz.com](https://billwurtz.com/)
 * Favorite song: hallelujah
+
+{{% /album %}}
+
+{{% album "c418-minecraft-volume-alpha" %}}
+
+* Name: C418 - Minecraft - Volume Alpha
+* Released: 2011-03-04
+* Genre: soundtrack
+* Length: 00:59:32
+* Favorite song: Haggstrom
+
+{{% /album %}}
+
+{{% album "c418-minecraft-volume-beta" %}}
+
+* Name: C418 - Minecraft - Volume Beta
+* Released: 2013-11-09
+* Genre: soundtrack
+* Length: 02:19:33
+* Favorite song: Alpha
 
 {{% /album %}}
 
