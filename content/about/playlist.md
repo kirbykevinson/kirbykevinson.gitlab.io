@@ -293,6 +293,17 @@ recreate everything with stock images and my epic drawing skills.
 
 {{% /album %}}
 
+{{% album "paul-romero-rob-king-steve-baca-heroes-of-might-and-magic-iii-soundtrack" %}}
+
+* Name: Paul Romero, Rob King, Steve Baca - Heroes Of Might And Magic
+  III Soundtrack
+* Released: 2014-XX-XX
+* Genre: soundtrack
+* Length: 01:24:02
+* Favorite song: Town - Fortress
+
+{{% /album %}}
+
 {{% album "saint-pepsi-hit-vibes" %}}
 
 * Name: Saint Pepsi - Hit Vibes
@@ -300,6 +311,16 @@ recreate everything with stock images and my epic drawing skills.
 * Genre: vaporwave
 * Length: 00:36:20
 * Favorite song: Better
+
+{{% /album %}}
+
+{{% album "toby-fox-undertale-soundtrack" %}}
+
+* Name: Toby Fox - Undertale Soundtrack
+* Released: 2015-09-15
+* Genre: soundtrack
+* Length: 02:10:28
+* Favorite song: Ghost Fight
 
 {{% /album %}}
 
