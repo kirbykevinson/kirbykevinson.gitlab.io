@@ -48,7 +48,7 @@ My life hit the rock bottom, which led to me trying to eliminate as
 much of it as possible by stopping talking to anyone, holding extreme
 libright views, removing as much recorded online presence of me as
 possible, and getting too deep down the software minimalism rabbit
-hole. You can probably what effect all of this had on me. Also I
+hole. You can probably guess what effect all of this had on me. Also I
 accidentally formed [my music taste] by watching a YouTube video about
 future funk.
 
