@@ -113,5 +113,6 @@ are added in the end.
 [Captain Disillusion](https://www.youtube.com/user/CaptainDisillusion)
 [Mark Rober](https://www.youtube.com/user/onemeeeliondollars)
 [Nostalgia Nerd](https://www.youtube.com/user/nostalgianerdvideos)
+[Chris Titus Tech](https://www.youtube.com/user/homergfunk)
 
 {{% /links %}}
