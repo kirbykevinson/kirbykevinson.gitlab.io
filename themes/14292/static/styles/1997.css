@@ -148,10 +148,6 @@ a:hover img {
 	filter: contrast(1000%);
 }
 
-pre, code {
-	max-width: calc(100vw - 64px);
-}
-
 .buttons {
 	margin-top: 1em;
 }

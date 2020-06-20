@@ -79,6 +79,7 @@ body {
 
 .page-wrapper {
 	flex-grow: 1;
+	min-width: 0;
 	max-width: 32em;
 	margin: 16px;
 }
@@ -141,7 +142,6 @@ pre, code, summary,
 
 pre, code {
 	box-sizing: border-box;
-	max-width: calc(100vw - 32px);
 	padding: 2px 4px;
 	font-size: 0.875em;
 	border:
@@ -234,10 +234,6 @@ body:not(.home) .page-title a::before {
 	flex-basis: 19em;
 	flex-grow: 1;
 	margin: 8px;
-}
-
-.album > .description > * {
-	max-width: 100%;
 }
 
 .pagination {
