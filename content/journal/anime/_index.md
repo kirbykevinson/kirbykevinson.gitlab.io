@@ -4,7 +4,7 @@ title: "Anime"
 reverseSort: true
 
 background: "sky"
-backgroundFallback: "#336699"
+backgroundFallback: "#666699"
 ---
 
 Every anime I've ever seen is described and rated here. The rating

@@ -2,5 +2,5 @@
 title: "Blog"
 
 background: "stones"
-backgroundFallback: "#999999"
+backgroundFallback: "#666666"
 ---

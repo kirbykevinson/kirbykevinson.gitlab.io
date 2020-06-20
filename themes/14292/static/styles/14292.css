@@ -170,12 +170,12 @@ blockquote {
 
 .metadata {
 	font-size: 0.75em;
-	opacity: 0.25;
+	opacity: 0.5;
 }
 
 .licensing {
 	margin-top: 1rem;
-	opacity: 0.125;
+	opacity: 0.25;
 	font-size: 0.5em;
 }
 
