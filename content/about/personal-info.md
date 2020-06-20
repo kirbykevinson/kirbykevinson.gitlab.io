@@ -2,6 +2,7 @@
 title: "Personal info"
 
 background: "drugs"
+backgroundFallback: "#990066"
 ---
 
 ## Basics

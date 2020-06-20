@@ -2,6 +2,7 @@
 title: "Pets"
 
 background: "paw-prints"
+backgroundFallback: "#336666"
 ---
 
 ## Alive

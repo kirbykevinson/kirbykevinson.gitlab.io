@@ -2,6 +2,7 @@
 title: "YouTube subscriptions"
 
 background: "checkerboard"
+backgroundFallback: "#660000"
 ---
 
 At some point in time, as I mainly watched YouTube with an unofficial

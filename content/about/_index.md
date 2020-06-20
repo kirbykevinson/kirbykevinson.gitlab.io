@@ -2,6 +2,7 @@
 title: "About"
 
 background: "matrix"
+backgroundFallback: "#000000"
 backgroundScrollDirection: "y"
 ---
 

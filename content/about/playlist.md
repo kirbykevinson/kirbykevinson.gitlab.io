@@ -2,6 +2,7 @@
 title: "Playlist"
 
 background: "treble"
+backgroundFallback: "#663300"
 ---
 
 TLDR: God bless the YouTube algorithm.

@@ -2,6 +2,7 @@
 title: "Yearbook"
 
 background: "fabric"
+backgroundFallback: "#993333"
 ---
 
 I might be wrong with some dates because I'm not very good at

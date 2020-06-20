@@ -4,6 +4,7 @@ title: "Dreams"
 reverseSort: true
 
 background: "stars"
+backgroundFallback: "#000000"
 ---
 
 Almost every dream description is transported either from social media

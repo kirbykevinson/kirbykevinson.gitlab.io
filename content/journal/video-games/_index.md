@@ -4,6 +4,7 @@ title: "Video games"
 reverseSort: true
 
 background: "skyline"
+backgroundFallback: "#333333"
 ---
 
 I play very few video games and complete almost none. This journal

@@ -2,6 +2,7 @@
 title: "Trips"
 
 background: "sand"
+backgroundFallback: "#996633"
 ---
 
 ## 2007?-0X: Yevpatoria, Crimea

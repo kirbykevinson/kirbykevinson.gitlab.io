@@ -2,6 +2,7 @@
 title: "Bookmarks"
 
 background: "leather"
+backgroundFallback: "#333399"
 ---
 
 ## News and social media
