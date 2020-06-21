@@ -2,10 +2,17 @@
 title: "In progress"
 ---
 
-* Kirby's Dream Land
+* Another World
+* Doom
+* Earthbound
 * Kirby's Adventure
-* Super Mario Bros.: The Lost Levels
+* Kirby's Dream Land
+* Mega Man
+* Portal 2
+* Sonic the Hedgehog
 * Super Mario Bros. 2
+* Super Mario Bros.: The Lost Levels
+* Super Mario World
 
 ## Minecraft
 
