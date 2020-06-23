@@ -1,5 +1,7 @@
 ---
 title: "Summary"
+
+aliases: ["/journal/yearbook/"]
 ---
 
 I might be wrong with some dates because I'm not very good at
