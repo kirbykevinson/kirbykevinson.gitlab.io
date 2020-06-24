@@ -46,6 +46,8 @@
   [source](https://publicdomainpictures.net/en/view-image.php?image=39502&picture=stones-background)
 * `static/images/backgrounds/treble.png` -
   [source](https://publicdomainpictures.net/en/view-image.php?image=328251&picture=treble-clef-wallpaper-pattern)
+* `static/images/backgrounds/wood.png` -
+  [source](https://publicdomainpictures.net/en/view-image.php?image=25761&picture=wood-texture)
 * `static/images/buttons/neocities.png` (the planet) -
   [source](https://publicdomainvectors.org/en/free-clipart/Vector-clip-art-of-planet-Saturn-icon/21340.html)
 * `static/images/buttons/www.png` (the planet) -
