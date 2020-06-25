@@ -96,8 +96,10 @@ backgroundFallback: "#333399"
 
 {{% links %}}
 
+[Esolang](https://esolangs.org/wiki/Main_Page)
 [MDN Web Docs](https://developer.mozilla.org/en-US/)
 [The Anglish Moot](https://anglish.fandom.com/wiki/Main_leaf)
+[The Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor)
 [The Gunbuster Index](http://toponeraegunbuster.com/)
 
 {{% /links %}}
