@@ -23,6 +23,7 @@ backgroundFallback: "#333399"
 [Fedora Magazine](https://fedoramagazine.org/)
 [HTMHell](https://www.htmhell.dev/)
 [Planet GNOME](https://planet.gnome.org/)
+[Planet KDE](https://planet.kde.org/)
 
 {{% /links %}}
 
