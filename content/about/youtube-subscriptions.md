@@ -115,5 +115,6 @@ are added in the end.
 [Mark Rober](https://www.youtube.com/user/onemeeeliondollars)
 [Nostalgia Nerd](https://www.youtube.com/user/nostalgianerdvideos)
 [Chris Titus Tech](https://www.youtube.com/user/homergfunk)
+[Luke Smith](https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA)
 
 {{% /links %}}
