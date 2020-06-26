@@ -40,7 +40,7 @@
 }
 @media (prefers-color-scheme: light) {
 	:root {
-		--background-color: #EEE5EB;
+		--background-color: #F0F0E0;
 		--foreground-color: #000000CF;
 		--subtle-color: #0000003F;
 		--accent-color: #AD1429;
