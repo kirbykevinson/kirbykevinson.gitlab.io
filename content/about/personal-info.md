@@ -40,7 +40,7 @@ backgroundFallback: "#990066"
 
 ## Favorite things
 
-* Color: [#FBAAC0]
+* Colors: [#FBAAC0], [#F0F0E0], [#0000FF]
 * Digit: 6
 * Number: any positive even number that is either a power of 2 or the
   sum of a power of 2 and its half (2, 4, 6, 8, 12, 16, 24, 32, 48,
@@ -64,6 +64,8 @@ backgroundFallback: "#990066"
 * Drink: water
 
 [#FBAAC0]: https://duckduckgo.com/?q=%23fbaac0&ia=answer
+[#F0F0E0]: https://duckduckgo.com/?q=%23f0f0e0&ia=answer
+[#0000FF]: https://duckduckgo.com/?q=%230000ff&ia=answer
 [MFSB - Summertime]: https://www.youtube.com/watch?v=ALFWZqInoEo
 [Spaceballs]: https://en.wikipedia.org/wiki/Spaceballs
 [Gunbuster]: https://en.wikipedia.org/wiki/Gunbuster
