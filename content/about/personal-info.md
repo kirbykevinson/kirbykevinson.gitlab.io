@@ -40,7 +40,7 @@ backgroundFallback: "#990066"
 
 ## Favorite things
 
-* Colors: [#FBAAC0], [#F0EDE8], [#0000FF]
+* Colors: [Slapper Pink], [Hotel Albaida]
 * Digit: 6
 * Number: any positive even number that is either a power of 2 or the
   sum of a power of 2 and its half (2, 4, 6, 8, 12, 16, 24, 32, 48,
@@ -63,9 +63,8 @@ backgroundFallback: "#990066"
 * Dish: shawarma
 * Drink: water
 
-[#FBAAC0]: https://duckduckgo.com/?q=%23fbaac0&ia=answer
-[#F0F0E0]: https://duckduckgo.com/?q=%23f0ede8&ia=answer
-[#0000FF]: https://duckduckgo.com/?q=%230000ff&ia=answer
+[Slapper Pink]: https://colornames.org/color/fbaac0
+[Hotel Albaida]: https://colornames.org/color/f0ede8
 [MFSB - Summertime]: https://www.youtube.com/watch?v=ALFWZqInoEo
 [Spaceballs]: https://en.wikipedia.org/wiki/Spaceballs
 [Gunbuster]: https://en.wikipedia.org/wiki/Gunbuster
@@ -73,7 +72,7 @@ backgroundFallback: "#990066"
 
 ## Least favorite things
 
-* Color: approximately [#ADFF2F]
+* Colors: [Green Yellow], [Dirty Blue]
 * Digit: N/A
 * Number: N/A
 * Letter: N/A
@@ -94,6 +93,7 @@ backgroundFallback: "#990066"
 * Dish: most of them
 * Drink: soda
 
-[#ADFF2F]: https://duckduckgo.com/?q=%23adff2f&ia=answer
+[Green Yellow]: https://colornames.org/color/adff2f
+[Dirty Blue]: https://colornames.org/color/055b81
 [Russian chanson]: https://en.wikipedia.org/wiki/Russian_chanson
 [ToberUberStobe]: https://kirbykevinson.itch.io/toberuberstobe
