@@ -31,7 +31,7 @@ leave a link here, sorry.
 
 ## 2015-1X-XX/2016-02-18: {Nblm,Null}Browser
 
-"Web browser" made using MSHTML and later NWJS. Pretty weird choise
+"Web browser" made using MSHTML and later NWJS. Pretty weird choice
 for the first JavaScript project, isn't it? If you want to subject
 yourself to torture, [here you go].
 
@@ -51,29 +51,30 @@ one day with some backups still remaining... *sigh* on PornHub.
 ## 2016/2017: TUSSE
 
 A modified version of ToberUberStobe with a shitton of local memes and
-nonsensical humor. A backup has been recently discovered, but I share
-it publically. Or can I?
+nonsensical humor. A backup has been recently discovered, but I can't
+share it publically. Or can I?
 
-## 2017-04-22/2017-04-XX: LDJAM 38 entry
+## 2017-04-22/2017-04-XX: hctip
 
-Small video game that parodies Russian pseudo-patriots. It was
-completely wiped out with no backups left because I thought I'd get in
-legal trouble for some reason.
+Small video game that parodies Russian pseudo-patriots I made as an
+LDJAM 38 entry. It was completely wiped out with no backups left
+because I thought I'd get in legal trouble for some reason.
 
 ## 201X: CODEMAZE
 
-Maze video game, where you had to write code to progress. It was being
-made for some competition or shit, which I hated, and the project was
-abandoned on an early stage with only 0 to 1 possible backups left, to
-which I have to access. The game featured a Game Boy-like video memory
-structure, which you had to fill with bitmapped drawings.
+Maze video game, where you have to write code to progress. It was
+being made for some competition or shit, which I hated, and the
+project was abandoned on an early stage with only 0 to 1 possible
+backups left, to which I have no access. The game featured a Game
+Boy-like video memory structure, which you had to fill with bitmapped
+drawings.
 
 ## 201X: ToberUberStobe: The Movie
 
-It was just me doing weird shit on a "green screen" (actually, a wall,
-which I crappily cut off frame by frame in GIMP) on top of edited
-public domain backgrounds. I still remember the plot (and it's awful),
-so I might publish it sometime.
+Just me doing weird shit on a "green screen" (actually, a wall, which
+I crappily cut off frame by frame in GIMP) on top of edited public
+domain backgrounds. I still remember the plot (and it's awful), so I
+might publish it sometime.
 
 ## 2018: W\*\*\*\* of M\*\*\*\*\*\*\*
 
@@ -83,11 +84,12 @@ recovery is still probably possible.
 
 ## 2018: billyvlogs
 
-alantutorial parody, where I just sat in the bathtub and did
-ridiculous shit with an extremely autistic voice. Only a single backup
-was made, and it's probably been lost.
+alantutorial parody, where I just sit in the bathtub and do ridiculous
+shit with an extremely autistic voice. Only a single backup was made,
+and it's probably been lost.
 
 ## 2019: photos from a trip to Moscow
 
 It was a nice trip, but I was an idiot and didn't back up the photos.
-Though, it's probably still possible to recover some of them.
+I was able to recover some of them in shitty quality, but I'm not sure
+if I should share them.

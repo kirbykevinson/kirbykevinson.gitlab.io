@@ -4,12 +4,12 @@ title: "Active"
 
 (Ones I actually develop)
 
-## 2016-11-18/..: [This website](/)
+## 2016-11-18/..: [this website](/)
 
 Initially intended to just host links to my profiles, now it serves as
 full-fledged personal website with a blog, a journal, and other stuff.
 
-## 2017-04-07/..: [My dotfiles](https://gitlab.com/kirbykevinson/dotfiles)
+## 2017-04-07/..: [my dotfiles](https://gitlab.com/kirbykevinson/dotfiles)
 
 Horrible-quality GNU/Linux (and Android) rice you absolutely shouldn't
 even try to use.
