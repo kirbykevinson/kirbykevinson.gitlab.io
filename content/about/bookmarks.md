@@ -5,23 +5,13 @@ background: "leather"
 backgroundFallback: "#333399"
 ---
 
-## News and social media
-
-{{% links %}}
-
-[Hacker News](https://news.ycombinator.com/)
-[r/all](https://www.reddit.com/r/all)
-[r/linux](https://www.reddit.com/r/linux)
-[r/unixporn](https://www.reddit.com/r/unixporn)
-
-{{% /links %}}
-
-## Blogs and magazines
+## News, blogs, and magazines
 
 {{% links %}}
 
 [Fedora Magazine](https://fedoramagazine.org/)
 [HTMHell](https://www.htmhell.dev/)
+[Hacker News](https://news.ycombinator.com/)
 [Planet GNOME](https://planet.gnome.org/)
 [Planet KDE](https://planet.kde.org/)
 

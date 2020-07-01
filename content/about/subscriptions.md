@@ -1,16 +1,51 @@
 ---
-title: "YouTube subscriptions"
+title: "Subscriptions"
+
+aliases: ["youtube-subscriptions"]
 
 background: "checkerboard"
 backgroundFallback: "#660000"
 ---
 
-At some point in time, as I mainly watched YouTube with an unofficial
-Android app, I happened to lose all data on my phone including my
-subscription list. I have no idea why it wasn't backed up, but, in any
-case, I tried my best my recover it from my memory, and here it is.
-The channels are sorted in the order I remembered them, and new ones
-are added in the end.
+Everything is listed in the order I remembered, and new stuff is added
+in the end.
+
+## Reddit
+
+via the web client and [Slide]
+
+[Slide]: https://github.com/ccrama/Slide
+
+{{% links %}}
+
+[r/all](https://www.reddit.com/r/all)
+[r/linux](https://www.reddit.com/r/linux)
+[r/Fedora](https://www.reddit.com/r/Fedora)
+[r/gnome](https://www.reddit.com/r/gnome)
+[r/ISO8601](https://www.reddit.com/r/ISO8601)
+[r/swaywm](https://www.reddit.com/r/swaywm)
+[r/flatpak](https://www.reddit.com/r/flatpak)
+[r/firefox](https://www.reddit.com/r/firefox)
+[r/Dreams](https://www.reddit.com/r/Dreams)
+[r/unixporn](https://www.reddit.com/r/unixporn)
+[r/starterpacks](https://www.reddit.com/r/starterpacks)
+[r/egg\_irl](https://www.reddit.com/r/egg_irl)
+[r/195](https://www.reddit.com/r/195)
+[r/ComedyNecrophilia](https://www.reddit.com/r/ComedyNecrophilia)
+[r/okbuddyretard](https://www.reddit.com/r/okbuddyretard)
+[r/copypasta](https://www.reddit.com/r/copypasta)
+[r/nukedmemes](https://www.reddit.com/r/nukedmemes)
+[r/fakealbumcovers](https://www.reddit.com/r/fakealbumcovers)
+[r/anime\_irl](https://www.reddit.com/r/anime_irl)
+[r/animemes](https://www.reddit.com/r/animemes)
+
+{{% /links %}}
+
+## YouTube
+
+via the web client and [NewPipe]
+
+[NewPipe]: https://newpipe.schabi.org/
 
 {{% links %}}
 
