@@ -60,7 +60,7 @@ Small video game that parodies Russian pseudo-patriots I made as an
 LDJAM 38 entry. It was completely wiped out with no backups left
 because I thought I'd get in legal trouble for some reason.
 
-## 201X: CODEMAZE
+## 2017?: CODEMAZE
 
 Maze video game, where you have to write code to progress. It was
 being made for some competition or shit, which I hated, and the
@@ -69,12 +69,15 @@ backups left, to which I have no access. The game featured a Game
 Boy-like video memory structure, which you had to fill with bitmapped
 drawings.
 
-## 201X: ToberUberStobe: The Movie
+## 2017?: ToberUberStobe: The Movie
 
 Just me doing weird shit on a "green screen" (actually, a wall, which
 I crappily cut off frame by frame in GIMP) on top of edited public
-domain backgrounds. I still remember the plot (and it's awful), so I
-might publish it sometime.
+domain backgrounds. The thing itself was completely annihilated with
+absolutely no backups of anything left, but, luckily, I remembered it
+in great detail, so here's [the screenplay].
+
+[the screenplay]: /extra/text-files/tus-the-movie.txt
 
 ## 2018: W\*\*\*\* of M\*\*\*\*\*\*\*
 

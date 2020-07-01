@@ -21,6 +21,7 @@ neocities: build
 		-e extra/mfsb\
 		-e extra/old-designs\
 		-e extra/pre-website\
+		-e extra/text-files\
 		-e extra/user-agent-test\
 		-e extra/www\
 		-e fonts\
