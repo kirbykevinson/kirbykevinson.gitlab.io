@@ -17,7 +17,7 @@ title: "In progress"
 ## Minecraft
 
 This game is an absolute masterpiece and my favorite game of all time,
-which I started playing in 2013 and haven't even completed once yet.
+which I started playing in 2012 and haven't even completed once yet.
 What a shame.
 
 ## Super Mario Bros. 3
