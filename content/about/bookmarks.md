@@ -76,6 +76,7 @@ backgroundFallback: "#333399"
 {{% links %}}
 
 [Every Noise at Once](http://everynoise.com/)
+[Flathub](https://flathub.org/home)
 [LINGsCARS](https://www.lingscars.com/)
 [colornames.org](https://colornames.org/)
 [pack.png](https://packpng.com/)
