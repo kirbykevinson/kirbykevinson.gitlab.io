@@ -18,7 +18,6 @@ neocities: build
 		-e extra/credits\
 		-e extra/discord\
 		-e extra/email\
-		-e extra/jerk-forward\
 		-e extra/mfsb\
 		-e extra/old-designs\
 		-e extra/pre-website\
