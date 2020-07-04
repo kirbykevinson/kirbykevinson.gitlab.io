@@ -36,7 +36,7 @@ better hotel.
 Also pretty much like the previous time but in an even better hotel
 and with a Jeep safari ride or whatever it's called.
 
-## 2019-08: Moscow, Russia
+## 2019-08: [Moscow, Russia](https://imgur.com/a/H57ir2K)
 
 Despite the weather being depressive a large portion of time and
 soviet architecture being everywhere, visiting this city was an

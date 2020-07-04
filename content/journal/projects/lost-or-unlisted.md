@@ -77,9 +77,3 @@ recovery is still probably possible.
 alantutorial parody, where I just sit in the bathtub and do ridiculous
 shit with an extremely autistic voice. Only a single backup was made,
 and it's probably been lost.
-
-## 2019: photos from a trip to Moscow
-
-It was a nice trip, but I was an idiot and didn't back up the photos.
-I was able to recover some of them in shitty quality, but I'm not sure
-if I should share them.
