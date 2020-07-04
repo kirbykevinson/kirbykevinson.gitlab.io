@@ -37,7 +37,9 @@ via the web client and [Slide]
 [r/nukedmemes](https://www.reddit.com/r/nukedmemes)
 [r/fakealbumcovers](https://www.reddit.com/r/fakealbumcovers)
 [r/anime\_irl](https://www.reddit.com/r/anime_irl)
-[r/animemes](https://www.reddit.com/r/animemes)
+[r/Animemes](https://www.reddit.com/r/Animemes)
+[r/HydroHomies](https://www.reddit.com/r/HydroHomies)
+[r/kde](https://www.reddit.com/r/kde)
 
 {{% /links %}}
 
@@ -151,5 +153,6 @@ via the web client and [NewPipe]
 [Nostalgia Nerd](https://www.youtube.com/user/nostalgianerdvideos)
 [Chris Titus Tech](https://www.youtube.com/user/homergfunk)
 [Luke Smith](https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA)
+[GradeAUnderA](https://www.youtube.com/user/GradeAUnderA)
 
 {{% /links %}}
