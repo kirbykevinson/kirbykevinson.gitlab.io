@@ -29,19 +29,6 @@ were complete fucking garbage." As far as I know, all known backups of
 it have been lost. The channel's group is still there, but I can't
 leave a link here, sorry.
 
-## 2015-1X-XX/2016-02-18: {Nblm,Null}Browser
-
-"Web browser" made using MSHTML and later NWJS. Pretty weird choice
-for the first JavaScript project, isn't it? If you want to subject
-yourself to torture, [here you go].
-
-[here you go]: https://sourceforge.net/projects/nblmbrowser/
-
-## 2016-03-25/2016-04-28: BirchBrowser
-
-"The revival" of NullBrowser. It's still in my GitLab repos, but it's
-hidden because I think my legal name was used there once.
-
 ## 2016?/2018?: random shit channel
 
 A more casual channel, where I posted funny shit for me and my

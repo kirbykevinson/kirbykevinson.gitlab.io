@@ -5,15 +5,22 @@ title: "Dead"
 (Ones I don't develop anymore and don't have any intention to develop
 again)
 
+## 2015-1X-XX/2016-02-18: [{Nblm,Null}Browser](https://gitlab.com/kirbykevinson/nblmbrowser)
+
+"Web browser" made using MSHTML and later NWJS. Pretty weird choice
+for the first JavaScript project, isn't it?
+
+## 2016-03-25/2016-04-28: [BirchBrowser](https://gitlab.com/kirbykevinson/BirchBrowser)
+
+"The revival" of NullBrowser.
+
 ## 2016-06-21/2016-09-06: [BFJS](https://gitlab.com/kirbykevinson/BFJS)
 
 BrainFuck compiler made in JavaScript for educational purposes.
 
 ## 2016-08-21/2016-09-05: [BBrowser](https://gitlab.com/kirbykevinson/BBrowser)
 
-Yet another reborn of [NblmBrowser].
-
-[NblmBrowser]: ../lost-or-unlisted/#2015-1-2016-02-18-nblmnullbrowser
+Yet another reborn of NblmBrowser.
 
 ## 2016-08-31/2016-09-05: [ImaVi](https://gitlab.com/kirbykevinson/ImaVi)
 
