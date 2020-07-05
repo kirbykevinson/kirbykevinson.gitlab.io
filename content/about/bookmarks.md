@@ -23,18 +23,19 @@ backgroundFallback: "#333399"
 
 [Alan Resnick](https://alanresnick.info/)
 [Artemy Lebedev](https://www.tema.ru/eng/)
+[Bill Wurtz](https://billwurtz.com/)
 [Bryan Lunduke](https://lunduke.com/)
+[Chris Wellons](https://nullprogram.com/)
 [Craig Balunsat](https://www.balunsat.org/)
 [Dennis Knopf](http://www.dennisknopf.net/)
 [Drew DeVault](https://drewdevault.com/)
-[Hazel Rose Levine](https://qtp2t.club/)
+[Hazel Levine](https://knightsofthelambdacalcul.us/)
 [Nathan Toasty](http://toastytech.com/)
 [Nikolay Zhdanov](https://nicolas232.github.io/)
 [Richard Stallman](https://stallman.org/)
+[Simon Ser](https://emersion.fr/)
+[Simone Marzulli](https://simone.computer/#/)
 [Whoever I follow on Neocities](https://neocities.org/site/kirbykevinson/follows)
-[billwurtz](https://billwurtz.com/)
-[emersion](https://emersion.fr/)
-[null program](https://nullprogram.com/)
 
 {{% /links %}}
 
@@ -65,6 +66,7 @@ backgroundFallback: "#333399"
 
 {{% links %}}
 
+[Archive Team](https://www.archiveteam.org/)
 [Every Noise at Once](http://everynoise.com/)
 [Flathub](https://flathub.org/home)
 [LINGsCARS](https://www.lingscars.com/)
