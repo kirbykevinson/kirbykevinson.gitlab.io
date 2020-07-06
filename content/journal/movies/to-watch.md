@@ -20,4 +20,3 @@ title: "To watch"
 * Top Gun
 * Total Recall
 * Toy Story
-* Zootopia
