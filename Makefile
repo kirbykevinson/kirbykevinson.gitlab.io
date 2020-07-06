@@ -18,6 +18,7 @@ neocities: build
 		-e extra/credits\
 		-e extra/discord\
 		-e extra/email\
+		-e extra/gunbuster-clock\
 		-e extra/mfsb\
 		-e extra/old-designs\
 		-e extra/pre-website\
