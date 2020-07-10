@@ -7,8 +7,17 @@ background: "checkerboard"
 backgroundFallback: "#660000"
 ---
 
-Everything is listed in the order I remembered, and new stuff is added
-in the end.
+Everything is listed in the order I remembered with new stuff added in
+the end.
+
+## Paid
+
+{{% links %}}
+
+[Namecheap](https://www.namecheap.com/)
+[Neocities Supporter](https://neocities.org/supporter)
+
+{{% /links %}}
 
 ## Reddit
 
@@ -138,9 +147,6 @@ via the web client and [NewPipe]
 [CallMeCarsonLIVE](https://www.youtube.com/user/C4rs0nCS)
 [JonTronShow](https://www.youtube.com/user/JonTronShow)
 [Kurzgesagt – In a Nutshell](https://www.youtube.com/user/Kurzgesagt)
-
----
-
 [Unus Annus](https://www.youtube.com/channel/UCIcgBZ9hEJxHv6r_jDYOMqg)
 [Michael MJD](https://www.youtube.com/user/mjd7999)
 [Chris Were Digital](https://www.youtube.com/user/ChrisWereDigital)
