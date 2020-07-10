@@ -48,8 +48,6 @@
 }
 
 * {
-	font-family: var(--fonts);
-	color: var(--foreground-color);
 	transition: 0.1s;
 	scrollbar-width: thin;
 	scrollbar-color: var(--foreground-color) var(--subtle-color);
@@ -69,7 +67,9 @@ body {
 	padding: 0;
 	margin: 0;
 	line-height: 1.5;
+	font-family: var(--fonts);
 	font-size: 16pt;
+	color: var(--foreground-color);
 	background: var(--background-color);
 }
 
@@ -100,8 +100,8 @@ ul, ol {
 }
 
 a, summary {
-	color: var(--accent-color);
 	text-decoration: none;
+	color: var(--accent-color);
 }
 
 summary {
@@ -134,9 +134,7 @@ main img {
 }
 
 pre, code, summary,
-.breadcrumbs, .breadcrumbs a,
-.links, .links a,
-.page-title {
+.breadcrumbs a, .page-title, .links a {
 	font-family: var(--monospace-fonts);
 }
 
@@ -201,7 +199,6 @@ body:not(.home) .page-title a::before {
 }
 
 .page-title a {
-	font-family: inherit;
 	color: var(--foreground-color);
 }
 
