@@ -33,6 +33,16 @@
 				}
 			}
 			
+			* {
+				cursor: url("/images/cursors/tilted-pointer.png"), pointer;
+				scrollbar-width: thin;
+				scrollbar-color: #FBAAC0 #FEEDF1;
+			}
+			
+			::selection {
+				background: #FF3FFF7F;
+			}
+			
 			body {
 				display: flex;
 				justify-content: center;
@@ -44,21 +54,11 @@
 				line-height: 1.25;
 				font-family: "Comic Neue", "Comic Sans MS", "sans-serif";
 				font-size: 20pt;
+				color: var(--foreground-color);
 				background: var(--background-image);
 				background-attachment: fixed;
 				background-size: cover;
 				background-position: center;
-			}
-			
-			* {
-				color: var(--foreground-color);
-				cursor: url("/images/cursors/tilted-pointer.png"), pointer;
-				scrollbar-width: thin;
-				scrollbar-color: #FBAAC0 #FEEDF1;
-			}
-			
-			::selection {
-				background: #FF3FFF7F;
 			}
 			
 			.page-wrapper {
