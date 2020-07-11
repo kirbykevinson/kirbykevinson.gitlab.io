@@ -11,7 +11,6 @@ title: "To watch"
 * Inside Out
 * Interstellar
 * Moana
-* Pulp Fiction
 * RoboCop
 * The Lord of the Rings: The Return of the King
 * The Lord of the Rings: The Two Towers
