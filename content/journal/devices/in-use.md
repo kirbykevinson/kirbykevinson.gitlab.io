@@ -15,6 +15,6 @@ title: "In use"
 Specs:
 
 * CPU: AMD Ryzen 3 1200
-* GPU: AMD RX 550
+* GPU: AMD RX 550 -> AMD RX 560
 * RAM: 8 GiB
 * Disk: WD Green 120 GB
