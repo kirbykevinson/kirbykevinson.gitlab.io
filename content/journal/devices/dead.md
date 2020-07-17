@@ -20,7 +20,7 @@ title: "Dead"
 * OS: some proprietary garbage
 * Cause of death: destroyed by me
 
-## 20XX: Java LG smartphone
+## 20XX/2013?: Java LG smartphone
 
 * Hostname: N/A
 * OS: some proprietary garbage
@@ -36,7 +36,7 @@ Specs:
 
 * A ton of shit put in a PC case
 
-## 2013?: Samsung NP-NC110?
+## 2013?/2015?: Samsung NP-NC110?
 
 * Hostname: N/A
 * OS: Windows 7 Starter -> Windows 8 -> Ubuntu?
@@ -61,9 +61,9 @@ Specs:
 * CPU: Intel Core i7 920
 * GPU: Nvidia GTX 560
 * RAM: 4 GiB -> 8 GiB
-* Disk: some 256 GiB HHD -> 128? GiB Samsung 850 Pro SSD
+* Disk: some 256 GiB HHD -> 256 GiB Samsung 850 Pro SSD
 
-## 201X: Prestigio? Android tablet
+## 2014?/2016?: Prestigio? Android tablet
 
 * Hostname: N/A
 * OS: Android 4?
@@ -111,7 +111,7 @@ Specs:
 * OS: Android 2.3?
 * Cause of death: probably still alive
 
-## 2019?: Moto Z2 Play
+## 2019?-XX-XX/2020-05-16: Moto Z2 Play
 
 * Hostname: `machine-two`
 * OS: (Android 8 ->) Lineage OS
