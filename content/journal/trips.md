@@ -5,6 +5,8 @@ background: "sand"
 backgroundFallback: "#996633"
 ---
 
+Only if I could afford them.
+
 ## 2007?-0X: Yevpatoria, Crimea
 
 I don't have many memories left of it, but the ones I do are pretty

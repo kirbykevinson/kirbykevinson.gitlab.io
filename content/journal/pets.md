@@ -5,6 +5,8 @@ background: "paw-prints"
 backgroundFallback: "#336666"
 ---
 
+No capybaras, unfortunately.
+
 ## Alive
 
 ### 2011-01-13/..: Kuzya aka The Cat

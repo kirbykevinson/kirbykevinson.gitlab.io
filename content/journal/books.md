@@ -5,6 +5,11 @@ background: "desk"
 backgroundFallback: "#333333"
 ---
 
+The same as for [anime] but for books. Also who the hell even reads
+them nowadays.
+
+[anime]: ../anime/
+
 ## 201X-XX-XX: The Mysterious Island
 
 My grandma forced me to read this because I was (and still am) a lazy
