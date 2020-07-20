@@ -274,6 +274,18 @@ recreate everything with stock images and my epic drawing skills.
 
 {{% /album %}}
 
+{{% album "farting-toilet-guy-partying-with-annoying-poop-and-boobies-snoring-hetero-hooker-vanilla-and-horny-barfing-salad" %}}
+
+* Name: Farting Toilet Guy Partying with Annoying Poop and Boobies -
+  Snoring Hetero Hooker Vanilla and Horny Barfing Salad
+* Released: 2017-10-03
+* Genre: pop
+* Length: 01:08:11
+* Favorite song: Giraffe Feces Gifted Anime Music Crap Hiphop
+  Duplicate
+
+{{% /album %}}
+
 {{% album "flamingosis-a-groovy-thing" %}}
 
 * Name: Flamingosis - A Groovy Thing
