@@ -5,8 +5,5 @@ theme = "14292"
 
 paginate = 12
 
-[permalinks]
-blog = "/blog/:slug/"
-
 [markup.goldmark.renderer]
 unsafe = true

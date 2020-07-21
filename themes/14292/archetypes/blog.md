@@ -2,6 +2,6 @@
 title: ""
 date: {{ .Name }}
 
-url: ""
+slug: ""
 ---
 
