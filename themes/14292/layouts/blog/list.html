@@ -1,6 +1,6 @@
 {{ define "footer" }}
 	<nav class="links">
-		{{ range .Paginator.Pages }}
+		{{ range .Pages }}
 			<article>
 				<a href="{{ .Permalink }}" class="page">{{ .Title }}</a>
 				
@@ -10,6 +10,4 @@
 			</article>
 		{{ end }}
 	</nav>
-	
-	{{ template "_internal/pagination.html" . }}
 {{ end }}
