@@ -9,15 +9,18 @@ No capybaras, unfortunately.
 
 ## Alive
 
-### 2011-01-13/..: Kuzya aka The Cat
+None
+
+## Dead
+
+### 2011-01-13/2020-07-22: Kuzya aka The Cat
 
 * Species: cat
 * Gender: male
 * Castrated: yes
 * Size: ＴＨＩＣＣ
 * Fur color: gray
-
-## Dead
+* Cause of death: being too old
 
 ### 2012-10-24/2013-06?-XX: Chucha
 
