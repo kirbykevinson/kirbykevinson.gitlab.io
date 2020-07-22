@@ -3,7 +3,5 @@ languageCode = "en-ca"
 title = "Kirby Kevinson"
 theme = "14292"
 
-paginate = 12
-
 [markup.goldmark.renderer]
 unsafe = true
