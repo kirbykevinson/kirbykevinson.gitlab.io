@@ -10,7 +10,6 @@ title: "To watch"
 * Ghostbusters
 * Inside Out
 * Interstellar
-* Moana
 * RoboCop
 * The Lord of the Rings: The Return of the King
 * The Lord of the Rings: The Two Towers
