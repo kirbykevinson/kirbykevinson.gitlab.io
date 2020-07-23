@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-ca"
-title = "Kirby Kevinson 🌆"
+title = "Kirby Kevinson"
 theme = "14292"
 
 [params]

@@ -3,7 +3,7 @@
 <html lang="{{ $.Site.LanguageCode | default "en" }}">
 	<head>
 		<title>{{ block "title" . }}
-			{{ .Title }} | {{ .Site.Title }}
+			{{ partial "title.html" . }}
 		{{ end }}</title>
 		
 		<meta charset="utf-8">
