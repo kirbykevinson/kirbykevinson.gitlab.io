@@ -51,7 +51,7 @@ backgroundFallback: "#990066"
 * Musical instrument: ＢＡＳＳ
 * National anthem: God Save the Queen
 * Flag: Tokyo Metropolis
-* Movie: [Spaceballs]
+* Movie: Interstellar
 * Anime: [Gunbuster]
 * Video game: Minecraft: Java Edition
 * Website: [Neocities]
@@ -66,7 +66,6 @@ backgroundFallback: "#990066"
 [Slapper Pink]: https://colornames.org/color/fbaac0
 [Hotel Albaida]: https://colornames.org/color/f0ede8
 [MFSB - Summertime]: https://www.youtube.com/watch?v=ALFWZqInoEo
-[Spaceballs]: https://en.wikipedia.org/wiki/Spaceballs
 [Gunbuster]: https://en.wikipedia.org/wiki/Gunbuster
 [Neocities]: https://neocities.org/
 
