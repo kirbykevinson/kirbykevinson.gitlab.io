@@ -9,7 +9,6 @@ title: "To watch"
 * Garfield: The Movie
 * Ghostbusters
 * Inside Out
-* Interstellar
 * RoboCop
 * The Lord of the Rings: The Return of the King
 * The Lord of the Rings: The Two Towers
