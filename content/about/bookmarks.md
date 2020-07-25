@@ -14,6 +14,7 @@ backgroundFallback: "#333399"
 [Hacker News](https://news.ycombinator.com/)
 [Planet GNOME](https://planet.gnome.org/)
 [Planet KDE](https://planet.kde.org/)
+[What If?](https://what-if.xkcd.com/)
 
 {{% /links %}}
 
@@ -30,6 +31,7 @@ backgroundFallback: "#333399"
 [Dennis Knopf](http://www.dennisknopf.net/)
 [Drew DeVault](https://drewdevault.com/)
 [Hazel Levine](https://knightsofthelambdacalcul.us/)
+[John Duncan](https://dataswamp.org/~john/)
 [Nathan Toasty](http://toastytech.com/)
 [Nikolay Zhdanov](https://nicolas232.github.io/)
 [Richard Stallman](https://stallman.org/)
