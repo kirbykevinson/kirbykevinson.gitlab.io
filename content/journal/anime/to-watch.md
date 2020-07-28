@@ -14,5 +14,4 @@ title: "To watch"
 * Mobile Suit Gundam
 * Sailor Moon
 * Space Battleship Yamato
-* The End of Evangelion
 * Urusei Yatsura
