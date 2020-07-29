@@ -10,6 +10,7 @@ title: "In progress"
 * Mega Man
 * Portal 2
 * Sonic the Hedgehog
+* Stranded II
 * Super Mario Bros. 2
 * Super Mario Bros.: The Lost Levels
 * Super Mario World
