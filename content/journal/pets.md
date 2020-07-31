@@ -9,7 +9,12 @@ No capybaras, unfortunately.
 
 ## Alive
 
-None
+### 2020-07-26/..: Isabella aka Koschka
+
+* Species: cat
+* Gender: female
+* Size: medium
+* Fur color: black
 
 ## Dead
 
