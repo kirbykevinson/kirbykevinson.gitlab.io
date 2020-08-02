@@ -33,6 +33,7 @@ backgroundFallback: "#333399"
 [Hazel Levine](https://knightsofthelambdacalcul.us/)
 [John Duncan](https://dataswamp.org/~john/)
 [Nathan Toasty](http://toastytech.com/)
+[Nikita Tonsky](https://tonsky.me/)
 [Nikolay Zhdanov](https://nicolas232.github.io/)
 [Richard Stallman](https://stallman.org/)
 [Simon Ser](https://emersion.fr/)
