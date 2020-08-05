@@ -11,6 +11,8 @@ title: "To watch"
 * KonoSuba: God's Blessing on this Wonderful World
 * Legend of the Galactic Heroes
 * Mobile Suit Gundam
+* Perfect Blue
 * Sailor Moon
 * Space Battleship Yamato
 * Urusei Yatsura
+* Your Name
