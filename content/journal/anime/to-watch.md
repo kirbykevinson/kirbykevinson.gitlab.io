@@ -15,4 +15,3 @@ title: "To watch"
 * Sailor Moon
 * Space Battleship Yamato
 * Urusei Yatsura
-* Your Name
