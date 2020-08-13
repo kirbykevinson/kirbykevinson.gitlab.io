@@ -160,5 +160,7 @@ via the web client and [NewPipe]
 [Chris Titus Tech](https://www.youtube.com/user/homergfunk)
 [Luke Smith](https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA)
 [GradeAUnderA](https://www.youtube.com/user/GradeAUnderA)
+[Technology Connections](https://www.youtube.com/channel/UCy0tKL1T7wFoYcxCe0xjN6Q)
+[Retro Game Mechanics Explained](https://www.youtube.com/channel/UCwRqWnW5ZkVaP_lZF7caZ-g)
 
 {{% /links %}}
