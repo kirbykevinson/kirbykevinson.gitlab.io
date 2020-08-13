@@ -148,6 +148,12 @@ a:hover img {
 	filter: contrast(1000%);
 }
 
+li {
+	max-width: 24em;
+	margin: 0 auto;
+	text-align: left;
+}
+
 .buttons {
 	margin-top: 1em;
 }
