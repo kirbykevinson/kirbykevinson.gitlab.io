@@ -162,5 +162,11 @@ via the web client and [NewPipe]
 [GradeAUnderA](https://www.youtube.com/user/GradeAUnderA)
 [Technology Connections](https://www.youtube.com/channel/UCy0tKL1T7wFoYcxCe0xjN6Q)
 [Retro Game Mechanics Explained](https://www.youtube.com/channel/UCwRqWnW5ZkVaP_lZF7caZ-g)
+[kirbizia](https://www.youtube.com/channel/UCigODRnQYqXXFSW_4loTHVQ)
+[DesignCourse](https://www.youtube.com/user/DesignCourse)
+[YourMovieSucksDOTorg](https://www.youtube.com/user/YourMovieSucksDOTorg)
+[EmpLemon](https://www.youtube.com/user/EmperorLemon)
+[SomeOrdinaryGamers](https://www.youtube.com/user/SomeOrdinaryGamers)
+[cark](https://www.youtube.com/channel/UCqlYHUyC6DtxNc-NM9DJqjw)
 
 {{% /links %}}
