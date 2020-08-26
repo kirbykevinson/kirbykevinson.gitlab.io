@@ -20,7 +20,7 @@ title: "Unused"
 ## 2018?/..: Unbranded Chinese mini PC
 
 * Hostname: `machine-one`
-* OS: Windows 10 -> Void GNU/Linux -> Fedora
+* OS: Windows 10 -> Void Linux -> Fedora
 
 Specs:
 

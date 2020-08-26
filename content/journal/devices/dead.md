@@ -52,8 +52,8 @@ Specs:
 
 * Hostname: N/A
 * OS: Windows {2000,XP,Vista,7,8,8.1,10} -> Elementary OS -> Solus ->
-  Lubuntu -> Gentoo -> Arch GNU/Linux -> Parabola GNU/Linux-libre ->
-  OpenBSD -> Debian -> Void GNU/Linux
+  Lubuntu -> Gentoo -> Arch Linux -> Parabola GNU/Linux-libre ->
+  OpenBSD -> Debian -> Void Linux
 * Cause of death: sold to another person
 
 Specs:

@@ -10,7 +10,7 @@ title: "In use"
 ## 2020-07-08/..: Custom PC 3: Revenge of the Shit
 
 * Hostname: `machine-four`
-* OS: Fedora linux
+* OS: Fedora
 
 Specs:
 
