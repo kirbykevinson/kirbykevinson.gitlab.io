@@ -168,5 +168,7 @@ via the web client and [NewPipe]
 [EmpLemon](https://www.youtube.com/user/EmperorLemon)
 [SomeOrdinaryGamers](https://www.youtube.com/user/SomeOrdinaryGamers)
 [cark](https://www.youtube.com/channel/UCqlYHUyC6DtxNc-NM9DJqjw)
+[Modern Vintage Gamer](https://www.youtube.com/user/jimako123)
+[GameNight](https://www.youtube.com/channel/UCaQ0HWsaVx1Eg2okwSD1oFA)
 
 {{% /links %}}
