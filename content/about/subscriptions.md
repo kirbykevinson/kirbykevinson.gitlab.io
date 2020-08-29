@@ -170,5 +170,6 @@ via the web client and [NewPipe]
 [cark](https://www.youtube.com/channel/UCqlYHUyC6DtxNc-NM9DJqjw)
 [Modern Vintage Gamer](https://www.youtube.com/user/jimako123)
 [GameNight](https://www.youtube.com/channel/UCaQ0HWsaVx1Eg2okwSD1oFA)
+[Summoning Salt](https://www.youtube.com/channel/UCtUbO6rBht0daVIOGML3c8w)
 
 {{% /links %}}
