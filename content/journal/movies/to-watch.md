@@ -8,7 +8,6 @@ title: "To watch"
 * Die Hard
 * Garfield: The Movie
 * Ghostbusters
-* Inside Out
 * RoboCop
 * The Lord of the Rings: The Return of the King
 * The Lord of the Rings: The Two Towers
