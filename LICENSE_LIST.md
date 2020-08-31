@@ -46,6 +46,8 @@
   [source](https://publicdomainpictures.net/en/view-image.php?image=39502&picture=stones-background)
 * `static/images/backgrounds/treble.png` -
   [source](https://publicdomainpictures.net/en/view-image.php?image=328251&picture=treble-clef-wallpaper-pattern)
+* `static/images/backgrounds/tv.png` -
+  [source](https://publicdomainpictures.net/en/view-image.php?image=361699&picture=television)
 * `static/images/backgrounds/wood.png` -
   [source](https://publicdomainpictures.net/en/view-image.php?image=25761&picture=wood-texture)
 * `static/images/buttons/neocities.png` (the planet) -

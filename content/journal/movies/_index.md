@@ -7,6 +7,6 @@ background: "curtain"
 backgroundFallback: "#660000"
 ---
 
-The same as for [anime] but for live action movies.
+The same as for [anime] but for regular movies.
 
 [anime]: ../anime/
