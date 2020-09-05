@@ -171,5 +171,7 @@ via the web client and [NewPipe]
 [Modern Vintage Gamer](https://www.youtube.com/user/jimako123)
 [GameNight](https://www.youtube.com/channel/UCaQ0HWsaVx1Eg2okwSD1oFA)
 [Summoning Salt](https://www.youtube.com/channel/UCtUbO6rBht0daVIOGML3c8w)
+[PolyMars](https://www.youtube.com/channel/UCl7dSJloxuCa9IBFml7sakw)
+[Ben Eater](https://www.youtube.com/user/eaterbc)
 
 {{% /links %}}
