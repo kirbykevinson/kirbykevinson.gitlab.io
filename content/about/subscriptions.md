@@ -173,5 +173,8 @@ via the web client and [NewPipe]
 [Summoning Salt](https://www.youtube.com/channel/UCtUbO6rBht0daVIOGML3c8w)
 [PolyMars](https://www.youtube.com/channel/UCl7dSJloxuCa9IBFml7sakw)
 [Ben Eater](https://www.youtube.com/user/eaterbc)
+[MattKC](https://www.youtube.com/channel/UChrYe70o7NmDioL02PRVWVg)
+[FlyTech Videos](https://www.youtube.com/user/TheLD3H)
+[Channel Awesome](https://www.youtube.com/user/achannelthatsawesome)
 
 {{% /links %}}
