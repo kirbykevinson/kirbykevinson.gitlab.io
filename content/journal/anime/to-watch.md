@@ -10,6 +10,8 @@ title: "To watch"
 * KonoSuba: God's Blessing on this Wonderful World
 * Legend of the Galactic Heroes
 * Mobile Suit Gundam
+* Roujin Z
 * Sailor Moon
 * Space Battleship Yamato
+* The Girl Who Leapt Through Time
 * Urusei Yatsura
