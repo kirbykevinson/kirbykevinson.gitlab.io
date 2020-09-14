@@ -176,5 +176,7 @@ via the web client and [NewPipe]
 [MattKC](https://www.youtube.com/channel/UChrYe70o7NmDioL02PRVWVg)
 [FlyTech Videos](https://www.youtube.com/user/TheLD3H)
 [Channel Awesome](https://www.youtube.com/user/achannelthatsawesome)
+[my mechanics](https://www.youtube.com/channel/UCMrMVIBtqFW6O0-MWq26gqw)
+[rantasmo](https://www.youtube.com/user/rantasmo)
 
 {{% /links %}}
