@@ -23,9 +23,11 @@ backgroundFallback: "#990066"
 * Sexual orientation: ＳＬＩＧＨＴＬＹ ＨＯＭＯＳＥＸＵＡＬ？
 * Height: average
 * Weight: average, but I still look like shit
-* Oddities: [visual snow], which I discovered is not normal in 2019
+* Abnormalities: [visual snow], discovered in 2019, [STPD], discovered
+  in 2020
 
 [visual snow]: https://en.wikipedia.org/wiki/Visual_snow
+[STPD]: https://en.wikipedia.org/wiki/Schizotypal_personality_disorder
 
 ## Society
 
@@ -47,6 +49,10 @@ backgroundFallback: "#990066"
   64, 96...)
 * Letter: h
 * Emoji: 😳
+* Animal: capybara
+* Dish: shawarma
+* Drink: water
+* Season: summer
 * Song: [MFSB - Summertime]
 * Musical instrument: ＢＡＳＳ
 * National anthem: God Save the Queen
@@ -55,13 +61,9 @@ backgroundFallback: "#990066"
 * Anime: [Gunbuster]
 * Video game: Minecraft: Java Edition
 * Website: [Neocities]
-* Kernel space software: Linux
-* User space software: Flatpak
+* Software: Flatpak
 * Date format: ISO 8601
 * Character encoding: UTF-8
-* Animal: capybara
-* Dish: shawarma
-* Drink: water
 
 [Slapper Pink]: https://colornames.org/color/fbaac0
 [Hotel Albaida]: https://colornames.org/color/f0ede8
@@ -76,6 +78,10 @@ backgroundFallback: "#990066"
 * Number: N/A
 * Letter: N/A
 * Emoji: 😆
+* Animal: mosquito
+* Dish: most of them
+* Drink: soda
+* Season: fall
 * Music genre: [Russian chanson]
 * Musical instrument: vocals
 * National anthem: N/A
@@ -84,13 +90,9 @@ backgroundFallback: "#990066"
 * Anime: N/A
 * Video game: [ToberUberStobe]
 * Website: many of bank and government ones
-* Kernel space software: N/A
-* User space software: most of proprietary ones
+* Software: most of proprietary ones
 * Date format: each one except my favorite one
 * Character encoding: each one except my favorite one
-* Animal: mosquito
-* Dish: most of them
-* Drink: soda
 
 [Green Yellow]: https://colornames.org/color/adff2f
 [Dirty Blue]: https://colornames.org/color/055b81
