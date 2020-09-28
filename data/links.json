@@ -63,8 +63,16 @@
 			"link": "https://soundcloud.com/kirbykevinson"
 		},
 		{
+			"site": "spotify.com",
+			"link": "https://open.spotify.com/user/dknx537dcgz7m5rcdqd2s2et6"
+		},
+		{
 			"site": "vistaserv.net",
 			"link": "https://members.vistaserv.net/kirby"
+		},
+		{
+			"site": "wikipedia.org",
+			"link": "https://en.wikipedia.org/wiki/User:Kirbykevinson"
 		}
 	]
 }
