@@ -49,6 +49,7 @@ via the web client and [Slide]
 [r/Animemes](https://www.reddit.com/r/Animemes)
 [r/HydroHomies](https://www.reddit.com/r/HydroHomies)
 [r/kde](https://www.reddit.com/r/kde)
+[r/AskReddit](https://www.reddit.com/r/AskReddit/)
 
 {{% /links %}}
 
