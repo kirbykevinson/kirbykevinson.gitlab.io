@@ -18,3 +18,8 @@ Specs:
 * GPU: AMD RX 550 -> AMD RX 560
 * RAM: 8 GiB
 * Disk: WD Green 120 GB
+
+## 2020-10-07/..: Lenovo IdeaPad C340-14API
+
+* Hostname: `machine-five`
+* OS: Fedora
