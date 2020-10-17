@@ -59,7 +59,7 @@ backgroundFallback: "#990066"
 * Flag: Tokyo Metropolis
 * Movie: Interstellar
 * Anime: [Gunbuster]
-* Video game: Minecraft: Java Edition
+* Video game: Undertale
 * Website: [Neocities]
 * Software: Flatpak
 * Date format: ISO 8601
