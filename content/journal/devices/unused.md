@@ -2,6 +2,16 @@
 title: "Unused"
 ---
 
+## 2003/..: MaxSelect TravelBook X5
+
+* Hostname: N/A
+* OS: Windows XP -> Gentoo Linux
+
+## 2014?/..: Prestigio MultiPad Visconte Quad
+
+* Hostname: N/A
+* OS: Windows 8(.1) -> Windows 10
+
 ## 2014?/..: Prestigio GeoVision 5250BT
 
 * Hostname: `machine-negative-infinity`

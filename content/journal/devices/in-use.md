@@ -22,4 +22,4 @@ Specs:
 ## 2020-10-07/..: Lenovo IdeaPad C340-14API
 
 * Hostname: `machine-five`
-* OS: Fedora
+* OS: Windows 10 -> Fedora

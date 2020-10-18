@@ -87,12 +87,6 @@ Specs:
 * OS: some proprietary garbage
 * Cause of death: destroyed by me
 
-## 2014?/2015?: Prestigio MultiPad Visconte Quad
-
-* Hostname: N/A
-* OS: Windows 8(.1) -> Windows 10
-* Cause of death: destroyed by my sister
-
 ## 2016?: MTS phone
 
 * Hostname: N/A
