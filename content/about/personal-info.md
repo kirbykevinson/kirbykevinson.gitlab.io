@@ -19,8 +19,8 @@ backgroundFallback: "#990066"
 * Birthdate: sometime at the turn of the 21st century
 * Is still alive: probably yes
 * Temperament: melancholic
-* Gender: male?
-* Sexual orientation: ＳＬＩＧＨＴＬＹ ＨＯＭＯＳＥＸＵＡＬ？
+* Gender: my passport says male
+* Sexual orientation: I like girls more than guys
 * Height: average
 * Weight: average, but I still look like shit
 * Abnormalities: [visual snow], discovered in 2019, [STPD], discovered
