@@ -39,6 +39,7 @@ via the web client and [Slide]
 [r/unixporn](https://www.reddit.com/r/unixporn)
 [r/starterpacks](https://www.reddit.com/r/starterpacks)
 [r/egg\_irl](https://www.reddit.com/r/egg_irl)
+[r/traaaaaaannnnnnnnnns](https://www.reddit.com/r/traaaaaaannnnnnnnnns/)
 [r/195](https://www.reddit.com/r/195)
 [r/ComedyNecrophilia](https://www.reddit.com/r/ComedyNecrophilia)
 [r/okbuddyretard](https://www.reddit.com/r/okbuddyretard)
@@ -50,6 +51,8 @@ via the web client and [Slide]
 [r/HydroHomies](https://www.reddit.com/r/HydroHomies)
 [r/kde](https://www.reddit.com/r/kde)
 [r/AskReddit](https://www.reddit.com/r/AskReddit/)
+[r/me\_irlgbt](https://www.reddit.com/r/me_irlgbt/)
+[r/okbuddyhetero](https://www.reddit.com/r/okbuddyhetero/)
 
 {{% /links %}}
 
@@ -179,5 +182,7 @@ via the web client and [NewPipe]
 [Channel Awesome](https://www.youtube.com/user/achannelthatsawesome)
 [my mechanics](https://www.youtube.com/channel/UCMrMVIBtqFW6O0-MWq26gqw)
 [rantasmo](https://www.youtube.com/user/rantasmo)
+[BenEleven](https://www.youtube.com/channel/UC-wAdLKRS_mt5S3HfvaRpAQ)
+[mia cole](https://www.youtube.com/channel/UCJevtlUb_IRKmoZmW3ZHUPA)
 
 {{% /links %}}
