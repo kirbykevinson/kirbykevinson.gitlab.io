@@ -37,8 +37,9 @@ backgroundFallback: "#990066"
 * Talents: N/A
 * Skills: N/A
 * Achievements: N/A
-* Civil status: N/A
-* Economy: very bad
+* Relationship status: I won't allow myself to another human being
+  until I solve my issues
+* Economy: better than I deserve
 
 ## Favorite things
 
