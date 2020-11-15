@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+
+<html lang="en-ca">
+	<head>
+		<title>Pedometer</title>
+		
+		<meta charset="utf-8">
+		
+		<link href="/images/icon.png" rel="icon">
+		
+		<script src="https://www.gstatic.com/charts/loader.js"></script>
+		
+		<script>
+			fetch("Pedometer.csv")
+				.then(response => response.text())
+				.then((csv) => {
+					google.charts.load("current", {"packages": ["corechart"]});
+					
+					google.charts.setOnLoadCallback(() => {
+						const data = new google.visualization.DataTable();
+						
+						data.addColumn("date", "Date");
+						data.addColumn("number", "Steps");
+						
+						data.addRows(csv.split("\n").map((line) => {
+							const pair = line.split(";");
+							
+							return [new Date(parseInt(pair[0])), parseInt(pair[1])];
+						}).slice(0, -1));
+						
+						const chart = new google.visualization.LineChart(
+							document.querySelector('#chart')
+						);
+						
+						chart.draw(data, {
+							title: "How many steps I walked",
+							
+							explorer: {
+								axis: "horizontal",
+								maxZoomIn: 0.1
+							},
+							curveType: "function",
+							focusTarget: "category",
+							
+							width: innerWidth * 0.95,
+							height: innerHeight * 0.95
+						});
+					});
+				});
+		</script>
+	</head>
+	
+	<body>
+		<div id="chart"></div>
+	</body>
+</html>
