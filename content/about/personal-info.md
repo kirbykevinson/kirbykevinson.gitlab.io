@@ -52,7 +52,7 @@ backgroundFallback: "#990066"
 * Emoji: 😳
 * Animal: capybara
 * Dish: shawarma
-* Drink: water
+* Drink: tap water
 * Season: summer
 * Song: [MFSB - Summertime]
 * Musical instrument: ＢＡＳＳ

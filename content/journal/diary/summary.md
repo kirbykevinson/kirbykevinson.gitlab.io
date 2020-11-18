@@ -63,17 +63,8 @@ into. The whole year passed very quickly.
 
 ## 2020 (in progress)
 
-The year isn't over yet, but it's already quite fucked up. Here's what
-already happened:
-
-* I started paying more attention to (but not yet figuring out how to
-  fix) my mental health and fixing some personal issues I've had for a
-  long time.
+* I started fixing my personal issues, including ones with mental
+  health.
+* I finally figured out my sexuality and gender identity.
 * This website became finally useful, and I started documenting every
-  day of my life in [this journal].
-* I actually started questioning my sexuality and gender.
-* I got very close to hitting the rock bottom once again, but now
-  [it's all documented].
-
-[this journal]: /journal/
-[it's all documented]: /blog/the-list/
+  day of my life in this journal.
