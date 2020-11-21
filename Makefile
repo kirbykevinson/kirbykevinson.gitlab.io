@@ -18,6 +18,7 @@ neocities: build
 		-e extra/credits\
 		-e extra/discord\
 		-e extra/email\
+		-e extra/gateway\
 		-e extra/gunbuster-clock\
 		-e extra/mfsb\
 		-e extra/old-designs\
@@ -43,4 +44,4 @@ neocities-supporter: build
 	rclone sync public neocities: -P
 
 archive: build
-	zip -r $$(date +"%F")-curbie.kevinson.org.zip *
+	zip -r $$(date +"%F")-kirby.kevinson.org.zip *

@@ -1,9 +1,4 @@
 This is the new statically generated version of my personal website.
-The contents of this repo are responsible for generating both the
-[GitLab Pages] and the [Neocities] versions of it.
-
-[GitLab Pages]: https://kirby.kevinson.org/
-[Neocities]: https://curbie.kevinson.org/
 
 ## Dependencies
 
