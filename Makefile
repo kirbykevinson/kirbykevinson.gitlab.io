@@ -9,7 +9,7 @@ gitlab:
 	git push
 
 build:
-	hugo --config neocities-config.toml
+	hugo
 
 neocities: build
 	neocities push $(NEOCITIES_FLAGS)\

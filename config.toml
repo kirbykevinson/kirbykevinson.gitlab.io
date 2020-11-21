@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "en-ca"
 title = "Kirby Kevinson"
-theme = "14292"
+theme = "ad1997"
 
 [markup.goldmark.renderer]
 unsafe = true

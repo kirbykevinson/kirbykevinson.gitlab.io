@@ -11,16 +11,13 @@
 		
 		<link href="/images/icon.png" rel="icon">
 		
-		<link href="/styles/14292.css" rel="stylesheet">
-		{{ if .Site.Params.timeDilation }}
-			<link href="/styles/1997.css" rel="stylesheet">
+		<link href="/styles/1997.css" rel="stylesheet">
 			
-			<style>
-				body {
-					{{ partial "background.css" . | safeCSS }}
-				}
-			</style>
-		{{ end }}
+		<style>
+			body {
+				{{ partial "background.css" . | safeCSS }}
+			}
+		</style>
 	</head>
 	
 	<body {{ if .IsHome }} class="home" {{ end }}>
@@ -40,11 +37,7 @@
 			</header>
 			
 			<main>
-				{{ if .Site.Params.timeDilation }}
-					<div class="only-in-1997">
-						{{ partial "music.html" . }}
-					</div>
-				{{ end }}
+				{{ partial "music.html" . }}
 				
 				{{ block "main" . }}{{ end }}
 			</main>
