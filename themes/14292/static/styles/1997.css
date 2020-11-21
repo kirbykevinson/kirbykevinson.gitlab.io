@@ -103,7 +103,7 @@ body {
 }
 @media (max-width: 750px) {
 	body:not(.home) .page-wrapper {
-		min-height: 100vh;
+		min-height: calc(100vh - 32px);
 		margin: 0;
 		border: none;
 	}
