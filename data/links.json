@@ -1,81 +1,81 @@
 {
 	"primary": [
 		{
-			"site": "protonmail.com",
+			"site": "Email",
 			"link": "/extra/email/"
 		},
 		{
-			"site": "gitlab.com",
+			"site": "GitLab",
 			"link": "https://gitlab.com/kirbykevinson"
 		}
 	],
 	
 	"secondary": [
 		{
-			"site": "discord.com",
+			"site": "Discord",
 			"link": "/extra/discord/"
 		},
 		{
-			"site": "github.com",
+			"site": "GitHub",
 			"link": "https://github.com/kirbykevinson"
 		},
 		{
-			"site": "neocities.org",
+			"site": "Neocities",
 			"link": "https://neocities.org/site/kirbykevinson"
 		},
 		{
-			"site": "reddit.com",
+			"site": "Reddit",
 			"link": "https://www.reddit.com/user/kirbykevinson"
 		},
 		{
-			"site": "twitter.com",
+			"site": "Twitter",
 			"link": "https://twitter.com/kirbykevinson"
 		}
 	],
 	
 	"tertiary": [
 		{
-			"site": "archive.org",
-			"link": "https://archive.org/details/@kirbykevinson"
-		},
-		{
-			"site": "freesound.org",
+			"site": "Freesound",
 			"link": "https://freesound.org/people/kirbykevinson/"
 		},
 		{
-			"site": "gitlab.freedesktop.org",
+			"site": "Freedesktop Gitlab",
 			"link": "https://gitlab.freedesktop.org/kirbykevinson"
 		},
 		{
-			"site": "gog.com",
+			"site": "GOG.com",
 			"link": "https://www.gog.com/u/kirbykevinson"
 		},
 		{
-			"site": "itch.io",
-			"link": "https://kirbykevinson.itch.io/"
-		},
-		{
-			"site": "news.ycombinator.com",
+			"site": "Hacker News",
 			"link": "https://news.ycombinator.com/user?id=kirbykevinson"
 		},
 		{
-			"site": "pypi.org",
+			"site": "Internet Archive",
+			"link": "https://archive.org/details/@kirbykevinson"
+		},
+		{
+			"site": "Itch.io",
+			"link": "https://kirbykevinson.itch.io/"
+		},
+		{
+			"site": "PyPI",
 			"link": "https://pypi.org/user/kirbykevinson/"
 		},
 		{
-			"site": "soundcloud.com",
+			"site": "SoundCloud",
 			"link": "https://soundcloud.com/kirbykevinson"
 		},
 		{
-			"site": "spotify.com",
+			"site": "Spotify",
 			"link": "https://open.spotify.com/user/dknx537dcgz7m5rcdqd2s2et6"
 		},
 		{
-			"site": "vistaserv.net",
+			"site": "Vistaserv.net",
 			"link": "https://members.vistaserv.net/kirby"
 		},
 		{
-			"site": "wikipedia.org",
+			"site": "Wikipedia",
 			"link": "https://en.wikipedia.org/wiki/User:Kirbykevinson"
 		}
 	]
