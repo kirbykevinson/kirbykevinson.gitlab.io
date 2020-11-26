@@ -5,7 +5,6 @@ title: "In progress"
 * Another World
 * Doom
 * Earthbound
-* Kirby's Adventure
 * Mega Man
 * Portal 2
 * Sonic the Hedgehog
