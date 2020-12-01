@@ -281,8 +281,8 @@ details[open] > summary::before {
 	content: url("/images/icons/web-page.png");
 }
 
-.buttons {
-	margin-top: 1em;
+.buttons > hr {
+	margin-bottom: 1em;
 }
 
 .album {
@@ -335,4 +335,14 @@ details[open] > summary::before {
 	height: 1.5em;
 	text-align: center;
 	border-radius: 50%;
+}
+
+.theme-switcher {
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	width: 16px;
+	height: 16px;
+	appearance: none;
+	opacity: 0;
 }
