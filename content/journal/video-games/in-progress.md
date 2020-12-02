@@ -10,7 +10,6 @@ title: "In progress"
 * Sonic the Hedgehog
 * Stranded II
 * Super Mario Bros. 2
-* Super Mario World
 
 ## Minecraft
 
