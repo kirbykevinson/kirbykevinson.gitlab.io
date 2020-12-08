@@ -33,3 +33,8 @@ Put simply, this is my effort to document as much of my life as
 possible (without revealing too much, of course) until it's too late
 because I forgot everything. This page was made as a part of this
 project.
+
+## 2020-12-04/..: [jamtext](https://gitlab.com/kirbykevinson/jamtext/)
+
+A JSON-based markup language that promises to fill the gap between
+JSON and XML.
