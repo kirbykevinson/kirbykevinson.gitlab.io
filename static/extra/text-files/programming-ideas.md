@@ -1,0 +1,31 @@
+* `oldhub` old software Flatpak repo
+* `portal` xdg-desktop-portal swiss army knife utility
+* `surrface` wayland compositor
+	* Only 1 window is displayed at a time per output
+* `tscr` xdg-desktop-portal screenshot utility
+* `waykeeper` Wayland screen locker
+* `wlrr` Wayland swiss army knife utility
+	* `idle`
+	* `display`
+	* `clipboard`
+	* `keyboard`
+	* `mouse`
+	* `window`
+
+* Discussion platform
+	* Every post has a colontag like
+	  > idea: buy a capybara for no reason.
+	* Comments that are exactly the same fold (the profile picture of the
+	  reposter adds to the list of all posters including the OP in the
+	  beginning)
+	* No likes/favorites/etc - just custom comment presets
+* ID card
+	* As an Android app
+	* The ID data is transfered via NFC
+	* Everything is encoded in JSON and can't be modified
+	* The data is singed by a key from a trusted authority (like in
+	  HTTPS); the list of their public keys is bundled and updated
+	  with the app
+* Operating system
+	* Don't even try to implement because it's too hard
+	* https://kirby.kevinson.org/blog/hypothetical-perfect-operating-system/
