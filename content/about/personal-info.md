@@ -11,6 +11,7 @@ backgroundFallback: "#990066"
 * Legal name: I fucking hate it and prefer to never use
 * Occupation: (shitty) student
 * Interests: retro and/or obscure things, [free software]
+* Country of residence: Russia
 
 [free software]: https://www.gnu.org/philosophy/free-sw.html
 
