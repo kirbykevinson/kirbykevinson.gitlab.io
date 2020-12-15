@@ -17,7 +17,7 @@ backgroundFallback: "#990066"
 
 ## Biology
 
-* Birthdate: sometime at the turn of the 21st century
+* Birthdate: 2002-03-06
 * Is still alive: probably yes
 * Temperament: melancholic
 * Gender: my passport says male

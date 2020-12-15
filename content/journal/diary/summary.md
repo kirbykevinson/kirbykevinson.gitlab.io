@@ -7,7 +7,7 @@ aliases: ["/journal/yearbook/"]
 I might be wrong with some dates because I'm not very good at
 correctly remembering things.
 
-## XXXX/2005
+## 2002/2005
 
 I don't remember anything.
 
