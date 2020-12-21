@@ -8,6 +8,7 @@ backgroundFallback: "#666633"
 ## Overall
 
 * Don't be evil.
+* Be honest and transparent.
 * Try to see things in a positive way.
 * Stay on the cutting edge of progress.
 
