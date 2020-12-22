@@ -1,13 +1,15 @@
 {{ define "footer" }}
 	<nav class="links">
 		{{ range .Pages }}
-			<article>
-				<a href="{{ .Permalink }}" class="page">{{ .Title }}</a>
-				
-				<div class="metadata">
-					{{ partial "date" . }}
-				</div>
-			</article>
+			{{ if not .Params.hidden }}
+				<article>
+					<a href="{{ .Permalink }}" class="page">{{ .Title }}</a>
+					
+					<div class="metadata">
+						{{ partial "date" . }}
+					</div>
+				</article>
+			{{ end }}
 		{{ end }}
 	</nav>
 {{ end }}
