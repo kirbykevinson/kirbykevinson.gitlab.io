@@ -6,11 +6,9 @@ backgroundFallback: "#006666"
 ---
 
 * Death
-* General quality of life improvements
-	* ~~Therapist~~
-	* Some kind of job
-	* Russian citizenship revocation
 * Pet capybara
+* Places to visit
+	* London, UK
 * Regular donations
 	* Wikimedia
 	* Electronic Frontier Foundation
@@ -21,6 +19,7 @@ backgroundFallback: "#006666"
 	* GitLab Bronze
 * Hardware
 	* ~~Non-shitty PC~~
+	* ~~Non-shitty laptop~~
 	* Non-shitty 4k monitor
 	* 16 mm film camera
 	* Blu-ray drive
