@@ -53,6 +53,7 @@ via the web client and [Slide]
 [r/AskReddit](https://www.reddit.com/r/AskReddit/)
 [r/me\_irlgbt](https://www.reddit.com/r/me_irlgbt/)
 [r/okbuddyhetero](https://www.reddit.com/r/okbuddyhetero/)
+[r/196](https://www.reddit.com/r/196/)
 
 {{% /links %}}
 
@@ -184,5 +185,7 @@ via the web client and [NewPipe]
 [rantasmo](https://www.youtube.com/user/rantasmo)
 [BenEleven](https://www.youtube.com/channel/UC-wAdLKRS_mt5S3HfvaRpAQ)
 [mia cole](https://www.youtube.com/channel/UCJevtlUb_IRKmoZmW3ZHUPA)
+[ManyKudos](https://www.youtube.com/channel/UC2Egt30phfTNZO5Yxb-sbyw)
+[Timeworks](https://www.youtube.com/channel/UCv5mo0iXze8aKFjvdp51Fjg)
 
 {{% /links %}}
