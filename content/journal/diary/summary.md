@@ -61,10 +61,14 @@ created for myself in 2018. At the same time, for little reason, I
 started recording my dreams and watched anime, which I suddenly got
 into. The whole year passed very quickly.
 
-## 2020 (in progress)
+## 2020
 
 * I started fixing my personal issues, including ones with mental
   health.
 * I finally figured out my sexuality and gender identity.
 * This website became finally useful, and I started documenting every
   day of my life in this journal.
+
+## 2021 (in progress)
+
+
