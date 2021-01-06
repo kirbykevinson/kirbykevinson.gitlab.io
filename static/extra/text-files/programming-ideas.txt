@@ -9,6 +9,11 @@
 * `xdj` xdg-desktop-portal swiss army knife utility
 * `tscr` xdg-desktop-portal screenshot utility
 * `waykeeper` Wayland screen locker
+* `czechlist` Android checklist app
+* `B--` programming language
+	* Basic C features
+	* No typing
+	* No error checking
 * `wldj` Wayland swiss army knife utility
 	* `input`
 	* `idle`
