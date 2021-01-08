@@ -39,8 +39,12 @@
 			"link": "https://freesound.org/people/kirbykevinson/"
 		},
 		{
-			"site": "Freedesktop Gitlab",
+			"site": "Freedesktop GitLab",
 			"link": "https://gitlab.freedesktop.org/kirbykevinson"
+		},
+		{
+			"site": "GNOME GitLab",
+			"link": "https://gitlab.gnome.org/kirbykevinson"
 		},
 		{
 			"site": "GOG.com",
