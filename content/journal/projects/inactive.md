@@ -16,3 +16,7 @@ Funny script to mess up with your web page and fry your CPU.
 ## 2019-11-09/..: [sway-autologin](https://gitlab.com/kirbykevinson/sway-autologin)
 
 Hack to allow starting sway with a DM without using X11.
+
+## 2021-01-08/..: [libinput-touchpad-scroll-fix](https://gitlab.com/kirbykevinson/libinput-touchpad-scroll-fix)
+
+Workaround for the touchpads with broken scrolling on Linux.
