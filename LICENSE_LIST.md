@@ -79,7 +79,7 @@
   > Copyright (c) 2014 Cameron Eagans and Josh Branchaud
 * Everything in `themes/` except the files under other licenses
   mentioned in this document
-  > Copyright 2018, 2019, 2020 Kirby Kevinson
+  > Copyright 2018, 2019, 2020, 2021 Kirby Kevinson
 
 ## SIL Open Font License (`LICENSE_OFL`)
 
@@ -159,4 +159,4 @@
 	* `static/images/cover-art/yung-bae-bae-5.jpg`
   > Copyright 2020 Kirby Kevinson
 * All other files
-  > Copyright 2018, 2019, 2020 Kirby Kevinson
+  > Copyright 2018, 2019, 2020, 2021 Kirby Kevinson
