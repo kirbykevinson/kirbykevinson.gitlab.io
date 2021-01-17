@@ -36,5 +36,10 @@ project.
 
 ## 2020-12-04/..: [jamtext](https://gitlab.com/kirbykevinson/jamtext/)
 
-A JSON-based markup language that promises to fill the gap between
-JSON and XML.
+JSON-based markup language that promises to fill the gap between JSON
+and XML.
+
+## 2021-01-16/..: [libinput-config](https://gitlab.com/kirbykevinson/libinput-config)
+
+Hack allowing you to configure your inputs if your Wayland compositor
+can't.
