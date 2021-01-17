@@ -117,8 +117,6 @@ body.home .page-wrapper {
 	max-width: 13em;
 }
 
-.page-wrapper {
-}
 @media (max-width: 745px) {
 	body:not(.home) .page-wrapper {
 		min-height: calc(100vh - 32px);
