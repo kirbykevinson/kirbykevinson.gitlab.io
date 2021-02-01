@@ -1,3 +1,10 @@
+---
+title: "Coming out"
+date: 2021-02-01
+
+slug: "coming-out"
+---
+
 I'm transgender.
 
 ## Frequently asked questions
@@ -5,6 +12,10 @@ I'm transgender.
 ### Are you kidding?
 
 No.
+
+### I'm not happy about it
+
+Well, there's not much I can do about it. Deal with it.
 
 ### Who are you sexually attracted to?
 
@@ -23,7 +34,7 @@ you questioning your gender identity", and it finally cracked me.
 
 I'm gonna do what I've gotta do, and no one can stop me.
 
-## List of people I already came out to
+## People I already came out to
 
 * 2020-10-27 - dubstep dude - chill
 * 2020-10-28 - blue haired girl - chill, but it took him some time
@@ -33,6 +44,10 @@ I'm gonna do what I've gotta do, and no one can stop me.
 * 2020-11-20 - slim dude - doesn't give a shit
 * 2020-12-31 - my dad - refuses to understand me
 
-## Additional warnings
+## Additional ~~warnings~~ remarks
 
-If you tell anyone, I'll murder you.
+~~If you tell anyone, I'll murder you.~~ Who gives a shit.
+
+You can track my transition progress [here].
+
+[here]: https://gitlab.com/kirbykevinson/life/-/issues/3

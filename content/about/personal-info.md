@@ -9,6 +9,7 @@ backgroundFallback: "#990066"
 
 * Full name: Kirby Kevinson
 * Legal name: I fucking hate it and prefer to never use
+* Pronouns: she/her
 * Occupation: (shitty) student
 * Interests: retro and/or obscure things, [free software]
 * Country of residence: Russia
@@ -20,7 +21,8 @@ backgroundFallback: "#990066"
 * Birthdate: 2002-03-06
 * Is still alive: probably yes
 * Temperament: melancholic
-* Gender: my passport says male
+* Sex: male
+* Gender: female
 * Sexual orientation: I like girls more than guys
 * Height: average
 * Weight: average, but I still look like shit
