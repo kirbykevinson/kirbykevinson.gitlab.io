@@ -43,6 +43,7 @@ I'm gonna do what I've gotta do, and no one can stop me.
 * 2020-11-16 - game dev dude - told me write him down as chill too
 * 2020-11-20 - slim dude - doesn't give a shit
 * 2020-12-31 - my dad - refuses to understand me
+* 2021-02-02 - linguist dude - doesn't like LGBT but is chill with me
 
 ## Additional ~~warnings~~ remarks
 
