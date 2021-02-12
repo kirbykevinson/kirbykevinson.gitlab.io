@@ -9,7 +9,6 @@ title: "In progress"
 * Portal 2
 * Sonic the Hedgehog
 * Stranded II
-* Super Mario Bros. 2
 
 ## Minecraft
 
