@@ -21,10 +21,6 @@ the end.
 
 ## Reddit
 
-via the web client and [Slide]
-
-[Slide]: https://github.com/ccrama/Slide
-
 {{% links %}}
 
 [r/all](https://www.reddit.com/r/all)
@@ -54,14 +50,11 @@ via the web client and [Slide]
 [r/me\_irlgbt](https://www.reddit.com/r/me_irlgbt/)
 [r/okbuddyhetero](https://www.reddit.com/r/okbuddyhetero/)
 [r/196](https://www.reddit.com/r/196/)
+[r/desksurfaces](https://www.reddit.com/r/desksurfaces)
 
 {{% /links %}}
 
 ## YouTube
-
-via the web client and [NewPipe]
-
-[NewPipe]: https://newpipe.schabi.org/
 
 {{% links %}}
 
@@ -156,7 +149,6 @@ via the web client and [NewPipe]
 [Michael MJD](https://www.youtube.com/user/mjd7999)
 [Chris Were Digital](https://www.youtube.com/user/ChrisWereDigital)
 [baby WOGUE](https://www.youtube.com/channel/UCZWadyLVO4ZnMgLrRVtS6VA)
-[DistroTube](https://www.youtube.com/channel/UCVls1GmFKf6WlTraIb_IaJg)
 [Bryan Lunduke](https://www.youtube.com/user/BryanLunduke)
 [Company Man](https://www.youtube.com/channel/UCQMyhrt92_8XM0KgZH6VnRg)
 [Captain Disillusion](https://www.youtube.com/user/CaptainDisillusion)
@@ -187,5 +179,6 @@ via the web client and [NewPipe]
 [mia cole](https://www.youtube.com/channel/UCJevtlUb_IRKmoZmW3ZHUPA)
 [ManyKudos](https://www.youtube.com/channel/UC2Egt30phfTNZO5Yxb-sbyw)
 [Timeworks](https://www.youtube.com/channel/UCv5mo0iXze8aKFjvdp51Fjg)
+[Karl Jobst](https://www.youtube.com/user/karljobst)
 
 {{% /links %}}
