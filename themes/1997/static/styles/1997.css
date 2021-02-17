@@ -44,17 +44,17 @@
 	--fonts:
 		"Source Serif Pro",
 		"Times New Roman",
-		"sans-serif",
+		serif,
 		var(--emoji-fonts);
 	--monospace-fonts:
 		"Courier Prime",
 		"Courier New",
-		"monospace",
+		monospace,
 		var(--emoji-fonts);
 	--heading-fonts:
 		"Comic Neue",
 		"Comic Sans MS",
-		"sans-serif",
+		sans-serif,
 		var(--emoji-fonts);
 	--border-style: outset;
 	--border-width: 2px;

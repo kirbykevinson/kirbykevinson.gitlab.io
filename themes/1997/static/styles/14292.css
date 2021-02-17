@@ -25,15 +25,15 @@
 		"Twemoji";
 	--fonts:
 		"Source Sans Pro",
-		"sans-serif",
+		sans-serif,
 		var(--emoji-fonts);
 	--monospace-fonts:
 		"Source Code Pro",
-		"monospace",
+		monospace,
 		var(--emoji-fonts);
 	--heading-fonts:
 		"Source Sans Pro",
-		"sans-serif",
+		sans-serif,
 		var(--emoji-fonts);
 	--border-style: solid;
 	--border-width: 2px;
