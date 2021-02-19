@@ -110,3 +110,9 @@ Specs:
 * Hostname: `machine-two`
 * OS: (Android 8 ->) Lineage OS
 * Cause of death: battery explosion
+
+## 2020-06-02/..: Moto Z2 Play
+
+* Hostname: `machine-three`
+* OS: Android 8 -> Lineage OS
+* Cause of death: sold shortly before a battery explosion

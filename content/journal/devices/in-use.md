@@ -2,11 +2,6 @@
 title: "In use"
 ---
 
-## 2020-06-02/..: Moto Z2 Play
-
-* Hostname: `machine-three`
-* OS: Android 8 -> Lineage OS
-
 ## 2020-07-08/..: Custom PC 3: Revenge of the Shit
 
 * Hostname: `machine-four`
@@ -23,3 +18,8 @@ Specs:
 
 * Hostname: `machine-five`
 * OS: Windows 10 -> Fedora
+
+## 2021-02-11/..: Xiaomi Redmi Note 8
+
+* Hostname: `machine-six`
+* OS: MiUI -> LineageOS
