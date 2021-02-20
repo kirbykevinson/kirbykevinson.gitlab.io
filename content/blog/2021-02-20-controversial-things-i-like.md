@@ -78,7 +78,7 @@ bullshit arguments that are used against it and why they're wrong:
   services like localed or hostnamed that barely even count as
   services because they're like 3 lines of code that don't even sit in
   the background.
-* It's complex? Yes, it is technically more complex that previous
+* It's complex? Yes, it is technically more complex than previous
   projects, but its complexity is justified by its helpful features,
   just like for many other software. Welcome to the modern world.
 * It doesn't follow the Unix way? It uses plain text for
@@ -144,7 +144,7 @@ idea about the situation in the rest of the world, but it's probably
 even better.
 
 This one is kind of hard to explain because tastes are personal, but
-basically I think airplane good is not only good but also superior to
+basically I think airplane food is not only good but also superior to
 regular food you can get in a restaurant or cook at home. Here are my
 extremely subjective reasons:
 
