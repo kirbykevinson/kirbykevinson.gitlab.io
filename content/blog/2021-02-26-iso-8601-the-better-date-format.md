@@ -105,7 +105,7 @@ logical as it can get - days go into months and months go into years:
 ```
 
 However, this ignores a very important characteristic of numbers -
-endianess. Consider a regular number, for example:
+endianness. Consider a regular number, for example:
 
 ```
 69420
