@@ -3,6 +3,12 @@ title: "ISO 8601: the better date format"
 date: 2021-02-26
 
 slug: "iso-8601-the-better-date-format"
+
+comments:
+    - site: "Hacker News"
+      link: "https://news.ycombinator.com/item?id=26272084"
+    - site: "Reddit"
+      link: "https://www.reddit.com/r/ISO8601/comments/lss9dm/iso_8601_the_better_date_format/"
 ---
 
 If you haven't been living under a rock, you've probably heard that

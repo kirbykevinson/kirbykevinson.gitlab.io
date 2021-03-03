@@ -3,6 +3,12 @@ title: "Things wrong with Wayland"
 date: 2020-12-23
 
 slug: "things-wrong-with-wayland"
+
+comments:
+    - site: "Hacker News"
+      link: "https://news.ycombinator.com/item?id=25525367"
+    - site: "Reddit"
+      link: "https://www.reddit.com/r/swaywm/comments/kjb3ju/things_wrong_with_wayland/"
 ---
 
 I, as a person who tries to use cutting edge technology, am a Wayland

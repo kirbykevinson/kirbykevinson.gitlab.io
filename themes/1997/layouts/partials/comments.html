@@ -1,0 +1,9 @@
+{{ if .Params.comments }}
+	<h2 id="discuss-this-post">Discuss this post</h2>
+	
+	<nav class="links">
+		{{ range .Params.comments }}
+			<a href="{{ .link }}">{{ .site }}</a>
+		{{ end }}
+	</nav>
+{{ end }}
