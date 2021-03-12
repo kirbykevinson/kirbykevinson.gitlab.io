@@ -14,19 +14,14 @@ build:
 neocities: build
 	neocities push $(NEOCITIES_FLAGS)\
 		-e extra\
-		-e extra/baako\
 		-e extra/credits\
 		-e extra/discord\
 		-e extra/email\
 		-e extra/gateway\
-		-e extra/gunbuster-clock\
-		-e extra/mfsb\
 		-e extra/old-designs\
 		-e extra/pedometer\
 		-e extra/pre-website\
 		-e extra/text-files\
-		-e extra/user-agent-test\
-		-e extra/www\
 		-e fonts\
 		-e images\
 		-e images/backgrounds\

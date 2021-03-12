@@ -9,13 +9,6 @@
 
 ## CC0 1.0 Universal (`LICENSE_CC0`)
 
-* `static/extra/baako/candle.gif` -
-  [source](https://commons.wikimedia.org/wiki/File:Jeeny_candle.gif)
-* `static/extra/mfsb/wallpaper.jpg` -
-  [source](https://publicdomainpictures.net/en/view-image.php?image=45009&picture=damask-background-brown-orange)
-* `static/extra/mfsb/painting.jpg` -
-  [source](https://commons.wikimedia.org/wiki/File:Stranover,_Tobias_-_Still-Life_with_Flowers_-_Google_Art_Project.jpg)
-  [source](https://publicdomainpictures.net/en/view-image.php?image=270264&picture=framed-vintage-painting)
 * `static/images/backgrounds/book.png` -
   [source](https://commons.wikimedia.org/wiki/File:Ezra_Cornell's_first_book.jpg)
 * `static/images/backgrounds/bricks.png` -
@@ -61,10 +54,6 @@
 
 ## Creative Commons Attribution-ShareAlike 2.0 Generic Public License (`LICENSE_CC_BY_SA_2.html`)
 
-* `static/extra/baako/ian-mcdiarmid.jpg` -
-  [source](https://www.flickr.com/photos/miguel_discart/49680061466/)
-  > (2020-02-22\_12-02-35\_ILCE-6500\_DSC09086\_DxO)
-  > Copyright 2020 Miguel Discart
 * `static/images/cover-art/casiopea-mint-jams.jpg` -
   [source](https://commons.wikimedia.org/wiki/File:Redcurrant_jelly_%282699068744%29.jpg)
   > Original image (How To Make Red Currant Jelly 5): Copyright 2008
@@ -103,15 +92,6 @@
 
 * `static/audio/maximum-pain.opus`
   > Copyright 2019, 2020 Jerk Forward
-* `static/extra/baako/village.jpg` -
-  [source](https://commons.wikimedia.org/wiki/File:Village_of_Rhodes,_South_Africa.jpg),
-  [source](https://commons.wikimedia.org/wiki/File:American_pigs_in_blankets.jpg)
-  > Original images:
-  >
-  > * (Rhodes) Copyright 2011 SA-Venues.com
-  > * (Pigs in Blankets) Copyright 2005 stef yau
-  >
-  > This modified image: Copyright 2020 Kirby Kevinson
 * `static/images/backgrounds/stars.png` -
   [source](https://commons.wikimedia.org/wiki/File:Phoenix_dwarf_galaxy.jpg)
   > Copyright 2011 ESA/Hubble
