@@ -7,6 +7,8 @@ slug: "iso-8601-the-better-date-format"
 comments:
     - site: "Hacker News"
       link: "https://news.ycombinator.com/item?id=26272084"
+    - site: "Lobsters"
+      link: "https://lobste.rs/s/m1obj4/iso_8601_better_date_format"
     - site: "Reddit"
       link: "https://www.reddit.com/r/ISO8601/comments/lss9dm/iso_8601_the_better_date_format/"
 ---
