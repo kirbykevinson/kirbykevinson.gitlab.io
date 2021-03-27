@@ -9,8 +9,10 @@ comments:
       link: "https://news.ycombinator.com/item?id=26272084"
     - site: "Lobsters"
       link: "https://lobste.rs/s/m1obj4/iso_8601_better_date_format"
-    - site: "Reddit"
+    - site: "Reddit, r/ISO8601"
       link: "https://www.reddit.com/r/ISO8601/comments/lss9dm/iso_8601_the_better_date_format/"
+    - site: "Reddit, r/programming"
+      link: "https://www.reddit.com/r/programming/comments/ltwvd4/iso_8601_the_better_date_format/"
 ---
 
 If you haven't been living under a rock, you've probably heard that
@@ -199,7 +201,7 @@ can't be further from the truth:
 
 It doesn't have any of the nice features ISO 8601 has and doesn't work
 well internationally (i.e. assumes the person you're communicating
-with knows knows English). If you think the latter is not a problem,
+with knows English). If you think the latter is not a problem,
 imagine how you would feel feel if you had to read a date someone
 wrote in their native language that you don't understand:
 
