@@ -15,8 +15,8 @@ comments:
       link: "https://www.reddit.com/r/programming/comments/ltwvd4/iso_8601_the_better_date_format/"
 ---
 
-Note: this article is intended for non-technical audience and contains
-oversimplifications you may not be happy about.
+Note: this article is intended for a non-technical audience and
+contains oversimplifications you may not be happy about.
 
 If you haven't been living under a rock, you've probably heard that
 there are different date formats in the world such as the American one
