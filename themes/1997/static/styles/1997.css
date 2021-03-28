@@ -344,3 +344,49 @@ details[open] > summary::before {
 	appearance: none;
 	opacity: 0;
 }
+
+.music {
+	--progress: 0%;
+	--complete-color: #3A3A3ACC;
+	--left-color: #1A1A1ACC;
+	
+	display: flex;
+	align-items: center;
+	padding: 0 5px;
+	margin-bottom: 8px;
+	background: linear-gradient(to right,
+		var(--complete-color),
+		var(--complete-color) var(--progress),
+		var(--left-color) var(--progress),
+		var(--left-color)
+	);
+}
+
+.music > *:not(:last-child) {
+	margin-right: 5px;
+}
+
+.music audio {
+	display: none;
+}
+
+.music button {
+	padding: 13px;
+	line-height: 0;
+	border: none;
+	cursor: inherit;
+	background: none;
+}
+
+.music button:hover img {
+	opacity: 0.5;
+}
+
+.music .song-name {
+	margin: 0;
+	font-size: 0.75em;
+}
+
+.music .song-name::after {
+	content: ".mid";
+}

@@ -1,9 +1,12 @@
 {{ if .Params.music }}
-	<audio
-		src="/audio/{{ .Params.music }}.opus"
+	<div class="music">
+		<audio src="/audio/{{ .Params.music }}.opus" loop></audio>
 		
-		autoplay
-		controls
-		loop
-	></audio>
+		<button onclick="music.toggle()">
+			<img src="/images/icons/play.png" class="play">
+			<img src="/images/icons/pause.png" class="pause" hidden>
+		</button>
+		
+		<p class="song-name">{{ .Params.music }}</p>
+	</div>
 {{ end }}
