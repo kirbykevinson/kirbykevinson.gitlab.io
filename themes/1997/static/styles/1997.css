@@ -347,13 +347,18 @@ details[open] > summary::before {
 
 .music {
 	--progress: 0%;
-	--complete-color: #3A3A3ACC;
-	--left-color: #1A1A1ACC;
+	--complete-color: #303030D8;
+	--left-color: #101010D8;
 	
 	display: flex;
 	align-items: center;
 	padding: 0 5px;
 	margin-bottom: 8px;
+	border:
+		var(--border-style)
+		var(--border-width)
+		var(--subtle-color);
+	color: #00FF00;
 	background: linear-gradient(to right,
 		var(--complete-color),
 		var(--complete-color) var(--progress),
