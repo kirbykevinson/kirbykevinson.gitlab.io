@@ -1,52 +1,38 @@
 const
-	switcher = document.createElement("select"),
+	themes = [
+		"1991",
+		"1997",
+		"2019"
+	],
 	
-	stylesheets = document.querySelectorAll("link[rel=stylesheet]");
+	defaultTheme = "1997",
+	savedTheme = localStorage.getItem("theme"),
+	
+	stylesheet = document.querySelector(
+		`link[rel="stylesheet"][title="${defaultTheme}"]`
+	),
+	switcher = document.createElement("select");
 
 switcher.className = "theme-switcher";
 
-let
-	savedStyleExists = false,
-	
-	defaultStyle = null,
-	savedStyle = localStorage.getItem("theme");
-
-for (const stylesheet of stylesheets) {
+for (const theme of themes) {
 	const option = document.createElement("option");
 	
-	option.innerText = stylesheet.title;
+	option.innerText = theme;
 	
 	switcher.appendChild(option);
-	
-	if (!stylesheet.disabled) {
-		defaultStyle = stylesheet.title;
-	}
-	
-	if (stylesheet.title == savedStyle) {
-		savedStyleExists = true;
-	}
 }
 
-if (!savedStyleExists) {
-	savedStyle = null;
-}
-
-if (savedStyle) {
-	switcher.value = savedStyle;
+if (themes.includes(savedTheme)) {
+	switcher.value = savedTheme;
 } else {
-	switcher.value = defaultStyle;
+	switcher.value = defaultTheme;
 }
 
 switcher.addEventListener("change", () => {
-	for (const stylesheet of stylesheets) {
-		if (stylesheet.title == switcher.value) {
-			localStorage.setItem("theme", switcher.value);
-			
-			stylesheet.disabled = false;
-		} else {
-			stylesheet.disabled = true;
-		}
-	}
+	stylesheet.href = `/styles/${switcher.value}.css`;
+	
+	localStorage.setItem("theme", switcher.value);
 });
 
 switcher.dispatchEvent(new Event("change"));
