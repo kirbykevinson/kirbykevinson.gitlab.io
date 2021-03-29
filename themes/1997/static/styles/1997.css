@@ -107,12 +107,12 @@ a, summary {
 	color: #00FFFF;
 }
 
-.links a::before {
+.links a::before, summary::before {
 	display: inline-block;
 	width: 32px;
 	height: 32px;
 	margin-right: 8px;
-	vertical-align: middle;
+	vertical-align: -8px;
 	content: url("/images/icons/web-page.png");
 }
 
@@ -127,10 +127,6 @@ a, summary {
 }
 
 summary::before {
-	margin-right: 8px;
-	width: 16px;
-	height: 16px;
-	vertical-align: baseline;
 	content: url("/images/icons/more.png");
 }
 details[open] > summary::before {
