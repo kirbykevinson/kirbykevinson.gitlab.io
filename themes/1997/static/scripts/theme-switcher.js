@@ -6,6 +6,8 @@ const
 switcher.className = "theme-switcher";
 
 let
+	savedStyleExists = false,
+	
 	defaultStyle = null,
 	savedStyle = localStorage.getItem("theme");
 
@@ -19,6 +21,14 @@ for (const stylesheet of stylesheets) {
 	if (!stylesheet.disabled) {
 		defaultStyle = stylesheet.title;
 	}
+	
+	if (stylesheet.title == savedStyle) {
+		savedStyleExists = true;
+	}
+}
+
+if (!savedStyleExists) {
+	savedStyle = null;
 }
 
 if (savedStyle) {
