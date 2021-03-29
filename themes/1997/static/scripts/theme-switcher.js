@@ -5,16 +5,26 @@ const
 
 switcher.className = "theme-switcher";
 
+let
+	defaultStyle = null,
+	savedStyle = localStorage.getItem("theme");
+
 for (const stylesheet of stylesheets) {
 	const option = document.createElement("option");
 	
 	option.innerText = stylesheet.title;
 	
-	if (stylesheet.title == localStorage.getItem("theme")) {
-		option.selected = true;
-	}
-	
 	switcher.appendChild(option);
+	
+	if (!stylesheet.disabled) {
+		defaultStyle = stylesheet.title;
+	}
+}
+
+if (savedStyle) {
+	switcher.value = savedStyle;
+} else {
+	switcher.value = defaultStyle;
 }
 
 switcher.addEventListener("change", () => {
