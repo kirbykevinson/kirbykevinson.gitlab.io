@@ -73,7 +73,3 @@ summary::before {
 details[open] > summary::before {
 	content: "▲";
 }
-
-.buttons, .music {
-	display: none;
-}
