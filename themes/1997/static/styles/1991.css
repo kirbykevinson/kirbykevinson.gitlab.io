@@ -38,7 +38,7 @@
 }
 
 * {
-	scrollbar-color: var(--foreground-color) var(--background-color);
+	scrollbar-color: var(--foreground-color) transparent;
 	scrollbar-width: thin;
 }
 

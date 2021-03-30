@@ -55,8 +55,7 @@ a:hover, summary:hover {
 	opacity: 0.5;
 }
 
-.breadcrumbs a, .page-title a,
-h1, h2, h3, h4, h5, h6 {
+.breadcrumbs a, .page-title a {
 	color: var(--foreground-color);
 }
 
