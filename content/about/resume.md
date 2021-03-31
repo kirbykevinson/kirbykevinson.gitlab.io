@@ -12,9 +12,9 @@ To get a job that gives money required for me to survive.
 ## Highlights
 
 * Poor social skills
-* Works bad under pressure
-* Misses deadlines
+* Bad at planning and time management
 * Completely unmotivated
+* Works bad under pressure
 * Mentally unstable
 * Behaves inappropriately
 * Too honest
