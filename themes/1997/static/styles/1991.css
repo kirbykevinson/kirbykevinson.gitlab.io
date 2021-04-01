@@ -37,6 +37,10 @@
 		background-scroll-y 45.254833995939045s infinite linear;
 }
 
+*, *::before, *::after {
+	box-sizing: border-box;
+}
+
 * {
 	scrollbar-color: var(--foreground-color) transparent;
 	scrollbar-width: thin;
@@ -65,12 +69,12 @@ body {
 .page-wrapper {
 	flex-grow: 1;
 	min-width: 0;
-	max-width: 32em;
+	max-width: 35.25em;
 	padding: 16px 32px;
 }
 body.home .page-wrapper {
 	flex-grow: 0;
-	max-width: 13em;
+	max-width: 16.25em;
 }
 
 @media (max-width: 745px) {
@@ -119,7 +123,6 @@ pre, code, summary,
 }
 
 pre, code {
-	box-sizing: border-box;
 	padding: 2px 4px;
 	font-size: 0.875em;
 	border:
