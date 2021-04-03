@@ -180,5 +180,7 @@ the end.
 [ManyKudos](https://www.youtube.com/channel/UC2Egt30phfTNZO5Yxb-sbyw)
 [Timeworks](https://www.youtube.com/channel/UCv5mo0iXze8aKFjvdp51Fjg)
 [Karl Jobst](https://www.youtube.com/user/karljobst)
+[GeoWizard](https://www.youtube.com/channel/UCW5OrUZ4SeUYkUg1XqcjFYA)
+[Kid Leaves Stoop](https://www.youtube.com/channel/UCwbeWInXAoxHQZSRi6AE7Bw)
 
 {{% /links %}}
