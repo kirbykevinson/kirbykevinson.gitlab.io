@@ -43,3 +43,13 @@ and XML.
 
 Hack allowing you to configure your inputs if your Wayland compositor
 can't.
+
+## 2021-03-08/..: [Bruh, Ltd](https://bruh.ltd/)
+
+Collection of random web pages, such as demos and art projects, that
+were created for questionable reasons.
+
+## 2021-03-30/..: Speaco - [client](https://github.com/kirbykevinson/speaco-client), [server](https://github.com/kirbykevinson/speaco-server)
+
+LAN messenger intended to look like it's from the 90s. Was made as a
+college project.
