@@ -13,6 +13,8 @@
   [source](https://commons.wikimedia.org/wiki/File:Ezra_Cornell's_first_book.jpg)
 * `static/images/backgrounds/bricks.png` -
   [source](https://publicdomainpictures.net/en/view-image.php?image=120778&picture=grey-bricks)
+* `static/images/backgrounds/circuit.png` -
+  [source](https://publicdomainpictures.net/en/view-image.php?image=200890&picture=circuit-board)
 * `static/images/backgrounds/curtain.png` -
   [source](https://publicdomainpictures.net/en/view-image.php?image=62656&picture=red-velvet-curtains-background)
 * `static/images/backgrounds/drugs.png` -
