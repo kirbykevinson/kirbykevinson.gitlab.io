@@ -9,9 +9,3 @@ title: "In progress"
 * Portal 2
 * Sonic the Hedgehog
 * Stranded II
-
-## Minecraft
-
-This game is an absolute masterpiece and my favorite game of all time,
-which I started playing in 2012 and haven't even completed once yet.
-What a shame.
