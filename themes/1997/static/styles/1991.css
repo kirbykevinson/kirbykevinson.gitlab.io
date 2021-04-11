@@ -77,13 +77,6 @@ body.home .page-wrapper {
 	max-width: 16.25em;
 }
 
-@media (max-width: 745px) {
-	body:not(.home) .page-wrapper {
-		margin: 0;
-		border: none;
-	}
-}
-
 .page-wrapper * {
 	max-width: 100%;
 	overflow-wrap: break-word;
