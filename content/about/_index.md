@@ -7,4 +7,4 @@ backgroundScrollDirection: "y"
 ---
 
 Most of the time, I pretend to be a "programmer", but here I also
-ramble about life.
+ramble about my life.
