@@ -29,3 +29,5 @@ to at least. Here are all of them:
 * 2021-03-28: https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/674
 * 2021-04-03: https://gitlab.gnome.org/GNOME/mutter/-/issues/1736
 * 2021-04-09: https://bugzilla.mozilla.org/show_bug.cgi?id=1704043
+* 2021-04-14: https://gitlab.gnome.org/GNOME/mutter/-/merge_requests/1823
+* 2021-04-14: https://gitlab.gnome.org/GNOME/gsettings-desktop-schemas/-/merge_requests/43
