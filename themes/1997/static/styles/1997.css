@@ -24,6 +24,23 @@
 	font-display: swap;
 }
 
+@keyframes background-scroll-x {
+	0% {
+		background-position-x: 0;
+	}
+	100% {
+		background-position-x: 960px;
+	}
+}
+@keyframes background-scroll-y {
+	0% {
+		background-position-y: 0;
+	}
+	100% {
+		background-position-y: 960px;
+	}
+}
+
 :root {
 	--emoji-fonts: "";
 	--fonts:
@@ -47,6 +64,12 @@
 	--subtle-color: #FFFFFF69;
 	--shadow-color: #0000007F;
 	--accent-color: #FFFF00;
+	--background-animation: none;
+	--background-scroll-x: background-scroll-x 32s infinite linear;
+	--background-scroll-y: background-scroll-y 32s infinite linear;
+	--background-scroll-xy:
+		background-scroll-x 45.254s infinite linear,
+		background-scroll-y 45.254s infinite linear;
 }
 
 * {
@@ -64,6 +87,7 @@
 body {
 	cursor: url("/images/cursors/default.png"), default;
 	background: var(--background-image);
+	animation: var(--background-animation);
 }
 
 .page-wrapper {

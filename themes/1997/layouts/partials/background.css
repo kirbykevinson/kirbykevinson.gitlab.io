@@ -7,15 +7,17 @@
 			url("/images/backgrounds/{{ .page.Params.background }}.png");
 		
 		{{ if eq .page.Params.backgroundScrollDirection "xy" }}
-			animation: var(--background-scroll-xy);
+			--background-animation: var(--background-scroll-xy);
 		{{ else if eq .page.Params.backgroundScrollDirection "x" }}
-			animation: var(--background-scroll-x);
+			--background-animation: var(--background-scroll-x);
 		{{ else if eq .page.Params.backgroundScrollDirection "y" }}
-			animation: var(--background-scroll-y);
+			--background-animation: var(--background-scroll-y);
 		{{ end }}
 	{{ else if .page.Parent }}
 		{{ template "background" (dict "page" .page.Parent) }}
 	{{ end }}
 {{ end }}
 
-{{ template "background" (dict "page" .) }}
+:root {
+	{{ template "background" (dict "page" .) }}
+}
