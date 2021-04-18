@@ -8,9 +8,7 @@ const
 	defaultTheme = "1997",
 	savedTheme = localStorage.getItem("theme"),
 	
-	stylesheet = document.querySelector(
-		`link[rel="stylesheet"][title="${defaultTheme}"]`
-	),
+	stylesheet = document.querySelector(`#main-stylesheet`),
 	switcher = document.createElement("select");
 
 switcher.className = "theme-switcher";
