@@ -44,6 +44,10 @@ body {
 	background: var(--background-color);
 }
 
+.only {
+	display: none;
+}
+
 .page-wrapper {
 	flex-grow: 1;
 	min-width: 0;

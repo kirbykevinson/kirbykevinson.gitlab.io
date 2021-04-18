@@ -90,6 +90,10 @@ body {
 	animation: var(--background-animation);
 }
 
+.theme-1997 {
+	display: block;
+}
+
 .page-wrapper {
 	margin: 16px 0;
 	border:

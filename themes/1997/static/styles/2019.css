@@ -50,6 +50,10 @@
 	}
 }
 
+.theme-2019 {
+	display: block;
+}
+
 a:hover, summary:hover {
 	text-decoration: none;
 	opacity: 0.5;
