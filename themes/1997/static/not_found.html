@@ -9,7 +9,7 @@
 		
 		<link href="/images/icon.png" rel="icon">
 		
-		<link href="/styles/1997.css" rel="stylesheet">
+		<link href="/styles/1997.css" rel="stylesheet" id="main-stylesheet">
 		
 		<style>
 			@font-face {
@@ -20,7 +20,7 @@
 				font-display: swap;
 			}
 			
-			:root {
+			.page-wrapper.theme-1997 {
 				--fonts:
 					"Source Sans Pro",
 					"sans-serif";
@@ -29,37 +29,54 @@
 				--foreground-color: #000000;
 				--subtle-color: var(--shadow-color);
 				--accent-color: #FF0000;
+				
+				color: var(--foreground-color);
 			}
 			
-			* {
+			.page-wrapper.theme-1997 * {
 				text-align: left;
 			}
-			
-			.page-wrapper *:first-child {
+			.page-wrapper.theme-1997 *:first-child {
 				margin-top: 0;
 			}
-			.page-wrapper *:last-child {
+			.page-wrapper.theme-1997 *:last-child {
 				margin-bottom: 0;
 			}
 			
-			h2 {
+			.page-wrapper.theme-1997 h2 {
 				font-style: normal;
 				color: var(--foreground-color);
 			}
 			
-			.icon {
+			.page-wrapper.theme-1997 .icon {
 				display: inline-block;
 				filter: grayscale(1);
 			}
-			h2 .icon {
+			.page-wrapper.theme-1997 h2 .icon {
 				margin-right: 0.5em;
 				transform: scale(1.5);
 			}
+			
+			.page-wrapper.theme-2019 {
+				text-align: center;
+			}
+			
+			.page-wrapper.theme-2019 .error-code {
+				font-size: 32vmin;
+				font-weight: bold;
+			}
 		</style>
+		
+		<script src="/scripts/theme-switcher.js" type="module"></script>
 	</head>
 	
 	<body lang="en-ca">
-		<div class="page-wrapper">
+		<div class="page-wrapper theme-1991 only">
+			The program could not find the given address. The attempt to load
+			the given page failed.
+		</div>
+		
+		<div class="page-wrapper theme-1997 only">
 			<h2>
 				<span class="icon">📄</span>
 				The page does not exist
@@ -97,6 +114,16 @@
 			</ul>
 			
 			<p>HTTP 404 - File Not Found</p>
+		</div>
+		
+		<div class="page-wrapper theme-2019 only">
+			<div class="error-code">404</div>
+			
+			<p>
+				<a href="#" onclick="history.back()">Go back</a>
+				or
+				<a href="/">go home</a>
+			</p>
 		</div>
 	</body>
 </html>
