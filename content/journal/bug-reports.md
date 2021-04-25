@@ -34,3 +34,5 @@ to at least. Here are all of them:
 * 2021-04-17: https://gitlab.gnome.org/GNOME/mutter/-/issues/1760
 * 2021-04-24: https://gitlab.gnome.org/GNOME/mutter/-/merge_requests/1840
 * 2021-04-24: https://gitlab.gnome.org/GNOME/gsettings-desktop-schemas/-/merge_requests/45
+* 2021-04-25: https://gitlab.gnome.org/GNOME/gnome-shell/-/issues/4179
+* 2021-04-25: https://gitlab.gnome.org/GNOME/gnome-shell/-/issues/4180
