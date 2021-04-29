@@ -38,19 +38,27 @@
 			</header>
 			
 			<main>
-				{{ partial "music" . }}
-				
-				{{ block "main" . }}{{ end }}
+				{{ block "main" . }}
+					{{ block "before-content" . }}
+						{{ partial "music" . }}
+					{{ end }}
+					
+					{{ .Content }}
+					
+					{{ block "after-content" . }}
+						{{ partial "links" . }}
+					{{ end }}
+				{{ end }}
 			</main>
 			
 			<footer>
-				{{ block "footer" . }}{{ end }}
-				
-				<div class="licensing">
-					{{ block "licensing" . }}
-							{{ partial "licensing" . }}
-					{{ end }}
-				</div>
+				{{ block "footer" . }}
+					<div class="licensing">
+						{{ block "licensing" . }}
+								{{ partial "licensing" . }}
+						{{ end }}
+					</div>
+				{{ end }}
 			</footer>
 		</div>
 	</body>
