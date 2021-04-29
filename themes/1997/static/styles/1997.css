@@ -164,6 +164,7 @@ details[open] > summary::before {
 
 .buttons {
 	display: block;
+	text-align: center;
 }
 
 .music {
@@ -174,7 +175,7 @@ details[open] > summary::before {
 	display: flex;
 	align-items: center;
 	padding: 0 5px;
-	margin-bottom: 8px;
+	margin-bottom: 0.5em;
 	border:
 		var(--border-style)
 		var(--border-width)
