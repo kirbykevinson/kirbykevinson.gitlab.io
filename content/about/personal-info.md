@@ -26,10 +26,12 @@ backgroundFallback: "#990066"
 * Sexual orientation: I like girls more than guys
 * Height: average
 * Weight: average, but I still look like shit
-* Abnormalities: [visual snow], discovered in 2019, [STPD], discovered
-  in 2020
+* Abnormalities:
+	* [Visual snow], discovered in 2019
+	* [STPD], discovered in 2020
+	* Penis with 2 holes, discovered in 2021
 
-[visual snow]: https://en.wikipedia.org/wiki/Visual_snow
+[Visual snow]: https://en.wikipedia.org/wiki/Visual_snow
 [STPD]: https://en.wikipedia.org/wiki/Schizotypal_personality_disorder
 
 ## Society
