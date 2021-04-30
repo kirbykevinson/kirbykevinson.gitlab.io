@@ -37,3 +37,7 @@ to at least. Here are all of them:
 * 2021-04-25: https://gitlab.gnome.org/GNOME/gnome-shell/-/issues/4179
 * 2021-04-25: https://gitlab.gnome.org/GNOME/gnome-shell/-/issues/4180
 * 2021-04-29: https://gitlab.gnome.org/GNOME/gnome-shell/-/issues/4205
+* 2021-04-30: https://gitlab.gnome.org/GNOME/gnome-shell/-/issues/4214
+* 2021-04-30: https://gitlab.gnome.org/GNOME/gnome-shell/-/issues/4216
+* 2021-04-30: https://gitlab.gnome.org/GNOME/gnome-shell/-/issues/4218
+* 2021-04-30: https://gitlab.gnome.org/GNOME/gnome-shell/-/issues/4219
