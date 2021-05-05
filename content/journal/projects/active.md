@@ -44,7 +44,7 @@ and XML.
 Hack allowing you to configure your inputs if your Wayland compositor
 can't.
 
-## 2021-03-08/..: [Bruh, Ltd](https://bruh.ltd/)
+## 2021-03-08/..: [Bruh, Ltd](https://web.bruh.ltd/)
 
 Collection of random web pages, such as demos and art projects, that
 were created for questionable reasons.
