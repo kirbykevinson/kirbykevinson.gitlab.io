@@ -42,3 +42,4 @@ to at least. Here are all of them:
 * 2021-04-30: https://gitlab.gnome.org/GNOME/gnome-shell/-/issues/4218
 * 2021-04-30: https://gitlab.gnome.org/GNOME/gnome-shell/-/issues/4219
 * 2021-05-04: https://github.com/flatpak/xdg-desktop-portal/issues/582
+* 2021-05-06: https://gitlab.gnome.org/GNOME/mutter/-/merge_requests/1855
