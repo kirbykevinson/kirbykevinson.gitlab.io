@@ -51,6 +51,7 @@ the end.
 [r/okbuddyhetero](https://www.reddit.com/r/okbuddyhetero/)
 [r/196](https://www.reddit.com/r/196/)
 [r/desksurfaces](https://www.reddit.com/r/desksurfaces)
+[r/thomastheplankengine](https://www.reddit.com/r/thomastheplankengine/)
 
 {{% /links %}}
 
