@@ -1,3 +1,6 @@
+* `sexcribe` gender/sexuality test
+	* You input your info using sliders and checkboxes and it prints out
+	  your sex, gender, sexual, and romantic orientation
 * `smethana` discussion platform
 	* Every post has a colontag like
 	  > idea: buy a capybara for no reason.
@@ -10,6 +13,8 @@
 * `tscr` xdg-desktop-portal screenshot utility
 * `waykeeper` Wayland screen locker
 * `czechlist` Android checklist app
+* `h` C standard library alternative
+	* Pathetic Glib copycat
 * `B--` programming language
 	* Basic C features
 	* No typing
