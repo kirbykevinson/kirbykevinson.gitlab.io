@@ -13,5 +13,4 @@ title: "To watch"
 * Roujin Z
 * Sailor Moon
 * Space Battleship Yamato
-* The Girl Who Leapt Through Time
 * Urusei Yatsura
