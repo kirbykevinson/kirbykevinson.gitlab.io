@@ -13,7 +13,7 @@
 * `tscr` xdg-desktop-portal screenshot utility
 * `waykeeper` Wayland screen locker
 * `czechlist` Android checklist app
-* `h` C standard library alternative
+* `khleb` C standard library alternative
 	* Pathetic Glib copycat
 * `B--` programming language
 	* Basic C features
