@@ -19,6 +19,7 @@
 	* Basic C features
 	* No typing
 	* No error checking
+* `waylandx` Wayland compositor allowing to run Wayland apps on X11
 * `wldj` Wayland swiss army knife utility
 	* `input`
 	* `idle`
