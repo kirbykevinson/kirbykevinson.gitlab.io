@@ -167,6 +167,11 @@ details[open] > summary::before {
 	text-align: center;
 }
 
+.buttons img {
+	width: 88px;
+	height: 31px;
+}
+
 .music {
 	--progress: 0%;
 	--complete-color: #303030D8;
@@ -203,6 +208,11 @@ details[open] > summary::before {
 	border: none;
 	cursor: inherit;
 	background: none;
+}
+
+.music button img {
+	width: 11px;
+	height: 14px;
 }
 
 .music button:hover img {
