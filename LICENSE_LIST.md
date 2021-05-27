@@ -21,6 +21,8 @@
   [source](https://publicdomainpictures.net/en/view-image.php?image=12456&picture=jellyfish-pattern)
 * `static/images/backgrounds/fabric.png` -
   [source](https://publicdomainpictures.net/en/view-image.php?image=201689&picture=brown-fabric-textured-background)
+* `static/images/backgrounds/hearts.png` -
+  [source](https://publicdomainpictures.net/en/view-image.php?image=52726&picture=hearts-background-wallpaper-pink)
 * `static/images/backgrounds/leather.png` -
   [source](https://publicdomainpictures.net/en/view-image.php?image=240670&picture=sky-blue-leather-effect-background)
 * `static/images/backgrounds/metal.png` -
