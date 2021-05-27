@@ -38,6 +38,8 @@
   [source](https://publicdomainpictures.net/en/view-image.php?image=1279&picture=sky-with-clouds)
 * `static/images/backgrounds/skyline.png` -
   [source](https://publicdomainpictures.net/en/view-image.php?image=195899&picture=chicago-skyline-at-night)
+* `static/images/backgrounds/spices.png` -
+  [source](https://www.publicdomainpictures.net/en/view-image.php?image=212117&picture=food-kitchenspices-spoon-wood)
 * `static/images/backgrounds/stones.png`,
   `static/extra/old-designs/4.jpg` -
   [source](https://publicdomainpictures.net/en/view-image.php?image=39502&picture=stones-background)
