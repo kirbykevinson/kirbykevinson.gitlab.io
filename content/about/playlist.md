@@ -12,23 +12,13 @@ recreate everything with stock images and my epic drawing skills.
 
 ## Western
 
-{{% album "captain-beefheart-trout-mask-replica" %}}
+{{% album "donald-fagen-the-nightfly" %}}
 
-* Name: Captain Beefheart and his Magic Band - Trout Mask Replica
-* Released: 1969-06-16
-* Genre: experimental rock
-* Length: 01:18:51
-* Favorite song: Sweet Sweet Bulbs
-
-{{% /album %}}
-
-{{% album "earth-wind-and-fire-i-am" %}}
-
-* Name: Earth, Wind & Fire - I Am
-* Released: 1979-06-09
-* Genre: disco
-* Length: 00:37:36
-* Favorite song: Boogie Wonderland
+* Name: Donald Fagen - The Nightfly
+* Released: 1982-10-01
+* Genre: jazz fusion
+* Length: 00:38:46
+* Favorite song: I.G.Y.
 
 {{% /album %}}
 
@@ -134,56 +124,6 @@ recreate everything with stock images and my epic drawing skills.
 
 {{% /album %}}
 
-{{% album "hiroshi-suzuki-cat" %}}
-
-* Name: Hiroshi Suzuki - Cat
-* Released: 1976-XX-XX
-* Genre: jazz fusion
-* Length: 00:40:17
-* Favorite song: Romance
-
-{{% /album %}}
-
-{{% album "mariya-takeuchi-love-songs" %}}
-
-* Name: Mariya Takeuchi - Love Songs
-* Released: 1980-XX-XX
-* Genre: city pop
-* Length: 00:42:25
-* Favorite song: September
-
-{{% /album %}}
-
-{{% album "mariya-takeuchi-miss-m" %}}
-
-* Name: Mariya Takeuchi - Miss M
-* Released: 1980-12-05
-* Genre: city pop
-* Length: 00:37:10
-* Favorite song: Secret Love
-
-{{% /album %}}
-
-{{% album "mariya-takeuchi-request" %}}
-
-* Name: Mariya Takeuchi - Request
-* Released: 1987-08-12
-* Genre: city pop
-* Length: 00:46:07
-* Favorite song: 夢の続き
-
-{{% /album %}}
-
-{{% album "masayoshi-takanaka-alone" %}}
-
-* Name: Masayoshi Takanaka - Alone
-* Released: 1981-XX-XX
-* Genre: jazz fusion
-* Length: 00:46:45
-* Favorite song: リオの夢
-
-{{% /album %}}
-
 {{% album "masayoshi-takanaka-the-rainbow-goblins" %}}
 
 * Name: Masayoshi Takanaka - The Rainbow Goblins
@@ -194,53 +134,13 @@ recreate everything with stock images and my epic drawing skills.
 
 {{% /album %}}
 
-{{% album "masayoshi-takanaka-can-i-sing" %}}
-
-* Name: Masayoshi Takanaka - Can I Sing?
-* Released: 1983-XX-XX
-* Genre: jazz fusion
-* Length: 00:38:42
-* Favorite song: Can I Sing...For You
-
-{{% /album %}}
-
-{{% album "momoko-kikuchi-adventure" %}}
-
-* Name: Momoko Kikuchi - Adventure
-* Released: 1986-06-25
-* Genre: city pop
-* Length: 00:42:35
-* Favorite song: Night Cruising
-
-{{% /album %}}
-
 {{% album "various-sound-collection-of-gunbuster" %}}
 
 * Name: Various - Sound Collection Of Gunbuster
 * Released: 1994-08-24
-* Genre: soundtrack
+* Genre: classical
 * Length: XX:XX:XX
 * Favorite song: 時の河を越えて
-
-{{% /album %}}
-
-{{% album "yutaka-yokokura-love-light" %}}
-
-* Name: Yutaka Yokokura - Love Light
-* Released: 1978-XX-XX
-* Genre: jazz fusion
-* Length: 00:34:17
-* Favorite song: Dragonfly
-
-{{% /album %}}
-
-{{% album "yutaka-yokokura-brazasia" %}}
-
-* Name: Yutaka Yokokura - Brazasia
-* Released: 1990-XX-XX
-* Genre: jazz fusion
-* Length: 00:48:00
-* Favorite song: Brazasia
 
 {{% /album %}}
 
@@ -250,7 +150,7 @@ recreate everything with stock images and my epic drawing skills.
 
 * Name: Bill Wurtz
 * Genre: [billwurtz.com](https://billwurtz.com/)
-* Favorite song: hallelujah
+* Favorite song: i'm a princess
 
 {{% /album %}}
 
@@ -258,72 +158,19 @@ recreate everything with stock images and my epic drawing skills.
 
 * Name: C418 - Minecraft - Volume Alpha
 * Released: 2011-03-04
-* Genre: soundtrack
+* Genre: ambient
 * Length: 00:59:32
 * Favorite song: Haggstrom
 
 {{% /album %}}
 
-{{% album "c418-minecraft-volume-beta" %}}
-
-* Name: C418 - Minecraft - Volume Beta
-* Released: 2013-11-09
-* Genre: soundtrack
-* Length: 02:19:33
-* Favorite song: Alpha
-
-{{% /album %}}
-
-{{% album "farting-toilet-guy-partying-with-annoying-poop-and-boobies-snoring-hetero-hooker-vanilla-and-horny-barfing-salad" %}}
-
-* Name: Farting Toilet Guy Partying with Annoying Poop and Boobies -
-  Snoring Hetero Hooker Vanilla and Horny Barfing Salad
-* Released: 2017-10-03
-* Genre: pop
-* Length: 01:08:11
-* Favorite song: Giraffe Feces Gifted Anime Music Crap Hiphop
-  Duplicate
-
-{{% /album %}}
-
-{{% album "flamingosis-a-groovy-thing" %}}
-
-* Name: Flamingosis - A Groovy Thing
-* Released: 2017-07-XX
-* Genre: hip-hop
-* Length: 00:54:44
-* Favorite song: come & get it
-
-{{% /album %}}
-
-{{% album "flamingosis-flight-fantastic" %}}
-
-* Name: Flamingosis - Flight Fantastic
-* Released: 2018-07-XX
-* Genre: hip-hop
-* Length: 00:41:23
-* Favorite song: Two Steppin' Into Fantasy
-
-{{% /album %}}
-
 {{% album "paul-romero-rob-king-steve-baca-heroes-of-might-and-magic-iii-soundtrack" %}}
 
-* Name: Paul Romero, Rob King, Steve Baca - Heroes Of Might And Magic
-  III Soundtrack
+* Name: Paul Romero, Rob King, Steve Baca - Heroes Of Might And Magic   III Soundtrack
 * Released: 2014-XX-XX
-* Genre: soundtrack
+* Genre: classical
 * Length: 01:24:02
 * Favorite song: Town - Fortress
-
-{{% /album %}}
-
-{{% album "saint-pepsi-hit-vibes" %}}
-
-* Name: Saint Pepsi - Hit Vibes
-* Released: 2013-05-31
-* Genre: vaporwave
-* Length: 00:36:20
-* Favorite song: Better
 
 {{% /album %}}
 
@@ -331,18 +178,14 @@ recreate everything with stock images and my epic drawing skills.
 
 * Name: Toby Fox - Undertale Soundtrack
 * Released: 2015-09-15
-* Genre: soundtrack
+* Genre: electronic
 * Length: 02:10:28
 * Favorite song: Ghost Fight
 
 {{% /album %}}
 
-{{% album "yung-bae-bae-5" %}}
+## Need more?
 
-* Name: Yung Bae - Bae 5
-* Released: 2019-06-28
-* Genre: future funk
-* Length: 00:32:34
-* Favorite song: Welcome To The Disco
+Check out [my YouTube music playlist].
 
-{{% /album %}}
+[my YouTube music playlist]: https://www.youtube.com/playlist?list=PLUA9F2nDy-vMB5eiel0_3gPi6LJAmarCy
