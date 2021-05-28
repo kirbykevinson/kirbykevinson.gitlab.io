@@ -16,7 +16,7 @@ and unmatched availability. What else do you need?
 
 Literally the worst shit ever.
 
-1/10
+2/10
 
 ## 200X-XX-XX: Vinegret
 
@@ -96,4 +96,4 @@ dough. Sounds pretty mediocre to me. Wouldn't recommend.
 
 Пиздец.
 
-4/10
+1/10
