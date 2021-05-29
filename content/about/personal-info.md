@@ -24,8 +24,8 @@ backgroundFallback: "#990066"
 * Sex: male
 * Gender: female
 * Sexual orientation: I like girls more than guys
-* Height: average
-* Weight: average, but I still look like shit
+* Height: 1.74 m
+* Weight: 69 kg
 * Abnormalities:
 	* [Visual snow], discovered in 2019
 	* [STPD], discovered in 2020
