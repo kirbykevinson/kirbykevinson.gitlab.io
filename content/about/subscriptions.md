@@ -185,5 +185,6 @@ the end.
 [Kid Leaves Stoop](https://www.youtube.com/channel/UCwbeWInXAoxHQZSRi6AE7Bw)
 [suckerpinch](https://www.youtube.com/user/suckerpinch)
 [Nick Robinson](https://www.youtube.com/user/babylonian)
+[hbomberguy](https://www.youtube.com/channel/UClt01z1wHHT7c5lKcU8pxRQ)
 
 {{% /links %}}
