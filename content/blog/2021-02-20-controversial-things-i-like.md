@@ -148,14 +148,14 @@ basically I think airplane food is not only good but also superior to
 regular food you can get in a restaurant or cook at home. Here are my
 extremely subjective reasons:
 
-* It has a unique taste you can't get anywhere else. Apparently
-  because of the high altitude and dry air the food doesn't taste as
+* It has a unique taste you can't get anywhere else. Apparently,
+  because of the high altitude, and dry air the food doesn't taste as
   prominent as regular food. You may not like it, but I absolutely
   love it. It makes the food taste just so much better for me, and I
   would be incredibly happy if there was a way to recreate it at home.
 * It's given to you in a small portion that's just enough to make you
-  feel satisfied. You have make the best out of little things you have
-  and enjoy them.
+  feel satisfied. You have to make the best out of little things you
+  have and enjoy them.
 * It's presented at the best time possible. After you've gone through
   all of the nightmare that is modern airport and waited through a
   portion of the flight, you get hungry and sad, but then you're given
