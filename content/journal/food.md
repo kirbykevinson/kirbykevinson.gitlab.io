@@ -5,20 +5,22 @@ background: "spices"
 backgroundFallback: "#333333"
 ---
 
-## 200X-XX-XX: Tap water
+Yes, I've never tried good food in my entire life.
+
+## 200X-XX-XX: tap water
 
 A robust solution for hydrating yourself coupled with a great taste
 and unmatched availability. What else do you need?
 
 10/10
 
-## 200X-XX-XX: Sparkling water
+## 200X-XX-XX: sparkling water
 
 Literally the worst shit ever.
 
 2/10
 
-## 200X-XX-XX: Vinegret
+## 200X-XX-XX: vinegret
 
 I can't possibly imagine what kind of drug you have to be on to
 tolerate this kind of shit. This "salad" is pure evil that consists of
@@ -70,6 +72,28 @@ expensive, but I can assure you that paying this price is worth it.
 
 10/10
 
+## 2018?-XX-XX: microwave sandwich
+
+### Recipe
+
+* Bread
+* Salami
+* Cheese
+
+1. Take a slice of bread
+2. Put salami on the bread
+3. Put cheese on the salami
+4. Put the whole thing in the microwave for 40 seconds
+
+### Review
+
+Surprisingly, it's pretty good. It doesn't taste too bad and is really
+easy and quick to make, so that's why I did it so many times. Of
+course, there is better food you can make by yourself, but overall why
+not eat it if you have an opportunity?
+
+7/10
+
 ## 2021-01?-XX: KFC cheeseburger
 
 This is by far the best meal you can get at KFC. To begin with, it's
@@ -85,7 +109,7 @@ and pickles only improve this perfection.
 
 10/10
 
-## 2021-02?-XX: Echpochmak
+## 2021-02?-XX: echpochmak
 
 Not a very interesting meal. It's just boiled meat wrapped in baked
 dough. Sounds pretty mediocre to me. Wouldn't recommend.
@@ -97,3 +121,11 @@ dough. Sounds pretty mediocre to me. Wouldn't recommend.
 Пиздец.
 
 1/10
+
+## 2021-05-08: {McDonald's,Burger King} Heinz cheese sauce
+
+This is by far the worst substance I've ever got from a fast food
+place. It literally tastes like stale sour cream. Please don't repeat
+my mistakes and don't try it.
+
+3/10
