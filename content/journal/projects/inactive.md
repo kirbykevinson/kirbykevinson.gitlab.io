@@ -20,3 +20,8 @@ Hack to allow starting sway with a DM without using X11.
 ## 2021-01-08/..: [libinput-touchpad-scroll-fix](https://gitlab.com/kirbykevinson/libinput-touchpad-scroll-fix)
 
 Workaround for the touchpads with broken scrolling on Linux.
+
+## 2021-05-27/..: [Force Show OSK](https://extensions.gnome.org/extension/4316/force-show-osk/)
+
+GNOME extension that partially fixes the touch mode detection on some
+laptops.
