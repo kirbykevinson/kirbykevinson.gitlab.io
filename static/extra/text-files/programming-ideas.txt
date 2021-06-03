@@ -13,6 +13,9 @@
 * `tscr` xdg-desktop-portal screenshot utility
 * `waykeeper` Wayland screen locker
 * `czechlist` Android checklist app
+* `shiplap` C video game engine
+	* Basic shit you need to make 2D pixel art games
+	* Architecture stolen from gamestaddle
 * `khleb` C standard library alternative
 	* Pathetic Glib copycat
 * `B--` programming language
