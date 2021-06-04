@@ -48,3 +48,5 @@ to at least. Here are all of them:
 * 2021-05-31: https://gitlab.gnome.org/GNOME/gnome-shell/-/issues/4346
 * 2021-05-31: https://gitlab.gnome.org/GNOME/gnome-shell/-/issues/4347
 * 2021-06-03: https://gitlab.gnome.org/GNOME/gnome-shell/-/issues/4356
+* 2021-06-04: https://gitlab.freedesktop.org/wayland/wayland-protocols/-/issues/50
+* 2021-06-04: https://gitlab.freedesktop.org/wayland/wayland-protocols/-/issues/51
