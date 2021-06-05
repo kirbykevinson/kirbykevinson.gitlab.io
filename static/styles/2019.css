@@ -54,6 +54,10 @@
 	display: block;
 }
 
+a, summary {
+	transition: 0.1s opacity;
+}
+
 a:hover, summary:hover {
 	text-decoration: none;
 	opacity: 0.5;
