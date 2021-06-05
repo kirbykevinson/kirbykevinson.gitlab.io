@@ -67,12 +67,6 @@
   >
   > This modified image: Copyright 2020 Kirby Kevinson
 
-## MIT License (`LICENSE_MIT`)
-
-* `static/images/buttons/neovim.png` (the logo) -
-  [source](https://github.com/neovim/neovim.github.io/blob/eb7c9cb55cc307b196cce8cd35a87e75d4931525/images/logo%402x.png)
-  > Copyright (c) 2014 Cameron Eagans and Josh Branchaud
-
 ## SIL Open Font License (`LICENSE_OFL`)
 
 * `static/fonts/comic-neue.woff2` -
@@ -98,6 +92,11 @@
 * `static/images/backgrounds/stars.png` -
   [source](https://commons.wikimedia.org/wiki/File:Phoenix_dwarf_galaxy.jpg)
   > Copyright 2011 ESA/Hubble
+* `static/images/buttons/neovim.png` (the logo) -
+  [source](https://github.com/neovim/neovim.github.io/blob/eb7c9cb55cc307b196cce8cd35a87e75d4931525/images/logo%402x.png)
+  > Original image (Neovim logo): Copyright 2014 Jason Long
+  >
+  > This modified image: Copyright 2020 Kirby Kevinson
 * Cover art derived from public domain works
 	* `static/images/cover-art/mfsb-love-is-the-message.jpg` -
 	  [source](https://publicdomainpictures.net/en/view-image.php?image=224135&picture=atomic-war)
