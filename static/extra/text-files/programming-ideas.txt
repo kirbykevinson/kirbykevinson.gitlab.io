@@ -18,6 +18,11 @@
 	* Architecture stolen from gamestaddle
 * `khleb` C standard library alternative
 	* Pathetic Glib copycat
+* `lolbus` display server
+	* Pathetic Wayland copycat
+	* Wider range of protocols more suitable for the desktop
+	* Better typing
+	* Basic video card support via dumb buffers
 * `B--` programming language
 	* Basic C features
 	* No typing
