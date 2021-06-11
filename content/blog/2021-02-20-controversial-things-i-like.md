@@ -1,5 +1,6 @@
 ---
 title: "Controversial things I like"
+description: "Get ready kids, it's actually controversial this time."
 date: 2021-02-20
 
 slug: "controversial-things-i-like"

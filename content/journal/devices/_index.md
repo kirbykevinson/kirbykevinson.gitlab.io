@@ -1,5 +1,6 @@
 ---
 title: "Devices"
+firstParagraphIsDescription: true
 
 background: "metal"
 backgroundFallback: "#666666"

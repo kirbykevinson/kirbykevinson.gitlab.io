@@ -1,6 +1,8 @@
 ---
 title: "Dreams"
+firstParagraphIsDescription: true
 
+childDescription: "Year in Kirby's dreams."
 reverseSort: true
 
 background: "stars"

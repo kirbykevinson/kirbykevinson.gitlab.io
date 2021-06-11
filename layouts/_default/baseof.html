@@ -3,11 +3,13 @@
 <html lang="{{ $.Site.LanguageCode | default "en" }}">
 	<head>
 		<title>{{ block "title" . }}
-			{{ partial "title.html" . }}
+			{{- partial "unwhitespace.html" (partial "title.html" .) -}}
 		{{ end }}</title>
 		
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
+		
+		{{ partial "description.html" . }}
 		
 		<link href="/images/icon.png" rel="icon">
 		

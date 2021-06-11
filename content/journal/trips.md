@@ -1,5 +1,6 @@
 ---
 title: "Trips"
+firstParagraphIsDescription: true
 
 background: "sand"
 backgroundFallback: "#996633"

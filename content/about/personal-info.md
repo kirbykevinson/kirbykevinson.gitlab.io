@@ -1,5 +1,6 @@
 ---
 title: "Personal info"
+description: "Some useless facts about me."
 
 background: "drugs"
 backgroundFallback: "#990066"

@@ -1,5 +1,6 @@
 ---
 title: "The story of GNU/Linux on an unbranded Chinese mini PC"
+description: "How I made a mistake in 2018 and why shouldn't repeat it."
 date: 2020-03-22
 
 slug: "the-story-of-gnu-linux-on-an-unbranded-chinese-mini-pc"

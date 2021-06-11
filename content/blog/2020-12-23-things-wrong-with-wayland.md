@@ -1,5 +1,6 @@
 ---
 title: "Things wrong with Wayland"
+description: "There are quite some, but it could be worse."
 date: 2020-12-23
 
 slug: "things-wrong-with-wayland"

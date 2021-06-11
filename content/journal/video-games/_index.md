@@ -1,6 +1,8 @@
 ---
 title: "Video games"
+firstParagraphIsDescription: true
 
+childDescription: "Year in Kirby's video game playing history."
 reverseSort: true
 
 background: "skyline"

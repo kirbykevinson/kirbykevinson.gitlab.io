@@ -1,6 +1,8 @@
 ---
 title: "Movies"
+firstParagraphIsDescription: true
 
+childDescription: "Year in Kirby's movie watching history."
 reverseSort: true
 
 background: "curtain"

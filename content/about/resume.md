@@ -1,5 +1,6 @@
 ---
 title: "Resume"
+description: "Please don't hire me."
 
 background: "paper"
 backgroundFallback: "#CCCCCC"

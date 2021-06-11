@@ -1,9 +1,10 @@
 ---
 title: "Dead"
+firstParagraphIsDescription: true
 ---
 
 (Ones I don't develop anymore and don't have any intention to develop
-again)
+again.)
 
 ## 2015-1X-XX/2016-02-18: [{Nblm,Null}Browser](https://gitlab.com/kirbykevinson/nblmbrowser)
 

@@ -1,5 +1,6 @@
 ---
 title: "Pets"
+firstParagraphIsDescription: true
 
 background: "paw-prints"
 backgroundFallback: "#336666"

@@ -1,5 +1,6 @@
 ---
 title: "About"
+firstParagraphIsDescription: true
 
 background: "matrix"
 backgroundFallback: "#000000"

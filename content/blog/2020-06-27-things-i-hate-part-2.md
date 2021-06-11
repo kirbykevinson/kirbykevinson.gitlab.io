@@ -1,5 +1,6 @@
 ---
 title: "Things I hate, part 2"
+firstParagraphIsDescription: true
 date: 2020-06-27
 
 slug: "things-i-hate-part-2"

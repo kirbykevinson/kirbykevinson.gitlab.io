@@ -1,5 +1,6 @@
 ---
 title: "Subscriptions"
+description: "Shit on social media I constantly scroll through."
 
 aliases: ["youtube-subscriptions"]
 

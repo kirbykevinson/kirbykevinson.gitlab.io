@@ -2,6 +2,16 @@
 
 {{ if .Description }}
 	{{ $description = .Description }}
+{{ else if .Params.firstParagraphIsDescription }}
+	{{ $paragraphs := findRE "<p.*?>(.|\n)*?</p>" .Content 1 }}
+	{{ $firstParagraph := index $paragraphs 0 }}
+	
+	{{ $description = $firstParagraph | plainify | htmlUnescape }}
+	{{ $description = partial "unwhitespace.html" $description }}
+{{ else if .Parent }}
+	{{ if .Parent.Params.childDescription }}
+		{{ $description = .Parent.Params.childDescription }}
+	{{ end }}
 {{ end }}
 
 {{ if $description }}

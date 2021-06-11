@@ -1,5 +1,6 @@
 ---
 title: "Food"
+firstParagraphIsDescription: true
 
 background: "spices"
 backgroundFallback: "#333333"

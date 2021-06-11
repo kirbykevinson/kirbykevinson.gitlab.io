@@ -1,6 +1,9 @@
 ---
 title: "Lost or unlisted"
+firstParagraphIsDescription: true
 ---
+
+(Ones I couldn't find. Yet.)
 
 ## 2012?/2013?: several YouTube channels, some using my legal name
 

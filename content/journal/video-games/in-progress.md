@@ -1,5 +1,6 @@
 ---
 title: "In progress"
+description: "Video game I'll hopefully finish some day."
 ---
 
 * Another World

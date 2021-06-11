@@ -1,5 +1,6 @@
 ---
 title: "Wishlist"
+description: "Things I want but don't deserve."
 
 background: "car-seat"
 backgroundFallback: "#006666"

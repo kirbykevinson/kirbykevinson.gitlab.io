@@ -1,8 +1,9 @@
 ---
 title: "Active"
+firstParagraphIsDescription: true
 ---
 
-(Ones I actually develop)
+(Ones I actually develop.)
 
 ## 2016-11-18/..: [this website](/)
 

@@ -1,5 +1,6 @@
 ---
 title: "Hello, World?"
+description: "First blogpost."
 date: 2020-02-11
 
 slug: "hello-world"

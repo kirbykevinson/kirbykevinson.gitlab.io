@@ -1,5 +1,6 @@
 ---
 title: "Books"
+firstParagraphIsDescription: true
 
 background: "desk"
 backgroundFallback: "#333333"

@@ -1,14 +1,17 @@
 ---
 title: "Anime"
+firstParagraphIsDescription: true
 
+childDescription: "Year in Kirby's anime watching history."
 reverseSort: true
 
 background: "sky"
 backgroundFallback: "#666699"
 ---
 
-Every anime I've ever seen is described and rated here. The rating
-system is about as follows:
+Every anime I've ever seen is described and rated here.
+
+The rating system is about as follows:
 
 * 10 - Masterpiece
 * 9 - Awesome

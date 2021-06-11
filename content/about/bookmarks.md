@@ -1,5 +1,6 @@
 ---
 title: "Bookmarks"
+description: "Websites I've liked."
 
 background: "leather"
 backgroundFallback: "#333399"

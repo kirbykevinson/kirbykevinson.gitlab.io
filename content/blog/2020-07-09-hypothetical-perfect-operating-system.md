@@ -1,5 +1,6 @@
 ---
 title: "Hypothetical perfect operating system"
+description: "Non-system programmer's vision of a perfect OS."
 date: 2020-07-09
 
 slug: "hypothetical-perfect-operating-system"

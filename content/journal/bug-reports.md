@@ -1,5 +1,6 @@
 ---
 title: "Bug reports"
+firstParagraphIsDescription: true
 
 background: "circuit"
 backgroundFallback: "#333300"

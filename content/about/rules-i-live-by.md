@@ -1,5 +1,6 @@
 ---
 title: "Rules I live by"
+description: "Yes, I do have some."
 
 background: "wood"
 backgroundFallback: "#666633"

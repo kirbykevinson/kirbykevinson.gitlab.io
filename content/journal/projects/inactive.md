@@ -1,8 +1,9 @@
 ---
 title: "Inactive"
+firstParagraphIsDescription: true
 ---
 
-(Ones I made once that don't need any further development)
+(Ones I made once that don't need any further development.)
 
 ## 2017-04-28/..: [my code style](https://gitlab.com/kirbykevinson/code-style)
 

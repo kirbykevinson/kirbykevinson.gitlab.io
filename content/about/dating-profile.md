@@ -1,5 +1,6 @@
 ---
 title: "Dating profile"
+description: "Please don't date me."
 
 background: "hearts"
 backgroundFallback: "#660000"

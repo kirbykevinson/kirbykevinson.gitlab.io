@@ -1,5 +1,6 @@
 ---
 title: "Dead"
+description: "Too many of them."
 ---
 
 ## 2006?: Dumb Motorola phone

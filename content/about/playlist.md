@@ -1,5 +1,6 @@
 ---
 title: "Playlist"
+firstParagraphIsDescription: true
 
 background: "treble"
 backgroundFallback: "#663300"

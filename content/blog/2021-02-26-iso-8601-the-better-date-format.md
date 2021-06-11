@@ -1,5 +1,6 @@
 ---
 title: "ISO 8601: the better date format"
+description: "Simple explanation of what ISO 8601 is and why it's better."
 date: 2021-02-26
 
 slug: "iso-8601-the-better-date-format"

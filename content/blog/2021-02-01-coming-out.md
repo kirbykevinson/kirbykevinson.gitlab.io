@@ -1,5 +1,6 @@
 ---
 title: "Coming out"
+description: "I bet you can't guess who I'm coming out as."
 date: 2021-02-01
 
 slug: "coming-out"

@@ -1,5 +1,6 @@
 ---
 title: "Summary"
+description: "All of my life summarized on a single page."
 
 aliases: ["/journal/yearbook/"]
 ---

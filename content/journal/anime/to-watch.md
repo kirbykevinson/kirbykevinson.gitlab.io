@@ -1,5 +1,6 @@
 ---
 title: "To watch"
+description: "Anime I need to watch sometime."
 ---
 
 * Berserk: The Sword-Wind Romance

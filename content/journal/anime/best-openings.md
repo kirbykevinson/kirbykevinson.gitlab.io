@@ -1,5 +1,6 @@
 ---
 title: "Best openings"
+firstParagraphIsDescription: true
 ---
 
 Please don't kill me for this one.
