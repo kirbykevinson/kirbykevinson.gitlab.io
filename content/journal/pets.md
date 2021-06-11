@@ -20,7 +20,7 @@ No capybaras, unfortunately.
 
 * Species: cat
 * Gender: female
-* Size: medium
+* Size: big
 * Fur color: white
 
 ## Dead
