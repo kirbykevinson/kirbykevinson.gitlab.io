@@ -3,7 +3,7 @@
 <html lang="{{ $.Site.LanguageCode | default "en" }}">
 	<head>
 		<title>{{ block "title" . }}
-			{{ partial "title" . }}
+			{{ partial "title.html" . }}
 		{{ end }}</title>
 		
 		<meta charset="utf-8">
@@ -25,11 +25,11 @@
 		<div class="page-wrapper">
 			<header>
 				{{ block "header" . }}
-					{{ partial "breadcrumbs" . }}
+					{{ partial "breadcrumbs.html" . }}
 					
 					<div class="metadata">
 						{{ block "metadata" . }}
-								{{ partial "date" . }}
+								{{ partial "date.html" . }}
 						{{ end }}
 					</div>
 					
@@ -40,13 +40,13 @@
 			<main>
 				{{ block "main" . }}
 					{{ block "before-content" . }}
-						{{ partial "music" . }}
+						{{ partial "music.html" . }}
 					{{ end }}
 					
 					{{ .Content }}
 					
 					{{ block "after-content" . }}
-						{{ partial "links" . }}
+						{{ partial "links.html" . }}
 					{{ end }}
 				{{ end }}
 			</main>
@@ -55,7 +55,7 @@
 				{{ block "footer" . }}
 					<div class="licensing">
 						{{ block "licensing" . }}
-								{{ partial "licensing" . }}
+								{{ partial "licensing.html" . }}
 						{{ end }}
 					</div>
 				{{ end }}

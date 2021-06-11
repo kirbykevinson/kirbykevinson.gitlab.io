@@ -1,5 +1,5 @@
 {{ define "after-content" }}
-	{{ partial "links" . }}
+	{{ partial "links.html" . }}
 	<nav class="links">
 		{{ range .Site.Data.links.primary }}
 			<a href="{{ .link }}" class="link">{{ .site }}</a>
@@ -26,5 +26,5 @@
 		</details>
 	</nav>
 	
-	{{ partial "buttons" . }}
+	{{ partial "buttons.html" . }}
 {{ end }}
