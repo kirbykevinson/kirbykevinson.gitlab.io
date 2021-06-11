@@ -8,7 +8,7 @@
 	{{ range $pages }}
 		{{ if not .Params.hidden }}
 			<a
-				href="{{ .Permalink }}"
+				href="{{ .RelPermalink }}"
 				
 				class="page {{ if .IsNode }} node {{ end }}"
 			>{{ .Title }}</a>

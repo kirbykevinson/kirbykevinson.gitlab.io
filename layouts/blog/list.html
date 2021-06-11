@@ -3,7 +3,7 @@
 		{{ range .Pages }}
 			{{ if not .Params.hidden }}
 				<article>
-					<a href="{{ .Permalink }}" class="page">{{ .Title }}</a>
+					<a href="{{ .RelPermalink }}" class="page">{{ .Title }}</a>
 					
 					<div class="metadata">
 						{{ partial "date.html" . }}
