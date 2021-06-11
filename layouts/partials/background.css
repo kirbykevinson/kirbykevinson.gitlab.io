@@ -1,23 +1,23 @@
 {{ define "background" }}
-	{{ if .page.Params.background }}
+	{{ if .Params.background }}
 		--background-image:
-			{{ if .page.Params.backgroundFallback }}
-				{{ .page.Params.backgroundFallback }}
+			{{ if .Params.backgroundFallback }}
+				{{ .Params.backgroundFallback }}
 			{{ end }}
-			url("/images/backgrounds/{{ .page.Params.background }}.png");
+			url("/images/backgrounds/{{ .Params.background }}.png");
 		
-		{{ if eq .page.Params.backgroundScrollDirection "xy" }}
+		{{ if eq .Params.backgroundScrollDirection "xy" }}
 			--background-animation: var(--background-scroll-xy);
-		{{ else if eq .page.Params.backgroundScrollDirection "x" }}
+		{{ else if eq .Params.backgroundScrollDirection "x" }}
 			--background-animation: var(--background-scroll-x);
-		{{ else if eq .page.Params.backgroundScrollDirection "y" }}
+		{{ else if eq .Params.backgroundScrollDirection "y" }}
 			--background-animation: var(--background-scroll-y);
 		{{ end }}
-	{{ else if .page.Parent }}
-		{{ template "background" (dict "page" .page.Parent) }}
+	{{ else if .Parent }}
+		{{ template "background" .Parent }}
 	{{ end }}
 {{ end }}
 
 :root {
-	{{ template "background" (dict "page" .) }}
+	{{ template "background" . }}
 }
