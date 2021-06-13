@@ -1,6 +1,8 @@
-baseURL = "https://kirby.kevinson.org/"
-languageCode = "en-ca"
 title = "Kirby Kevinson"
+languageCode = "en-ca"
+
+baseURL = "https://kirby.kevinson.org/"
+disableKinds = ["taxonomy", "term", "RSS", "sitemap"]
 
 [markup.goldmark.renderer]
 unsafe = true
