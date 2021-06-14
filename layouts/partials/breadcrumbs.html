@@ -1,6 +1,6 @@
-{{ define "breadcrumb" }}
+{{ define "partials/breadcrumb" }}
 	{{ if .Parent }}
-		{{ template "breadcrumb" .Parent }}
+		{{ partial "breadcrumb" .Parent }}
 	{{ end }}
 	
 	<a href="{{ .RelPermalink }}">{{ .Title }}</a>
@@ -8,7 +8,7 @@
 
 {{ if .Parent }}
 	<nav class="breadcrumbs">
-		{{ template "breadcrumb" .Parent }}
+		{{ partial "breadcrumb" .Parent }}
 	</nav>
 {{ end }}
 

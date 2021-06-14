@@ -1,11 +1,9 @@
-{{ define "title" }}
-	{{ .page.Title }}
+{{ define "partials/title" }}
+	{{ .Title }}
 	
-	{{ if .page.Parent }}
-		| {{ template "title" (dict "page" .page.Parent "self" .self) }}
-	{{ else if not .page.IsHome }}
-		| {{ template "title" (dict "page" .page.Site.Home "self" .self) }}
+	{{ if .Parent }}
+		| {{ partial "title" .Parent }}
 	{{ end }}
 {{ end }}
 
-{{ template "title" (dict "page" . "self" .) }}
+{{ partial "title" . }}

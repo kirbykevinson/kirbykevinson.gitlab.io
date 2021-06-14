@@ -1,4 +1,4 @@
-{{ define "background" }}
+{{ define "partials/background" }}
 	{{ if .Params.background }}
 		--background-image:
 			{{ if .Params.backgroundFallback }}
@@ -14,10 +14,10 @@
 			--background-animation: var(--background-scroll-y);
 		{{ end }}
 	{{ else if .Parent }}
-		{{ template "background" .Parent }}
+		{{ partial "background" .Parent }}
 	{{ end }}
 {{ end }}
 
 :root {
-	{{ template "background" . }}
+	{{ partial "background" . }}
 }
