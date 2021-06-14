@@ -2,14 +2,16 @@
 
 <html lang="{{ $.Site.LanguageCode | default "en" }}">
 	<head>
-		<title>{{ block "title" . }}
-			{{- partial "unwhitespace.html" (partial "title.html" .) -}}
-		{{ end }}</title>
+		{{ partial "title.html" . }}
 		
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		
 		{{ partial "description.html" . }}
+		
+		<meta property="og:type" content="{{ block "og-type" . }}website{{ end }}">
+		<meta property="og:image" content="{{ absURL "/images/icon.png" }}">
+		<meta property="og:url" content="{{ .Permalink }}">
 		
 		<link href="/images/icon.png" rel="icon">
 		
