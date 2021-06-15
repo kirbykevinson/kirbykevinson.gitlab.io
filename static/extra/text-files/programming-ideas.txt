@@ -16,9 +16,9 @@
 * `shiplap` C video game engine
 	* Basic shit you need to make 2D pixel art games
 	* Architecture stolen from gamestaddle
-* `khleb` C standard library alternative
+* `khlib` C standard library alternative
 	* Pathetic Glib copycat
-* `lolbus` display server
+* `amoebus` display server
 	* Pathetic Wayland copycat
 	* Wider range of protocols more suitable for the desktop
 	* Better typing
