@@ -187,5 +187,6 @@ the end.
 [suckerpinch](https://www.youtube.com/user/suckerpinch)
 [Nick Robinson](https://www.youtube.com/user/babylonian)
 [hbomberguy](https://www.youtube.com/channel/UClt01z1wHHT7c5lKcU8pxRQ)
+[Bread Defender](https://www.youtube.com/channel/UCnEYekfQHxW1VEW4oecaWcA)
 
 {{% /links %}}
