@@ -18,10 +18,13 @@
 	* Architecture stolen from gamestaddle
 * `khlib` C standard library alternative
 	* Pathetic Glib copycat
-* `amoebus` display server
-	* Pathetic Wayland copycat
-	* Wider range of protocols more suitable for the desktop
-	* Better typing
+* `amoebus` message bus
+	* Filesystem-like structure
+	* Ability for an object to support multiple interfaces
+	* Automatic generation of C bindings
+* `moment` display server
+	* Uses `amoebus` to communicate
+	* Wide range of protocols most suitable for the desktop
 	* Basic video card support via dumb buffers
 * `B--` programming language
 	* Basic C features
