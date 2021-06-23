@@ -189,5 +189,6 @@ the end.
 [hbomberguy](https://www.youtube.com/channel/UClt01z1wHHT7c5lKcU8pxRQ)
 [Bread Defender](https://www.youtube.com/channel/UCnEYekfQHxW1VEW4oecaWcA)
 [Angelica](https://www.youtube.com/channel/UCq7jt5BQ6LTULnRbLca0XdQ)
+[Kevin Powell](https://www.youtube.com/user/KepowOb)
 
 {{% /links %}}
