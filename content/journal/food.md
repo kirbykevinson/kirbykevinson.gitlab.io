@@ -130,3 +130,32 @@ place. It literally tastes like stale sour cream. Please don't repeat
 my mistakes and don't try it.
 
 3/10
+
+## 2021-06-26: Lenta chicken nuggets
+
+Despite them being a grocery store product, they're pretty good. I'd
+probably say they're even better than KFC chicken nuggets, thus of
+course, better than McDonald's ones. Specifically, I really like the
+breadcrumb breading, which tastes much better than regular flour. The
+quality of the chicken meat itself is quite remarkable too.
+
+7/10
+
+## 2021-06-26: Wikibooks fish and chips
+
+This is the meal I wanted to try for a long time. Unfortunately, there
+were no places that sell them in my city, so the only choice I had was
+to try home-made ones. As you can see, I chose a recipe from
+Wikibooks, and I can probably say I'm satisfied. I wouldn't say we
+followed the recipe too closely because we made a few alterations such
+as not serving the thing with lemons, but to be fair, we did use cod
+despite it being one expensive son of a bitch. The meal itself turned
+out pretty good. We fucked up the chips a little bit, so they weren't
+as good as, for example, KFC fries, but still they were pretty edible.
+The fish was fantastic though. It didn't look quite like the picture
+on Wikibooks (specifically, the batter was more gray than brown), but
+it didn't affect the taste in any way. Overall, I'd say it's pretty
+good, and I would completely justify eating food like this everyday
+have I been British.
+
+8/10
