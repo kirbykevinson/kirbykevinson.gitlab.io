@@ -97,6 +97,11 @@
   > Original image (Neovim logo): Copyright 2014 Jason Long
   >
   > This modified image: Copyright 2020 Kirby Kevinson
+* `static/images/buttons/slap-like-now.png` (the hand) -
+  [source](https://github.com/twitter/twemoji)
+  > Original image: Copyright 2019 Twitter, Inc and other contributors
+  >
+  > This modified image: Copyright 2020 Kirby Kevinson
 * Cover art derived from public domain works
 	* `static/images/cover-art/mfsb-love-is-the-message.jpg` -
 	  [source](https://publicdomainpictures.net/en/view-image.php?image=224135&picture=atomic-war)
