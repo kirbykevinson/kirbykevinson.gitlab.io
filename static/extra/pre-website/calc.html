@@ -1,56 +1,9 @@
-<meta charset="utf-8">
+<!DOCTYPE html>
 
-<style>
-
-/*--- CALCULATOR'S APPEAARNCE ---*/
-.calc {
-padding : 10px;
-display : inline-block;
-font-family : 'Tahoma';
-font-size : 24px;
-text-align : center;
-background : linear-gradient(to top, #cccccc, #ffffff);
-border-radius : 10px;
-box-shadow : 0px 5px 5px 5px #F0F0F0;
-}
-
-.calc input, .calc textarea {
-font-family : 'Tahoma';
-font-size : 24px;
-}
-/*--- CALCULATOR'S APPEARANCE ---*/
-
-</style>
-
-<script>
-var factorial = function factorialis (m) {
-var n = parseInt(m);
-return (n < 0 || m != n) ? NaN : (n == 0 ? 1 : n * factorialis(n - 1));
-}
-</script>
-
-<form class="calc" method="POST" name="cform">
-<!---->
-
-<input name="first" placeholder="First number" type="text">
-<input name="second" placeholder="Second number" type="text"> <br>
-Choose an operation :
-<div>
-
-<button onclick="var pluss = +(document.cform.first.value) + +(document.cform.second.value); document.cform.result.value = pluss; void(0); return false;">+</button>
-<button onclick="var pluss = +(document.cform.first.value) - +(document.cform.second.value); document.cform.result.value = pluss; void(0); return false;">-</button>
-<button onclick="var pluss = +(document.cform.first.value) * +(document.cform.second.value); document.cform.result.value = pluss; void(0); return false;">*</button>
-<button onclick="var pluss = +(document.cform.first.value) / +(document.cform.second.value); document.cform.result.value = pluss; void(0); return false;">/</button>
-<button onclick="var pluss = Math.sin(+(document.cform.first.value)); document.cform.result.value = pluss; void(0); return false;">Sin</button>
-<button onclick="var pluss = Math.cos(+(document.cform.first.value)); document.cform.result.value = pluss; void(0); return false;">Cos</button>
-<button onclick="var pluss = factorial(+(document.cform.first.value)); document.cform.result.value = pluss; void(0); return false;">n!</button>
-<button onclick="var pluss = Math.pow(+(document.cform.first.value), +(document.cform.second.value)); document.cform.result.value = pluss; void(0); return false;">x^y</button>
-<button onclick="var pluss = Math.sqrt(+(document.cform.first.value)); document.cform.result.value = pluss; void(0); return false;">√n</button>
-<input type="reset" value="C">
-</div>
-
-<textarea disabled value="Result" name="result" rows="3" cols="10"></textarea>
-<!---->
-</form>
-
-<!-- Made by Kirby Kevinson -->
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="robots" content="noindex">
+		<meta http-equiv="refresh" content="0; url=https://cringezone.kevinson.org/pre-website/calc.html">
+	</head>
+</html>

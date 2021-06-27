@@ -41,7 +41,7 @@ mental health got even worse, and everyone gave even less shit.
 
 [horrible projects]: https://gitlab.com/kirbykevinson/BBrowser
 [a video game]: https://gitlab.com/kirbykevinson/ToberUberStobe/
-[this website]: /extra/old-designs/3.html
+[this website]: https://cringezone.kevinson.org/old-website/03-slightly-less-material-design/
 
 ## 2018
 

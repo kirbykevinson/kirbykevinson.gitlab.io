@@ -67,7 +67,7 @@ domain backgrounds. The thing itself was completely annihilated with
 absolutely no backups of anything left, but, luckily, I remembered it
 in great detail, so here's [the screenplay].
 
-[the screenplay]: /extra/text-files/tus-the-movie.txt
+[the screenplay]: https://cringezone.kevinson.org/text-files/tus-the-movie.txt
 
 ## 2018: W\*\*\*\* of M\*\*\*\*\*\*\*
 
