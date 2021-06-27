@@ -98,7 +98,7 @@
   >
   > This modified image: Copyright 2020 Kirby Kevinson
 * `static/images/buttons/slap-like-now.png` (the hand) -
-  [source](https://github.com/twitter/twemoji)
+  [source](https://github.com/twitter/twemoji/blob/ff403353b5882d6d7037e289c7dc98e9b9747e2b/assets/svg/1f44d.svg)
   > Original image: Copyright 2019 Twitter, Inc and other contributors
   >
   > This modified image: Copyright 2020 Kirby Kevinson
