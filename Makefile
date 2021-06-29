@@ -24,7 +24,6 @@ neocities: build
 		-e extra/old-designs\
 		-e extra/pedometer\
 		-e extra/pre-website\
-		-e extra/text-files\
 		-e extra/user-agent-test\
 		-e extra/www\
 		-e fonts\
