@@ -72,18 +72,24 @@ hr {
 }
 
 h1, h2, h3, h4, h5, h6 {
+	position: relative;
 	font-family: var(--heading-fonts);
 }
 
 * > .heading-anchor {
-	display: none;
+	display: inline-block;
+	position: absolute;
+	top: 0.25em;
+	left: -1em;
+	width: 1em;
+	font-size: 0.75em;
+	opacity: 0;
 }
 *:hover > .heading-anchor {
-	display: inline;
+	opacity: 1;
 }
 
 .heading-anchor::after {
-	opacity: 0.5;
 	content: "#";
 }
 
