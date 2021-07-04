@@ -38,7 +38,6 @@
 	--background-color: #1E191D;
 	--foreground-color: #FFFFFFCF;
 	--subtle-color: #FFFFFF3F;
-	--shadow-color: #0000007F;
 	--accent-color: #FBAAC0;
 }
 @media (prefers-color-scheme: light) {
