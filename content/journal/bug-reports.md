@@ -53,3 +53,4 @@ to at least. Here are all of them:
 * 2021-06-04: https://gitlab.freedesktop.org/wayland/wayland-protocols/-/issues/51
 * 2021-06-10: https://gitlab.gnome.org/GNOME/gnome-shell/-/issues/4370
 * 2021-06-12: https://gitlab.gnome.org/GNOME/mutter/-/issues/1845
+* 2021-07-11: https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/1405
