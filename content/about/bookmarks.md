@@ -94,6 +94,7 @@ backgroundFallback: "#333399"
 
 {{% links %}}
 
+[BetaWiki](https://betawiki.net/wiki/Main_Page)
 [Esolang](https://esolangs.org/wiki/Main_Page)
 [MDN Web Docs](https://developer.mozilla.org/en-US/)
 [The Anglish Moot](https://anglish.fandom.com/wiki/Main_leaf)
