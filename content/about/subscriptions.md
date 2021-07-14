@@ -190,5 +190,6 @@ the end.
 [Bread Defender](https://www.youtube.com/channel/UCnEYekfQHxW1VEW4oecaWcA)
 [Angelica](https://www.youtube.com/channel/UCq7jt5BQ6LTULnRbLca0XdQ)
 [Kevin Powell](https://www.youtube.com/user/KepowOb)
+[Sumsub](https://www.youtube.com/channel/UCVraU9wuIQr8H1B0kcUD7Tw)
 
 {{% /links %}}
